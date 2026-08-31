@@ -8,11 +8,19 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
       - name: Frontend syntax
         run: |
           node --check app.js
           node --check production.js
           node --check intelligence.js
+          node --check fallback.js
+          python -m py_compile scripts/refresh_news.py
+          python -m json.tool data/news.json >/dev/null
+          python -m json.tool data/grants.json >/dev/null
+          python -m json.tool data/institutional-controls.json >/dev/null
           grep -q "CryptoPilot" index.html
       - name: Worker dependencies and tests
         working-directory: worker
