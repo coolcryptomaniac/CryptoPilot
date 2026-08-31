@@ -21,14 +21,15 @@ Public app:
 - Founder/invite-only Pilot defaults: **$25/order, $100 rolling 24h, 5 orders/day**, spot only, no leverage; operator can lower these limits.
 - Coinbase public ticker WebSocket plus REST fallback and historical backtesting.
 - USDC subscriptions through Coinbase Payment Acceptance.
-- **USDT subscriptions** through user-signed EVM ERC-20 transfers with independent on-chain receipt/log verification.
+- **USDT subscriptions** through user-signed EVM ERC-20 transfers with chain/receipt/log/amount/expiry verification.
 - Tether WDK self-custody integration seam for wallets/agents/USD₮0 bridging.
 - Curated CoinDesk, Cointelegraph and Investing.com newsroom with hourly GitHub-only cache fallback.
 - Grant Radar including Tether, TRON, Solana, Circle/Arc, Base, BNB, Ethereum, Stellar, Starknet, Celo, XRPL, Arbitrum, Avalanche, NEAR, Optimism, TON, DFINITY and Cardano programs/monitoring.
 - Institutional room with control posture, risk reports and audit export.
-- RWA/crypto infrastructure registry including Centrifuge, DefiLlama, Pyth, Circle CCTP V2 and Kalshi **market-data-only** signals.
+- RWA/crypto infrastructure registry including Centrifuge, DefiLlama, Pyth, Circle CCTP V2 and Kalshi **public market-data-only** signals.
 - RoamWise founder-ecosystem partner/reference integration.
 - Metered **CryptoPilot API** with hashed API keys and per-plan quotas.
+- Published `openapi.yaml` for B2B integration.
 - CPT remains a capped **testnet utility prototype**. No public sale/yield/fundraising contract is enabled.
 
 ## New frontend tabs in 2.2
@@ -50,15 +51,15 @@ Public app:
 7. Every non-paper order needs an idempotency key and deterministic risk checks.
 8. Pilot rejects leverage, margin, futures and borrowing.
 9. AI/news/prediction signals cannot bypass the risk constitution.
-10. Kalshi is used only as optional prediction-market signal data; CryptoPilot does not autonomously place event-contract wagers.
+10. Kalshi is used only as public prediction-market signal data; CryptoPilot does not expose authenticated Kalshi trading.
 11. RWA discovery is read-only; investment/redemption requires separate user signing and eligibility handling.
 12. Grant readiness scores are preparation guidance, never eligibility/funding guarantees.
 
 ## Production deployment
 
-Use the complete operator runbook:
+Use the current operator runbook:
 
-[`docs/PRODUCTION_DEPLOYMENT_V22.md`](docs/PRODUCTION_DEPLOYMENT_V22.md)
+[`docs/PRODUCTION_DEPLOYMENT.md`](docs/PRODUCTION_DEPLOYMENT.md)
 
 Short version:
 
@@ -74,7 +75,7 @@ npx wrangler secret put CREDENTIAL_MASTER_KEY
 npx wrangler deploy
 ```
 
-A manual GitHub Actions deployment workflow also exists at `.github/workflows/deploy-worker.yml` and uses `CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID` repository secrets.
+A manual GitHub Actions deployment workflow exists at `.github/workflows/deploy-worker.yml` and uses `CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID` repository secrets.
 
 ## Stablecoin payments
 
@@ -84,13 +85,13 @@ Server-controlled subscription prices remain:
 - Pro — 35 USDC/USDT monthly
 - Collective — 100 USDC/USDT monthly
 
-USDC is handled through Coinbase Payment Acceptance. USDT uses configurable EVM token/network/merchant settings and verifies the transfer on-chain before activating a subscription.
+USDC is handled through Coinbase Payment Acceptance. USDT uses configurable EVM token/network/merchant settings and verifies the actual RPC chain and transfer on-chain before activating a subscription.
 
 Never hardcode a token contract simply because it is called USDT. Configure and verify the official token address for the exact network you intend to support.
 
 ## B2B CryptoPilot API
 
-See [`docs/API_BUSINESS.md`](docs/API_BUSINESS.md).
+See [`docs/API_BUSINESS.md`](docs/API_BUSINESS.md) and [`openapi.yaml`](openapi.yaml).
 
 Developer keys are created after wallet login and stored only as SHA-256 hashes. Default rolling-day quotas:
 
@@ -127,21 +128,22 @@ Implemented/adapter-ready:
 - Circle CCTP V2 status
 - Centrifuge public RWA GraphQL
 - DefiLlama protocol context
-- Pyth authenticated Hermes data
-- Kalshi prediction-market **data**
+- Pyth authenticated upgraded Hermes data
+- Kalshi public prediction-market data
 - Telegram status/alerts
 - RoamWise partner/referral metadata
 
 Integration targets tracked in the platform registry include Alchemy Wallet APIs, Jupiter and LI.FI.
 
-## Grant and institutional readiness
+## Funding and institutional readiness
 
-Related docs:
+Use:
 
+- [`docs/FUNDING_READINESS.md`](docs/FUNDING_READINESS.md)
 - [`docs/grant-readiness.md`](docs/grant-readiness.md)
 - [`docs/institutional-readiness.md`](docs/institutional-readiness.md)
 - [`docs/token-chain-strategy-2030.md`](docs/token-chain-strategy-2030.md)
-- [`docs/PRODUCTION_DEPLOYMENT_V22.md`](docs/PRODUCTION_DEPLOYMENT_V22.md)
+- [`docs/PRODUCTION_DEPLOYMENT.md`](docs/PRODUCTION_DEPLOYMENT.md)
 
 The Grant Passport deliberately marks unresolved gaps such as external audits, production Worker/D1 deployment, traction/metrics, founder/team evidence, application budgets, chain-specific integrations, legal/KYB/AML work, privacy/terms and incident response.
 
