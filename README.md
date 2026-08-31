@@ -1,84 +1,111 @@
 # CryptoPilot
 
-CryptoPilot is a lightweight **paper-first AI crypto portfolio autopilot**: adaptive risk profiling, portfolio analytics, news signals, social investing circles, Telegram hooks, USDC subscription hooks and exchange/DEX adapters.
+CryptoPilot is a lightweight **paper-first AI crypto portfolio autopilot** with adaptive risk, market/news intelligence, social investing circles, exchange/DEX adapters, Telegram status hooks, and USDC subscriptions.
 
-## Test the frontend
+## Production engineering layer 2.0
 
-The repository is configured for GitHub Pages. After Pages is enabled for **GitHub Actions**, the expected URL is:
+This version moves V1.5 toward a production-shaped architecture while keeping live trading **off by default**.
+
+### Added
+
+- Cloudflare D1 schema for users, wallet challenges, hashed sessions, encrypted exchange connections, risk profiles, portfolios, orders, subscriptions, audit events, and strategy history.
+- Wallet-signature authentication. Login signatures explicitly do **not** authorize trades or transfers.
+- AES-256-GCM encryption for per-user exchange credentials using a Worker-only master key.
+- Coinbase Advanced Trade production signing with short-lived CDP JWTs.
+- Binance Spot + Spot Testnet HMAC adapter.
+- Kraken signed `AddOrder` adapter.
+- Robinhood Crypto Ed25519 adapter (regional eligibility applies).
+- 0x Swap API v2 quote routing; the user's wallet signs the DEX transaction.
+- Order idempotency, adaptive per-order caps, rolling daily-order circuit breaker, emergency pause, and two-stage live enablement.
+- Coinbase public ticker WebSocket enhancement plus REST price fallback.
+- Coinbase candle-backed SMA baseline backtesting before strategy graduation.
+- Coinbase Payment Acceptance session/webhook plumbing for 10 / 35 / 100 USDC subscription tiers, gated on merchant onboarding and secrets.
+- Telegram remains status/alerts only; it cannot place trades.
+- Reown/WalletConnect integration seam through the same EIP-1193 wallet-auth flow.
+
+## Frontend
+
+After GitHub Pages is enabled with **GitHub Actions** as the source, the expected URL is:
 
 `https://coolcryptomaniac.github.io/CryptoPilot/`
 
-The frontend works without credentials in paper/demo mode. Open **Connect** to save the URL of a deployed Worker backend.
+The Pages workflow injects `production.js` into the deployed site. The original UI still works in local/demo mode with no backend.
 
-## What is implemented
-
-- Responsive PWA-style dashboard with Neon and **Akatsuki** themes.
-- Adaptive risk score from explicit investment style, investable-net-worth band, drawdown tolerance, hard allocation cap and paper-trade feedback.
-- Hard risk rules override learned preferences.
-- Coinbase public spot-price fallback in the browser.
-- News/signal demo + server route for GDELT news retrieval.
-- Paper orders and bot commands.
-- Social circles for research, shared watchlists and paper portfolios; no pooled custody in V1.
-- Exchange registry for Coinbase, Binance, Kraken and Robinhood Crypto.
-- **Binance Spot/Testnet** signed-order backend implementation (live remains policy-gated).
-- **Kraken REST AddOrder** signed-order backend implementation (live remains policy-gated).
-- Coinbase Advanced Trade and Robinhood adapters are credential/status scaffolds pending their asymmetric signing implementation.
-- **0x Swap API v2** quote backend; the user wallet should sign DEX transactions.
-- Telegram webhook/response skeleton.
-- USDC subscription UI: Free, 10, 35 and 100 USDC tiers. Coinbase Payment Acceptance hook is intentionally prevented from charging until operator/onboarding configuration is complete.
-- CPT testnet ERC-20 prototype: fixed/capped 100M supply, no sale/yield contract.
-
-## Safety architecture
+## Safety model
 
 1. Paper mode is the default.
-2. Set `ENABLE_LIVE_TRADING=true` only on a secured backend after testing.
-3. Never expose exchange secrets to GitHub Pages/browser code.
-4. Create exchange credentials without withdrawal permission whenever the exchange supports it.
-5. Use exchange testnets/sandboxes first.
-6. AI/news output is advisory; deterministic portfolio/risk rules approve or reject orders.
-7. DEX transactions should be signed by the user's own wallet. CryptoPilot should not store seed phrases/private keys.
+2. Exchange secrets never belong in GitHub Pages/browser code.
+3. User exchange credentials are encrypted at rest in D1.
+4. Exchange keys should have no withdrawal/transfer permission; CryptoPilot rejects those permission labels.
+5. Real execution requires both `ENABLE_LIVE_TRADING=true` on the Worker **and** a separate authenticated per-connector live switch.
+6. Binance Spot Testnet is the preferred first execution path.
+7. Every non-paper order requires an idempotency key and deterministic risk checks before the exchange call.
+8. AI/news output cannot bypass the risk constitution.
+9. DEX transactions are signed by the user's own wallet; CryptoPilot never stores seed phrases/private keys.
+10. CPT remains a capped **testnet utility prototype**. No public sale/yield/fundraising contract is enabled.
 
-## Worker deployment
+## Worker setup
 
 ```bash
 cd worker
 npm install
-npx wrangler login
-npx wrangler secret put BINANCE_API_KEY
-npx wrangler secret put BINANCE_API_SECRET
-npx wrangler secret put KRAKEN_API_KEY
-npx wrangler secret put KRAKEN_API_SECRET
-npx wrangler secret put ZEROX_API_KEY
-npx wrangler secret put TELEGRAM_BOT_TOKEN
-npm run deploy
+npx wrangler d1 create cryptopilot-db
 ```
 
-Keep `ENABLE_LIVE_TRADING = "false"` during development. Binance defaults to testnet in `wrangler.toml`.
+Insert the returned D1 `database_id` into `worker/wrangler.toml`, uncomment the `[[d1_databases]]` block, then:
 
-## Exchange notes
+```bash
+npm run db:migrate:local
+npm run db:migrate:remote
+```
 
-- Coinbase Advanced Trade uses short-lived JWT authentication; do not sign this from the public frontend.
-- Binance supports REST/WebSocket trading and Spot Testnet; this repo signs REST orders server-side.
-- Kraken private REST endpoints require nonce + API-Sign; this repo includes signing for `AddOrder`.
-- Robinhood Crypto's official trading API is currently US-customer-only; keep it as a regional adapter, not the default for India/global users.
-- 0x is the first DEX adapter because one integration can aggregate many EVM liquidity sources; the API returns transaction data, while the user wallet signs.
+Generate the encryption key outside Git:
 
-## CPT token model
+```bash
+openssl rand -base64 32
+npx wrangler secret put CREDENTIAL_MASTER_KEY
+```
 
-The included `CryptoPilotToken.sol` is a **testnet utility prototype**, not a fundraising sale contract. Functional design lessons:
+Optional integrations:
 
-- BNB-like: optional subscription/fee discounts and ecosystem rewards.
-- ETH/SOL-like: utility should come from actual app activity, not promised appreciation.
-- Community tokens: contribution/reputation rewards and bounded governance.
+```bash
+npx wrangler secret put ZEROX_API_KEY
+npx wrangler secret put TELEGRAM_BOT_TOKEN
+npx wrangler secret put COINBASE_PAYMENT_API_KEY_ID
+npx wrangler secret put COINBASE_PAYMENT_API_KEY_SECRET
+npx wrangler secret put COINBASE_WEBHOOK_SECRET
+```
 
-Avoid guaranteed yield, revenue share, buyback promises or guaranteed price appreciation. A public token sale/fundraise can trigger securities, VDA, AML/KYC, tax and consumer-protection obligations depending on jurisdiction; obtain jurisdiction-specific legal review before enabling one.
+See [`docs/production-setup.md`](docs/production-setup.md) for the full deployment/security checklist.
 
-## Next production milestones
+## User exchange credential shapes
 
-- Server-side Coinbase JWT signing and order routes.
-- Robinhood Ed25519 signing adapter and regional eligibility checks.
-- D1/Postgres persistence, auth, encrypted credential vault and audit log.
-- WalletConnect/embedded wallet integration for user-signed DEX trades.
-- Verified stablecoin checkout after merchant onboarding.
-- WebSocket market data + event queue + circuit breakers.
-- Backtesting and per-strategy performance attribution before live-autopilot launch.
+Credentials are saved through authenticated `/api/exchanges/:exchange` requests and encrypted before D1 storage. Saving/replacing credentials automatically disables that connector's live switch.
+
+- Coinbase: `apiKeyId`, `apiKeySecret`
+- Binance: `apiKey`, `apiSecret`
+- Kraken: `apiKey`, `apiSecret`
+- Robinhood Crypto: `apiKey`, `privateKeyBase64`
+
+## Core API
+
+- `POST /api/auth/wallet/challenge`
+- `POST /api/auth/wallet/verify`
+- `GET /api/auth/me`
+- `GET|POST /api/risk/profile`
+- `POST /api/risk/pause` / `resume`
+- `GET /api/exchanges`
+- `POST|DELETE /api/exchanges/:exchange`
+- `POST /api/exchanges/:exchange/live`
+- `POST /api/orders/:exchange`
+- `GET /api/dex/quote`
+- `GET /api/market/candles`
+- `POST /api/backtest`
+- `POST /api/subscription/checkout`
+- `GET /api/subscription`
+- `POST /api/webhooks/coinbase-payments`
+- `POST /api/telegram/webhook`
+
+## Before real-money launch
+
+Keep `ENABLE_LIVE_TRADING = "false"` until D1 is deployed, authentication/emergency pause/idempotency are tested, Binance testnet passes, provider failure paths and payment webhooks are verified, rate limiting/abuse controls are added, dependency/security review is complete, and applicable legal/compliance requirements for served jurisdictions are understood.
