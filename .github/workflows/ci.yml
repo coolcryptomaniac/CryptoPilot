@@ -11,7 +11,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Frontend syntax
+      - name: Frontend syntax and UI integrity
         run: |
           node --check app.js
           node --check production.js
@@ -22,7 +22,8 @@ jobs:
           node --check hyperliquid-trade.js
           node --check fallback.js
           node --check web3/tether-wdk.example.mjs
-          python -m py_compile scripts/refresh_news.py
+          python -m py_compile scripts/refresh_news.py scripts/check_ui.py
+          python scripts/check_ui.py
           python -m json.tool data/news.json >/dev/null
           python -m json.tool data/grants.json >/dev/null
           python -m json.tool data/institutional-controls.json >/dev/null
