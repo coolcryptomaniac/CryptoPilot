@@ -49,6 +49,5 @@ USDT_MIN_CONFIRMATIONS = "2"
 # USDT_PAYMENT_TARGET_ADDRESS
 # USDT_CHAIN_ID
 # PYTH_API_KEY
-# KALSHI_API_KEY_ID
-# KALSHI_PRIVATE_KEY_PEM
+# Kalshi public market discovery needs no API key; authenticated trading is intentionally not integrated.
 # Optional future connectors: ALCHEMY_API_KEY, JUPITER_API_KEY, LIFI_API_KEY
