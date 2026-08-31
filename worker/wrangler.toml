@@ -4,11 +4,27 @@ compatibility_date = "2026-08-01"
 compatibility_flags = ["nodejs_compat"]
 
 [vars]
+# Full live mode remains OFF by default.
 ENABLE_LIVE_TRADING = "false"
 MAX_LIVE_ORDER_USD = "250"
 MAX_DAILY_LIVE_ORDERS = "20"
+
+# Founder/invite-only small-real-money pilot. Turning this on still requires
+# PILOT_ALLOWED_WALLETS and per-connector live_enabled=true.
+ENABLE_PILOT_TRADING = "false"
+PILOT_MAX_ORDER_USD = "25"
+PILOT_MAX_DAILY_NOTIONAL_USD = "100"
+PILOT_MAX_DAILY_ORDERS = "5"
+
+# USDC Coinbase Payment Acceptance defaults.
 PAYMENT_TARGET_NETWORK = "base"
 PAYMENT_SETTLEMENT_ASSET = "usdc"
+
+# USDT EVM verification defaults. Set actual chain/token/merchant values as
+# Worker vars or secrets for the low-fee EVM network you lawfully support.
+USDT_NETWORK = "evm"
+USDT_DECIMALS = "6"
+USDT_MIN_CONFIRMATIONS = "2"
 
 # Create D1 first, then uncomment this block and insert the real database_id:
 # [[d1_databases]]
@@ -19,12 +35,20 @@ PAYMENT_SETTLEMENT_ASSET = "usdc"
 
 # Add secrets with `wrangler secret put NAME`; never commit them:
 # CREDENTIAL_MASTER_KEY  (base64-encoded 32 random bytes)
+# PILOT_ALLOWED_WALLETS  (comma-separated EVM wallet addresses)
 # ZEROX_API_KEY
 # TELEGRAM_BOT_TOKEN
 # COINBASE_PAYMENT_API_KEY_ID
 # COINBASE_PAYMENT_API_KEY_SECRET
 # COINBASE_WEBHOOK_SECRET
 # PAYMENT_TARGET_ACCOUNT_ID  OR PAYMENT_TARGET_ADDRESS
-# PAYMENT_TARGET_ADDRESS
 # PAYMENT_SUCCESS_URL
 # PAYMENT_FAILURE_URL
+# USDT_PAYMENT_RPC_URL
+# USDT_TOKEN_ADDRESS
+# USDT_PAYMENT_TARGET_ADDRESS
+# USDT_CHAIN_ID
+# PYTH_API_KEY
+# KALSHI_API_KEY_ID
+# KALSHI_PRIVATE_KEY_PEM
+# Optional future connectors: ALCHEMY_API_KEY, JUPITER_API_KEY, LIFI_API_KEY
