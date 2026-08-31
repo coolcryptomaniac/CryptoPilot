@@ -22,8 +22,8 @@ jobs:
       - name: Build static site
         run: |
           mkdir -p _site
-          cp index.html app.js production.js manifest.webmanifest _site/
-          sed -i 's#</body>#<script src="production.js"></script></body>#' _site/index.html
+          cp index.html app.js production.js intelligence.js manifest.webmanifest _site/
+          sed -i 's#</body>#<script src="production.js"></script><script src="intelligence.js"></script></body>#' _site/index.html
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

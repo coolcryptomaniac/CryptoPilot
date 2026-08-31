@@ -4,6 +4,8 @@ import { authChallengeMessage } from '../lib/auth.js';
 import { backtestSmaCross } from '../lib/market.js';
 import { riskLimits,riskProfile } from '../lib/risk.js';
 import { safeEqualHex } from '../lib/util.js';
+import { parseRss } from '../lib/news.js';
+import { grantRadar } from '../lib/grants.js';
 
 test('risk score stays inside constitution bounds',()=>{
   assert.equal(riskProfile({style:'Conservative',networth:10000,drawdown:5,singleCap:5,lessRiskClicks:10}),15);
@@ -21,3 +23,5 @@ test('SMA baseline produces finite deterministic metrics',()=>{
   const candles=Array.from({length:80},(_,i)=>({time:i,close:100+Math.sin(i/4)*8+i*.15})),result=backtestSmaCross(candles,{fast:5,slow:12,capital:10000,feeBps:20});
   assert.equal(result.strategy,'sma-cross');assert.equal(result.candles,80);assert.ok(Number.isFinite(result.finalValue));assert.ok(result.maxDrawdownPct>=0);
 });
+test('RSS parser keeps headline link and short excerpt only',()=>{const xml='<rss><channel><item><title><![CDATA[Test &amp; BTC]]></title><link>https://example.com/a</link><pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate><description><![CDATA[<p>Short summary.</p>]]></description></item></channel></rss>',x=parseRss(xml,{id:'x',name:'Example'},10);assert.equal(x.length,1);assert.equal(x[0].title,'Test & BTC');assert.equal(x[0].summary,'Short summary.');});
+test('grant radar exposes readiness gaps rather than eligibility claims',()=>{const r=grantRadar({ecosystem:'TRON'});assert.equal(r.grants.length,1);assert.ok(r.grants[0].readiness.missing.includes('tronIntegration'));assert.match(r.disclaimer,/not eligibility/i);});

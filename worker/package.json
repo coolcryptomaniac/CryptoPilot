@@ -1,13 +1,13 @@
 {
   "name": "cryptopilot-worker",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "private": true,
   "type": "module",
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
     "test": "node --test test/*.test.mjs",
-    "check": "node --check index.js && node --check lib/util.js && node --check lib/auth.js && node --check lib/risk.js && node --check lib/vault.js && node --check lib/exchanges.js && node --check lib/market.js && node --check lib/payments.js && npm test",
+    "check": "node --check index.js && node --check lib/util.js && node --check lib/auth.js && node --check lib/risk.js && node --check lib/vault.js && node --check lib/exchanges.js && node --check lib/market.js && node --check lib/payments.js && node --check lib/news.js && node --check lib/grants.js && node --check lib/institutional.js && npm test",
     "db:migrate:local": "wrangler d1 migrations apply cryptopilot-db --local",
     "db:migrate:remote": "wrangler d1 migrations apply cryptopilot-db --remote"
   },
