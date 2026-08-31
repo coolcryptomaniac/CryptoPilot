@@ -1,14 +1,30 @@
 name = "cryptopilot-api"
 main = "index.js"
 compatibility_date = "2026-08-01"
+compatibility_flags = ["nodejs_compat"]
 
 [vars]
 ENABLE_LIVE_TRADING = "false"
-BINANCE_TESTNET = "true"
+MAX_LIVE_ORDER_USD = "250"
+MAX_DAILY_LIVE_ORDERS = "20"
+PAYMENT_TARGET_NETWORK = "base"
+PAYMENT_SETTLEMENT_ASSET = "usdc"
 
-# Add secrets with `wrangler secret put NAME` rather than committing them:
-# BINANCE_API_KEY, BINANCE_API_SECRET
-# KRAKEN_API_KEY, KRAKEN_API_SECRET
-# COINBASE_API_KEY, COINBASE_API_SECRET
-# ROBINHOOD_API_KEY, ROBINHOOD_PRIVATE_KEY
-# ZEROX_API_KEY, TELEGRAM_BOT_TOKEN, COINBASE_PAYMENT_BEARER
+# Create D1 first, then uncomment this block and insert the real database_id:
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "cryptopilot-db"
+# database_id = "<YOUR_D1_DATABASE_ID>"
+# migrations_dir = "migrations"
+
+# Add secrets with `wrangler secret put NAME`; never commit them:
+# CREDENTIAL_MASTER_KEY  (base64-encoded 32 random bytes)
+# ZEROX_API_KEY
+# TELEGRAM_BOT_TOKEN
+# COINBASE_PAYMENT_API_KEY_ID
+# COINBASE_PAYMENT_API_KEY_SECRET
+# COINBASE_WEBHOOK_SECRET
+# PAYMENT_TARGET_ACCOUNT_ID  OR PAYMENT_TARGET_ADDRESS
+# PAYMENT_TARGET_ADDRESS
+# PAYMENT_SUCCESS_URL
+# PAYMENT_FAILURE_URL

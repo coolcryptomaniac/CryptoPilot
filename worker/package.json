@@ -1,1 +1,22 @@
-{"name":"cryptopilot-worker","private":true,"type":"module","scripts":{"dev":"wrangler dev","deploy":"wrangler deploy"},"devDependencies":{"wrangler":"^4.0.0"}}
+{
+  "name": "cryptopilot-worker",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "node --test test/*.test.mjs",
+    "check": "node --check index.js && node --check lib/util.js && node --check lib/auth.js && node --check lib/risk.js && node --check lib/vault.js && node --check lib/exchanges.js && node --check lib/market.js && node --check lib/payments.js && npm test",
+    "db:migrate:local": "wrangler d1 migrations apply cryptopilot-db --local",
+    "db:migrate:remote": "wrangler d1 migrations apply cryptopilot-db --remote"
+  },
+  "dependencies": {
+    "@coinbase/cdp-sdk": "1.55.0",
+    "tweetnacl": "1.0.3",
+    "viem": "2.56.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

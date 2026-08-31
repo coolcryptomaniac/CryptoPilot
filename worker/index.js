@@ -1,15 +1,77 @@
-const json=(data,status=200)=>new Response(JSON.stringify(data,null,2),{status,headers:{'content-type':'application/json','access-control-allow-origin':'*','access-control-allow-headers':'content-type,authorization','access-control-allow-methods':'GET,POST,OPTIONS'}});
-const te=new TextEncoder();
-async function hmacHex(secret,message){const k=await crypto.subtle.importKey('raw',te.encode(secret),{name:'HMAC',hash:'SHA-256'},false,['sign']);const sig=await crypto.subtle.sign('HMAC',k,te.encode(message));return [...new Uint8Array(sig)].map(b=>b.toString(16).padStart(2,'0')).join('')}
-async function sha256(data){return new Uint8Array(await crypto.subtle.digest('SHA-256',data))}
-function b64ToBytes(s){const bin=atob(s);return Uint8Array.from(bin,c=>c.charCodeAt(0))}
-function bytesToB64(bytes){let s='';bytes.forEach(b=>s+=String.fromCharCode(b));return btoa(s)}
-async function krakenSign(path,nonce,body,secret){const hash=await sha256(te.encode(nonce+body)),p=te.encode(path),msg=new Uint8Array(p.length+hash.length);msg.set(p);msg.set(hash,p.length);const key=await crypto.subtle.importKey('raw',b64ToBytes(secret),{name:'HMAC',hash:'SHA-512'},false,['sign']);return bytesToB64(new Uint8Array(await crypto.subtle.sign('HMAC',key,msg)))}
-async function coinbaseSandboxOrder(o){const body={client_order_id:o.client_order_id||crypto.randomUUID(),product_id:o.product_id||'BTC-USD',side:(o.side||'BUY').toUpperCase(),order_configuration:o.order_configuration||{market_market_ioc:{quote_size:String(o.quote_size||'10')}}};const r=await fetch('https://api-sandbox.coinbase.com/api/v3/brokerage/orders',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(body)});return{status:r.status,data:await r.json()}}
-async function binanceOrder(env,o){if(!env.BINANCE_API_KEY||!env.BINANCE_API_SECRET)throw new Error('Binance credentials not configured');const endpoint=env.BINANCE_TESTNET==='true'?'https://testnet.binance.vision':'https://api.binance.com';const p=new URLSearchParams({symbol:o.symbol,side:o.side,type:o.type||'MARKET',timestamp:String(Date.now())});if(o.quoteOrderQty)p.set('quoteOrderQty',String(o.quoteOrderQty));if(o.quantity)p.set('quantity',String(o.quantity));p.set('signature',await hmacHex(env.BINANCE_API_SECRET,p.toString()));const r=await fetch(`${endpoint}/api/v3/order`,{method:'POST',headers:{'X-MBX-APIKEY':env.BINANCE_API_KEY,'content-type':'application/x-www-form-urlencoded'},body:p});return{status:r.status,data:await r.json()}}
-async function krakenOrder(env,o){if(!env.KRAKEN_API_KEY||!env.KRAKEN_API_SECRET)throw new Error('Kraken credentials not configured');const path='/0/private/AddOrder',nonce=String(Date.now()*1000),p=new URLSearchParams({nonce,ordertype:o.type||'market',type:(o.side||'buy').toLowerCase(),volume:String(o.volume),pair:o.pair}),body=p.toString(),sig=await krakenSign(path,nonce,body,env.KRAKEN_API_SECRET);const r=await fetch('https://api.kraken.com'+path,{method:'POST',headers:{'API-Key':env.KRAKEN_API_KEY,'API-Sign':sig,'content-type':'application/x-www-form-urlencoded'},body});return{status:r.status,data:await r.json()}}
-async function dexQuote(env,u){if(!env.ZEROX_API_KEY)throw new Error('0x API key not configured');const qs=new URLSearchParams(u.searchParams),r=await fetch(`https://api.0x.org/swap/allowance-holder/quote?${qs}`,{headers:{'0x-api-key':env.ZEROX_API_KEY,'0x-version':'v2'}});return{status:r.status,data:await r.json()}}
-async function gdelt(q){const u=new URL('https://api.gdeltproject.org/api/v2/doc/doc');u.searchParams.set('query',q||'crypto');u.searchParams.set('mode','ArtList');u.searchParams.set('format','json');u.searchParams.set('maxrecords','20');const r=await fetch(u);return{status:r.status,data:await r.json()}}
-function riskProfile(x){const style={Conservative:27,Balanced:50,Aggressive:72}[x.style]??50;let n=style+(Number(x.drawdown||18)-18)*.65+(Number(x.singleCap||28)-28)*.35-(Number(x.lessRiskClicks||0)*4);if(Number(x.networth||0)<20000)n-=6;if(Number(x.networth||0)>500000)n+=3;return Math.max(15,Math.min(82,Math.round(n)))}
-async function telegram(env,body){if(!env.TELEGRAM_BOT_TOKEN)return json({ok:false,error:'Telegram bot token not configured'},503);const msg=body.message;if(!msg?.chat?.id)return json({ok:true});const t=(msg.text||'').trim();let answer='CryptoPilot: /status, /risk, /pause. Live trading commands are disabled by default.';if(t==='/status')answer='CryptoPilot backend online. Exchange execution remains policy-gated.';if(t==='/pause')answer='Pause request received. Persisted user-level pausing requires D1/KV in production.';await fetch(`https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/sendMessage`,{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({chat_id:msg.chat.id,text:answer})});return json({ok:true})}
-export default{async fetch(request,env){if(request.method==='OPTIONS')return json({ok:true});const u=new URL(request.url);try{if(u.pathname==='/api/health')return json({ok:true,service:'CryptoPilot Worker',mode:env.ENABLE_LIVE_TRADING==='true'?'live-enabled':'paper-first'});if(u.pathname==='/api/connectors')return json({connectors:{Coinbase:{configured:!!env.COINBASE_API_KEY,sandbox:'implemented/no-auth static sandbox',production:'JWT adapter pending'},Binance:{configured:!!env.BINANCE_API_KEY,testnet:env.BINANCE_TESTNET==='true',execution:'implemented'},Kraken:{configured:!!env.KRAKEN_API_KEY,execution:'implemented'},'Robinhood Crypto':{configured:!!env.ROBINHOOD_API_KEY,execution:'adapter scaffold; US availability only'},'0x DEX':{configured:!!env.ZEROX_API_KEY,execution:'quote implemented; user wallet signs'}}});if(u.pathname==='/api/news'){const x=await gdelt(u.searchParams.get('q')||'bitcoin OR ethereum OR crypto');return json(x.data,x.status)}if(u.pathname==='/api/risk/profile'&&request.method==='POST')return json({risk:riskProfile(await request.json())});if(u.pathname==='/api/dex/quote'){const x=await dexQuote(env,u);return json(x.data,x.status)}if(u.pathname==='/api/order/coinbase-sandbox'&&request.method==='POST'){const x=await coinbaseSandboxOrder(await request.json());return json(x.data,x.status)}if(u.pathname==='/api/order/binance'&&request.method==='POST'){if(env.ENABLE_LIVE_TRADING!=='true')return json({ok:false,error:'Live trading disabled. Use Binance testnet/paper mode first.'},403);const x=await binanceOrder(env,await request.json());return json(x.data,x.status)}if(u.pathname==='/api/order/kraken'&&request.method==='POST'){if(env.ENABLE_LIVE_TRADING!=='true')return json({ok:false,error:'Live trading disabled.'},403);const x=await krakenOrder(env,await request.json());return json(x.data,x.status)}if(u.pathname==='/api/subscription/checkout'&&request.method==='POST'){const b=await request.json();if(!env.COINBASE_PAYMENT_BEARER)return json({ok:false,message:`${b.plan} is ${b.amount} USDC/month. Coinbase Payment Acceptance credentials are not configured yet.`},503);return json({ok:false,message:'Payment credential detected; complete merchant/operator onboarding before charging customers.'},501)}if(u.pathname==='/api/telegram/webhook'&&request.method==='POST')return telegram(env,await request.json());return json({error:'not found'},404)}catch(e){return json({error:e.message||String(e)},500)}}};
+import { json,requestJson,requireDb,audit,nowIso,uuid } from './lib/util.js';
+import { authUser,createWalletChallenge,verifyWalletChallenge } from './lib/auth.js';
+import { getRiskProfile,persistRiskProfile,riskLimits,riskProfile } from './lib/risk.js';
+import { listConnections,saveConnection,setLiveEnabled } from './lib/vault.js';
+import { ALLOWED_EXCHANGES,coinbaseSandboxOrder,executeOrder } from './lib/exchanges.js';
+import { backtestSmaCross,dexQuote,fetchCandles,gdelt } from './lib/market.js';
+import { createPaymentSession,processPaymentWebhook } from './lib/payments.js';
+
+function connectorCapabilities(env){
+  return {
+    Coinbase:{auth:'CDP JWT',execution:'Advanced Trade production + legacy static sandbox',userCredentials:true},
+    Binance:{auth:'HMAC SHA-256',execution:'Spot + Spot Testnet',userCredentials:true},
+    Kraken:{auth:'API-Key + API-Sign',execution:'REST AddOrder',userCredentials:true},
+    'Robinhood Crypto':{auth:'Ed25519 x-signature',execution:'Official Crypto Trading API; regional eligibility applies',userCredentials:true},
+    '0x DEX':{auth:env.ZEROX_API_KEY?'operator API key configured':'operator API key missing',execution:'quote only; user wallet signs transaction',userCredentials:false},
+    payments:{provider:'Coinbase Payment Acceptance',configured:Boolean(env.COINBASE_PAYMENT_API_KEY_ID&&env.COINBASE_PAYMENT_API_KEY_SECRET)}
+  };
+}
+async function telegram(env,body){
+  if(!env.TELEGRAM_BOT_TOKEN)return json({ok:false,error:'Telegram bot token not configured'},503);
+  const msg=body.message;if(!msg?.chat?.id)return json({ok:true});const t=(msg.text||'').trim();
+  let answer='CryptoPilot: /status, /risk, /pause. Trading commands are deliberately not accepted over Telegram.';
+  if(t==='/status')answer=`CryptoPilot backend online. Global live switch: ${env.ENABLE_LIVE_TRADING==='true'?'enabled':'off'}.`;
+  if(t==='/pause')answer='For security, pause is applied only from an authenticated app session. Telegram remains alerts/status only.';
+  await fetch(`https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/sendMessage`,{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({chat_id:msg.chat.id,text:answer})});return json({ok:true});
+}
+
+async function route(request,env){
+  if(request.method==='OPTIONS')return json({ok:true});
+  const url=new URL(request.url),path=url.pathname;
+  if(path==='/api/health')return json({ok:true,service:'CryptoPilot Worker',version:'2.0-production-layer',persistence:Boolean(env.DB),globalLiveTrading:env.ENABLE_LIVE_TRADING==='true'});
+  if(path==='/api/connectors'){const user=await authUser(request,env,false);return json({connectors:connectorCapabilities(env),userConnections:user?await listConnections(env,user.id):[]});}
+
+  if(path==='/api/auth/wallet/challenge'&&request.method==='POST')return json(await createWalletChallenge(env,(await requestJson(request)).address));
+  if(path==='/api/auth/wallet/verify'&&request.method==='POST')return json(await verifyWalletChallenge(env,await requestJson(request)));
+  if(path==='/api/auth/me'){const user=await authUser(request,env);return json({user:{id:user.id,walletAddress:user.wallet_address,email:user.email}});}
+
+  if(path==='/api/news'){const x=await gdelt(url.searchParams.get('q')||'bitcoin OR ethereum OR crypto');return json(x.data,x.status);}
+  if(path==='/api/dex/quote'){const x=await dexQuote(env,url);return json(x.data,x.status);}
+  if(path==='/api/market/candles'){const product=url.searchParams.get('product')||'BTC-USD';return json({product,candles:await fetchCandles(product,Number(url.searchParams.get('granularity')||3600))});}
+  if(path==='/api/backtest'&&request.method==='POST'){
+    const body=await requestJson(request),product=body.product||'BTC-USD',candles=await fetchCandles(product,body.granularity||3600),result=backtestSmaCross(candles,body),user=await authUser(request,env,false);
+    if(user&&env.DB)await env.DB.prepare('INSERT INTO strategy_runs(id,user_id,strategy,product_id,params_json,result_json,created_at) VALUES(?,?,?,?,?,?,?)').bind(uuid(),user.id,'sma-cross',product,JSON.stringify(body),JSON.stringify(result),nowIso()).run();
+    return json(result);
+  }
+
+  if(path==='/api/risk/profile'&&request.method==='POST'){
+    const body=await requestJson(request),user=await authUser(request,env,false);if(!user)return json({risk:riskProfile(body),persisted:false});
+    const profile=await persistRiskProfile(env,user.id,body);return json({profile,limits:riskLimits(profile,env),persisted:true});
+  }
+  if(path==='/api/risk/profile'&&request.method==='GET'){const user=await authUser(request,env),profile=await getRiskProfile(env,user.id);return json({profile,limits:riskLimits(profile,env)});}
+  if((path==='/api/risk/pause'||path==='/api/risk/resume')&&request.method==='POST'){
+    const user=await authUser(request,env),pause=path.endsWith('/pause'),body=await requestJson(request);
+    await requireDb(env).prepare('UPDATE risk_profiles SET paused=?,paused_reason=?,panic_stops=panic_stops+?,updated_at=? WHERE user_id=?').bind(pause?1:0,pause?String(body.reason||'user emergency stop'):null,pause?1:0,nowIso(),user.id).run();
+    await audit(env,user.id,pause?'risk.paused':'risk.resumed',{reason:body.reason||null},pause?'warning':'info');return json({paused:pause});
+  }
+
+  const exMatch=path.match(/^\/api\/exchanges\/([a-z-]+)$/);
+  if(path==='/api/exchanges'&&request.method==='GET'){const user=await authUser(request,env);return json({connections:await listConnections(env,user.id)});}
+  if(exMatch&&request.method==='POST'){const user=await authUser(request,env);return json(await saveConnection(env,user.id,exMatch[1],await requestJson(request)));}
+  if(exMatch&&request.method==='DELETE'){const user=await authUser(request,env);await requireDb(env).prepare('DELETE FROM exchange_connections WHERE user_id=? AND exchange=?').bind(user.id,exMatch[1]).run();await audit(env,user.id,'exchange.deleted',{exchange:exMatch[1]});return json({ok:true});}
+  const liveMatch=path.match(/^\/api\/exchanges\/([a-z-]+)\/live$/);
+  if(liveMatch&&request.method==='POST'){const user=await authUser(request,env),body=await requestJson(request);return json(await setLiveEnabled(env,user.id,liveMatch[1],Boolean(body.enabled)));}
+
+  const orderMatch=path.match(/^\/api\/orders\/([a-z-]+)$/);
+  if(orderMatch&&request.method==='POST'){const exchange=orderMatch[1];if(!ALLOWED_EXCHANGES.has(exchange))return json({error:'Unsupported exchange'},404);const user=await authUser(request,env);return json(await executeOrder(request,env,user,exchange,await requestJson(request)));}
+  if(path==='/api/order/coinbase-sandbox'&&request.method==='POST'){const x=await coinbaseSandboxOrder(await requestJson(request));return json(x.data,x.status);}
+
+  if(path==='/api/subscription/checkout'&&request.method==='POST'){const user=await authUser(request,env),body=await requestJson(request);return json(await createPaymentSession(env,user,body.plan));}
+  if(path==='/api/subscription'&&request.method==='GET'){const user=await authUser(request,env),row=await requireDb(env).prepare('SELECT * FROM subscriptions WHERE user_id=?').bind(user.id).first();return json({subscription:row||{plan:'Free',status:'active'}});}
+  if(path==='/api/webhooks/coinbase-payments'&&request.method==='POST')return processPaymentWebhook(request,env);
+  if(path==='/api/telegram/webhook'&&request.method==='POST')return telegram(env,await requestJson(request));
+  return json({error:'not found'},404);
+}
+
+export default{async fetch(request,env){try{return await route(request,env)}catch(e){const message=e?.message||String(e);const status=/Missing bearer|invalid or expired|signature is invalid|Challenge|requires D1/i.test(message)?401:/required|Unsupported|blocked|disabled|permission|cap|circuit breaker|mode|not configured/i.test(message)?400:500;return json({error:message},status)}}};
+export { riskProfile,riskLimits,backtestSmaCross };
