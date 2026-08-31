@@ -5,6 +5,9 @@ import { listConnections,saveConnection,setLiveEnabled } from './lib/vault.js';
 import { ALLOWED_EXCHANGES,coinbaseSandboxOrder,executeOrder } from './lib/exchanges.js';
 import { backtestSmaCross,dexQuote,fetchCandles,gdelt } from './lib/market.js';
 import { createPaymentSession,processPaymentWebhook } from './lib/payments.js';
+import { aggregateNews,NEWS_SOURCES } from './lib/news.js';
+import { grantRadar } from './lib/grants.js';
+import { auditExport,institutionalReport,INSTITUTIONAL_CONTROLS } from './lib/institutional.js';
 
 function connectorCapabilities(env){
   return {
@@ -28,14 +31,20 @@ async function telegram(env,body){
 async function route(request,env){
   if(request.method==='OPTIONS')return json({ok:true});
   const url=new URL(request.url),path=url.pathname;
-  if(path==='/api/health')return json({ok:true,service:'CryptoPilot Worker',version:'2.0-production-layer',persistence:Boolean(env.DB),globalLiveTrading:env.ENABLE_LIVE_TRADING==='true'});
+  if(path==='/api/health')return json({ok:true,service:'CryptoPilot Worker',version:'2.1-news-grants-institutional',persistence:Boolean(env.DB),globalLiveTrading:env.ENABLE_LIVE_TRADING==='true'});
   if(path==='/api/connectors'){const user=await authUser(request,env,false);return json({connectors:connectorCapabilities(env),userConnections:user?await listConnections(env,user.id):[]});}
 
   if(path==='/api/auth/wallet/challenge'&&request.method==='POST')return json(await createWalletChallenge(env,(await requestJson(request)).address));
   if(path==='/api/auth/wallet/verify'&&request.method==='POST')return json(await verifyWalletChallenge(env,await requestJson(request)));
   if(path==='/api/auth/me'){const user=await authUser(request,env);return json({user:{id:user.id,walletAddress:user.wallet_address,email:user.email}});}
 
+  if(path==='/api/news/curated')return json(await aggregateNews({source:url.searchParams.get('source')||'all',q:url.searchParams.get('q')||'',limit:url.searchParams.get('limit')||30}));
+  if(path==='/api/news/sources')return json({sources:NEWS_SOURCES});
   if(path==='/api/news'){const x=await gdelt(url.searchParams.get('q')||'bitcoin OR ethereum OR crypto');return json(x.data,x.status);}
+  if(path==='/api/grants')return json(grantRadar({ecosystem:url.searchParams.get('ecosystem')||'',status:url.searchParams.get('status')||''}));
+  if(path==='/api/institutional/controls')return json({controls:INSTITUTIONAL_CONTROLS});
+  if(path==='/api/institutional/report'){const user=await authUser(request,env);return json(await institutionalReport(env,user.id));}
+  if(path==='/api/institutional/audit-export'){const user=await authUser(request,env);return json(await auditExport(env,user.id,url.searchParams.get('limit')||250));}
   if(path==='/api/dex/quote'){const x=await dexQuote(env,url);return json(x.data,x.status);}
   if(path==='/api/market/candles'){const product=url.searchParams.get('product')||'BTC-USD';return json({product,candles:await fetchCandles(product,Number(url.searchParams.get('granularity')||3600))});}
   if(path==='/api/backtest'&&request.method==='POST'){
