@@ -1,8 +1,8 @@
 # CryptoPilot
 
-CryptoPilot is a lightweight **paper-first AI crypto portfolio autopilot** with adaptive risk, market/news intelligence, social investing circles, exchange/DEX adapters, Telegram status hooks, and USDC subscriptions.
+CryptoPilot is a lightweight **paper-first AI crypto portfolio autopilot** with adaptive risk, market/news intelligence, social investing circles, exchange/DEX adapters, Telegram status hooks, USDC subscriptions, grant readiness and institutional due-diligence tooling.
 
-## Production engineering layer 2.0
+## Production engineering layer 2.1
 
 This version moves V1.5 toward a production-shaped architecture while keeping live trading **off by default**.
 
@@ -22,6 +22,10 @@ This version moves V1.5 toward a production-shaped architecture while keeping li
 - Coinbase Payment Acceptance session/webhook plumbing for 10 / 35 / 100 USDC subscription tiers, gated on merchant onboarding and secrets.
 - Telegram remains status/alerts only; it cannot place trades.
 - Reown/WalletConnect integration seam through the same EIP-1193 wallet-auth flow.
+- **Curated Newsroom** using CoinDesk, Cointelegraph and Investing.com RSS feeds, showing headlines/short excerpts and publisher links rather than republishing full articles.
+- **Grant Radar** tracking major ecosystem programs and scoring concrete readiness gaps without claiming automatic eligibility.
+- **Institutional Room** with public control posture plus authenticated risk reports and audit JSON export.
+- **CPT 2030 chain strategy**: Ethereum ecosystem canonical first, Solana second when usage justifies it, BNB Chain third for distribution, TRON as a use-case/grant pilot.
 
 ## Frontend
 
@@ -29,7 +33,14 @@ After GitHub Pages is enabled with **GitHub Actions** as the source, the expecte
 
 `https://coolcryptomaniac.github.io/CryptoPilot/`
 
-The Pages workflow injects `production.js` into the deployed site. The original UI still works in local/demo mode with no backend.
+The Pages workflow injects `production.js` and `intelligence.js` into the deployed site. The original UI still works in local/demo mode with no backend.
+
+New tabs added by the intelligence layer:
+
+- **News** — source-filtered crypto headlines.
+- **Grant Radar** — major funding programs, readiness score and missing evidence.
+- **Institutional** — control posture, authenticated risk report and audit export.
+- **CPT Token** gains an ecosystem-fit chain strategy card.
 
 ## Safety model
 
@@ -43,6 +54,8 @@ The Pages workflow injects `production.js` into the deployed site. The original 
 8. AI/news output cannot bypass the risk constitution.
 9. DEX transactions are signed by the user's own wallet; CryptoPilot never stores seed phrases/private keys.
 10. CPT remains a capped **testnet utility prototype**. No public sale/yield/fundraising contract is enabled.
+11. Grant readiness scores are not eligibility decisions or funding guarantees.
+12. News content is limited to headlines, short excerpts and outbound source links.
 
 ## Worker setup
 
@@ -76,7 +89,7 @@ npx wrangler secret put COINBASE_PAYMENT_API_KEY_SECRET
 npx wrangler secret put COINBASE_WEBHOOK_SECRET
 ```
 
-See [`docs/production-setup.md`](docs/production-setup.md) for the full deployment/security checklist.
+See [`docs/production-setup.md`](docs/production-setup.md), [`docs/grant-readiness.md`](docs/grant-readiness.md), [`docs/institutional-readiness.md`](docs/institutional-readiness.md) and [`docs/token-chain-strategy-2030.md`](docs/token-chain-strategy-2030.md).
 
 ## User exchange credential shapes
 
@@ -101,6 +114,12 @@ Credentials are saved through authenticated `/api/exchanges/:exchange` requests 
 - `GET /api/dex/quote`
 - `GET /api/market/candles`
 - `POST /api/backtest`
+- `GET /api/news/curated`
+- `GET /api/news/sources`
+- `GET /api/grants`
+- `GET /api/institutional/controls`
+- `GET /api/institutional/report`
+- `GET /api/institutional/audit-export`
 - `POST /api/subscription/checkout`
 - `GET /api/subscription`
 - `POST /api/webhooks/coinbase-payments`
