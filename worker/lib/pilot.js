@@ -1,16 +1,17 @@
+function allowedWallets(env={}){return String(env.PILOT_ALLOWED_WALLETS||'').split(',').map(x=>x.trim().toLowerCase()).filter(Boolean);}
 export function pilotConfig(env={}){
   return {
     enabled:env.ENABLE_PILOT_TRADING==='true',
     maxOrderUsd:Math.max(1,Number(env.PILOT_MAX_ORDER_USD||25)),
     maxDailyNotionalUsd:Math.max(1,Number(env.PILOT_MAX_DAILY_NOTIONAL_USD||100)),
     maxDailyOrders:Math.max(1,Number(env.PILOT_MAX_DAILY_ORDERS||5)),
-    allowedWallets:String(env.PILOT_ALLOWED_WALLETS||'').split(',').map(x=>x.trim().toLowerCase()).filter(Boolean)
+    allowlistedWalletCount:allowedWallets(env).length
   };
 }
 
 export function isPilotWalletAllowed(user,env){
-  const cfg=pilotConfig(env),wallet=String(user?.wallet_address||'').toLowerCase();
-  return Boolean(wallet&&cfg.allowedWallets.includes(wallet));
+  const wallet=String(user?.wallet_address||'').toLowerCase();
+  return Boolean(wallet&&allowedWallets(env).includes(wallet));
 }
 
 export async function assertPilotOrder(env,user,order,db){
