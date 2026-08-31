@@ -8,7 +8,7 @@ export function json(data,status=200,extra={}){
   return new Response(JSON.stringify(data,null,2),{status,headers:{
     'content-type':'application/json',
     'access-control-allow-origin':'*',
-    'access-control-allow-headers':'content-type,authorization,x-idempotency-key',
+    'access-control-allow-headers':'content-type,authorization,x-idempotency-key,x-cryptopilot-key,x-hook0-signature',
     'access-control-allow-methods':'GET,POST,DELETE,OPTIONS',
     'cache-control':'no-store',...extra
   }});

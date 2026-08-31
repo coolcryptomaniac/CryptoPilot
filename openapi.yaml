@@ -1,0 +1,93 @@
+openapi: 3.1.0
+info:
+  title: CryptoPilot API
+  version: 2.2.0
+  description: >-
+    Risk-gated crypto intelligence API. Developer API access does not expose user
+    exchange credentials and does not authorize trades, withdrawals, custody or investment advice.
+servers:
+  - url: https://YOUR-CRYPTOPILOT-WORKER.workers.dev
+security:
+  - CryptoPilotKey: []
+paths:
+  /v1/news:
+    get:
+      summary: Curated crypto news
+      parameters:
+        - {name: source, in: query, schema: {type: string, default: all}}
+        - {name: q, in: query, schema: {type: string}}
+        - {name: limit, in: query, schema: {type: integer, minimum: 1, maximum: 100, default: 30}}
+      responses:
+        '200': {description: Curated headlines and short excerpts}
+  /v1/grants:
+    get:
+      summary: Crypto grant and accelerator readiness radar
+      parameters:
+        - {name: ecosystem, in: query, schema: {type: string}}
+        - {name: status, in: query, schema: {type: string}}
+      responses:
+        '200': {description: Programs, readiness evidence and missing gaps}
+  /v1/integrations:
+    get:
+      summary: Integration capability registry
+      responses:
+        '200': {description: Current and target infrastructure integrations}
+  /v1/rwa/pools:
+    get:
+      summary: Active Centrifuge RWA pools
+      parameters:
+        - {name: limit, in: query, schema: {type: integer, minimum: 1, maximum: 100, default: 20}}
+      responses:
+        '200': {description: Read-only RWA pool and token data}
+  /v1/defi/protocols:
+    get:
+      summary: DeFi protocol context
+      parameters:
+        - {name: limit, in: query, schema: {type: integer, minimum: 1, maximum: 100, default: 25}}
+      responses:
+        '200': {description: DefiLlama-derived protocol and TVL context}
+  /v1/prediction/markets:
+    get:
+      summary: Public Kalshi prediction-market data
+      description: Signal/data only. CryptoPilot does not expose authenticated Kalshi order placement here.
+      parameters:
+        - {name: limit, in: query, schema: {type: integer, minimum: 1, maximum: 100, default: 20}}
+        - {name: series_ticker, in: query, schema: {type: string}}
+      responses:
+        '200': {description: Public market discovery data}
+  /v1/oracle/pyth:
+    get:
+      summary: Pyth Core latest price updates
+      description: Requires the CryptoPilot operator to configure a Pyth API key.
+      parameters:
+        - name: id
+          in: query
+          required: true
+          schema: {type: array, maxItems: 20, items: {type: string}}
+          style: form
+          explode: true
+      responses:
+        '200': {description: Pyth Hermes response}
+  /v1/risk/quote:
+    post:
+      summary: Deterministic risk score and limits
+      description: Does not authorize execution and is not investment advice.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                style: {type: string, enum: [Conservative, Balanced, Aggressive], default: Balanced}
+                networth: {type: number, minimum: 0, default: 50000}
+                drawdown: {type: number, minimum: 0, maximum: 100, default: 18}
+                singleCap: {type: number, minimum: 1, maximum: 100, default: 28}
+      responses:
+        '200': {description: Risk score and operator-bounded limits}
+components:
+  securitySchemes:
+    CryptoPilotKey:
+      type: apiKey
+      in: header
+      name: X-CryptoPilot-Key
