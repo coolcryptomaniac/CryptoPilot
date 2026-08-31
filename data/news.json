@@ -339,6 +339,13 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
+      "title": "Bitcoin set for huge August gain despite Iran escalation and rate jitters",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-78k-as-rate-jitters-iran-escalation-weigh-4882178",
+      "published": "2026-08-31 21:48:13"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
       "title": "Bitcoin bull flag 80% complete near $81K resistance: Live levels",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-consolidates-at-76200-support-live-levels-93CH-4882214",
       "published": "2026-08-31 19:26:28"
@@ -356,13 +363,6 @@
       "title": "Bitcoin’s worst is over, former Credit Suisse risk head sees $150,000 by 2027",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoins-worst-is-over-former-credit-suisse-risk-head-sees-150000-by-2027-4883017",
       "published": "2026-08-31 14:50:19"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin dips below $78k amid Iran escalation, rate jitters",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-78k-as-rate-jitters-iran-escalation-weigh-4882178",
-      "published": "2026-08-31 13:57:41"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-08-31T21:54:52.731072+00:00",
+  "fetchedAt": "2026-08-31T22:32:59.328047+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
