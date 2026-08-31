@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   title: CryptoPilot API
-  version: 2.2.0
+  version: 2.3.0
   description: >-
     Risk-gated crypto intelligence API. Developer API access does not expose user
     exchange credentials and does not authorize trades, withdrawals, custody or investment advice.
@@ -32,6 +32,12 @@ paths:
       summary: Integration capability registry
       responses:
         '200': {description: Current and target infrastructure integrations}
+  /v1/hyperliquid/mids:
+    get:
+      summary: Hyperliquid public mid prices
+      description: Public market data normalized by CryptoPilot. Does not authorize or place Hyperliquid orders.
+      responses:
+        '200': {description: Hyperliquid allMids market data}
   /v1/rwa/pools:
     get:
       summary: Active Centrifuge RWA pools
@@ -85,6 +91,40 @@ paths:
                 singleCap: {type: number, minimum: 1, maximum: 100, default: 28}
       responses:
         '200': {description: Risk score and operator-bounded limits}
+  /api/investor/summary:
+    get:
+      security: []
+      summary: Aggregate non-binding investor interest
+      description: Returns only aggregate EOI totals/counts. Never represents funded or verified committed capital.
+      responses:
+        '200': {description: Aggregate non-binding interest}
+  /api/investor/interest:
+    post:
+      security: []
+      summary: Submit a non-binding investor expression of interest
+      description: No funds are accepted. Requires explicit risk, non-binding, NDA/disclosure and founder-contact sharing acknowledgements.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [name,amountUsd,email,phone,country,city,method,riskAcknowledged,nonBindingAcknowledged,ndaRequested,contactConsent]
+              properties:
+                name: {type: string, maxLength: 120}
+                amountUsd: {type: number, minimum: 1000000, maximum: 100000000000}
+                email: {type: string, format: email}
+                phone: {type: string, maxLength: 60}
+                country: {type: string, maxLength: 80}
+                city: {type: string, maxLength: 80}
+                method: {type: string, enum: [Crypto, Bank transfer, Credit card, Cash / other regulated settlement, Other]}
+                methodDetail: {type: string, maxLength: 120}
+                riskAcknowledged: {type: boolean, const: true}
+                nonBindingAcknowledged: {type: boolean, const: true}
+                ndaRequested: {type: boolean, const: true}
+                contactConsent: {type: boolean, const: true}
+      responses:
+        '201': {description: EOI encrypted/stored; optional founder notification attempted}
 components:
   securitySchemes:
     CryptoPilotKey:
