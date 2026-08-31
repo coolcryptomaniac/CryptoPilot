@@ -17,12 +17,16 @@ jobs:
           node --check production.js
           node --check intelligence.js
           node --check platform.js
+          node --check v23.js
           node --check fallback.js
           node --check web3/tether-wdk.example.mjs
           python -m py_compile scripts/refresh_news.py
           python -m json.tool data/news.json >/dev/null
           python -m json.tool data/grants.json >/dev/null
           python -m json.tool data/institutional-controls.json >/dev/null
+          test -s v23.css
+          test -s AGENTS.md
+          test -s CLAUDE.md
           grep -q "CryptoPilot" index.html
       - name: Worker dependencies and tests
         working-directory: worker
