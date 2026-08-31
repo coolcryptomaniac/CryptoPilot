@@ -1,34 +1,87 @@
-/* CryptoPilot 2.3 visual layer — animated, GPU-light, reduced-motion aware. */
+/* CryptoPilot 2.3+ visual layer — animated, responsive, GPU-light, reduced-motion aware. */
 :root{--cp-glow:0 0 28px rgba(122,92,255,.18),0 0 70px rgba(0,229,255,.08)}
+
+/* Layout integrity. Dynamic panels use more spans than the original V1 stylesheet defined. */
+.grid>*{min-width:0}
+.span1{grid-column:span 1}.span2{grid-column:span 2}.span3{grid-column:span 3}.span4{grid-column:span 4}.span5{grid-column:span 5}.span6{grid-column:span 6}.span7{grid-column:span 7}.span8{grid-column:span 8}.span9{grid-column:span 9}.span10{grid-column:span 10}.span11{grid-column:span 11}.span12{grid-column:1/-1}
+.card,.signal,.exchange,.cp-glass{min-width:0;overflow-wrap:anywhere}
+.panel.active{animation:cpPanelIn .32s ease both}
+
+/* Navigation must remain usable as the app grows to many product tabs. */
+.tabs{gap:8px;overflow-x:auto;overflow-y:hidden;overscroll-behavior-x:contain;scroll-snap-type:x proximity;scrollbar-width:none;padding:8px 2px 10px;margin-bottom:4px}
+.tabs::-webkit-scrollbar{display:none}
+.tab{scroll-snap-align:start;flex:0 0 auto}
+#cpTheme{flex:0 0 auto;width:auto;min-width:168px;border-radius:999px;padding:10px 14px;background:#0b0f16;border:1px solid var(--line);color:var(--text);font-weight:750}
+/* v2.3 selector is the visual-theme source of truth; avoid two competing theme controls. */
+#themeBtn{display:none}
+
 body::before,body::after{content:"";position:fixed;pointer-events:none;z-index:-2;border-radius:50%;filter:blur(60px);opacity:.28;animation:cpDrift 18s ease-in-out infinite alternate}
 body::before{width:36vw;height:36vw;left:-10vw;top:10vh;background:radial-gradient(circle,#653bff 0%,transparent 68%)}
 body::after{width:30vw;height:30vw;right:-7vw;bottom:4vh;background:radial-gradient(circle,#00d8ff 0%,transparent 68%);animation-delay:-7s}
-.card{position:relative;overflow:hidden;backdrop-filter:blur(12px);box-shadow:var(--cp-glow);transition:transform .28s ease,box-shadow .28s ease,border-color .28s ease}
+.card{position:relative;overflow:hidden;backdrop-filter:blur(12px);box-shadow:var(--cp-glow);transition:transform .28s ease,box-shadow .28s ease,border-color .28s ease,background .28s ease}
 .card:hover{transform:translateY(-2px);box-shadow:0 14px 50px rgba(0,0,0,.22),0 0 40px rgba(107,76,255,.14)}
 .card::after{content:"";position:absolute;inset:-1px;pointer-events:none;border-radius:inherit;background:linear-gradient(115deg,transparent 18%,rgba(255,255,255,.06) 47%,transparent 70%);transform:translateX(-115%);animation:cpSheen 9s ease-in-out infinite}
+.btn{transition:border-color .2s ease,transform .2s ease,box-shadow .2s ease,background .2s ease}
+.btn:hover{transform:translateY(-1px)}
+.btn:focus-visible,.input:focus-visible,select:focus-visible,textarea:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .btn.primary{position:relative;overflow:hidden;box-shadow:0 0 22px rgba(123,92,255,.18)}
 .btn.primary::after{content:"";position:absolute;inset:-40%;background:conic-gradient(from 0deg,transparent,rgba(255,255,255,.18),transparent 28%);animation:cpSpin 7s linear infinite;pointer-events:none}
-.cp-hero{padding:22px;border:1px solid rgba(140,125,255,.22);border-radius:22px;background:linear-gradient(135deg,rgba(121,81,255,.13),rgba(0,217,255,.06) 48%,rgba(255,52,141,.06));position:relative;overflow:hidden}
-.cp-hero h2{font-size:clamp(28px,5vw,54px);line-height:1.02;margin:.2em 0;background:linear-gradient(90deg,#fff,#c6baff,#8feaff,#fff);background-size:250% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:cpText 8s linear infinite}
+.cp-hero{padding:22px;border:1px solid color-mix(in srgb,var(--accent) 25%,transparent);border-radius:22px;background:linear-gradient(135deg,color-mix(in srgb,var(--accent2) 18%,transparent),rgba(0,217,255,.06) 48%,rgba(255,52,141,.06));position:relative;overflow:hidden}
+.cp-hero h2{font-size:clamp(28px,5vw,54px);line-height:1.02;margin:.2em 0;background:linear-gradient(90deg,#fff,color-mix(in srgb,var(--accent2) 58%,#fff),color-mix(in srgb,var(--accent) 58%,#fff),#fff);background-size:250% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:cpText 8s linear infinite}
 .cp-kpi{font-size:clamp(28px,4vw,46px);font-weight:800;letter-spacing:-.04em}
 .cp-pill{display:inline-flex;gap:7px;align-items:center;border:1px solid rgba(255,255,255,.12);border-radius:999px;padding:7px 11px;margin:3px;background:rgba(255,255,255,.035)}
-.cp-dot{width:7px;height:7px;border-radius:50%;background:#4cff9a;box-shadow:0 0 10px #4cff9a;animation:cpPulse 1.8s ease-in-out infinite}
-.cp-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px}
-.cp-social{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:9px}
-.cp-social button,.cp-social a{text-align:center;justify-content:center}
+.cp-dot{width:7px;height:7px;border-radius:50%;background:var(--accent);box-shadow:0 0 10px var(--accent);animation:cpPulse 1.8s ease-in-out infinite}
+.cp-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(210px,100%),1fr));gap:12px}
+.cp-grid>*{min-width:0}
+.cp-social{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(130px,100%),1fr));gap:9px}
+.cp-social button,.cp-social a{display:flex;text-align:center;justify-content:center;align-items:center;min-height:44px;text-decoration:none}
 .cp-progress{height:12px;border-radius:999px;background:rgba(255,255,255,.06);overflow:hidden;border:1px solid rgba(255,255,255,.06)}
-.cp-progress>i{display:block;height:100%;min-width:3px;background:linear-gradient(90deg,#7657ff,#00d9ff,#56ffb4);background-size:200% 100%;animation:cpText 5s linear infinite}
-.cp-warning{border-left:3px solid #ffb84d;padding-left:12px}
-.cp-danger{border-left:3px solid #ff4d76;padding-left:12px}
+.cp-progress>i{display:block;height:100%;min-width:3px;background:linear-gradient(90deg,var(--accent2),#00d9ff,var(--accent));background-size:200% 100%;animation:cpText 5s linear infinite}
+.cp-warning{border-left:3px solid #ffb84d;padding:10px 0 10px 12px;margin-top:12px}
+.cp-danger{border-left:3px solid #ff4d76;padding:10px 0 10px 12px}
+.cp-danger label{display:block;line-height:1.45;margin:6px 0}
+.cp-danger input[type="checkbox"]{width:auto;margin-right:8px;accent-color:var(--accent)}
 .cp-code{display:block;white-space:pre-wrap;word-break:break-word;padding:12px;border-radius:12px;background:rgba(0,0,0,.28);border:1px solid rgba(255,255,255,.08);font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px}
 .cp-glass{background:linear-gradient(180deg,rgba(255,255,255,.055),rgba(255,255,255,.018));border:1px solid rgba(255,255,255,.1);border-radius:16px;padding:14px}
-body[data-cp-theme="akatsuki-storm"]::before{background:radial-gradient(circle,#a40023 0%,transparent 68%);opacity:.38}
-body[data-cp-theme="akatsuki-storm"]::after{background:radial-gradient(circle,#3b0713 0%,transparent 68%)}
+
+/* Fully-applied visual themes: variables, surfaces and ambience move together. */
+body[data-cp-theme="liquid-neon"]{--bg:#070814;--panel:#101326;--text:#f8f9ff;--muted:#9ba6c2;--accent:#52f5ce;--accent2:#8a70ff;--danger:#ff6386;--line:#262a4a;--glow:0 0 40px rgba(82,245,206,.11);--cp-glow:0 16px 48px rgba(0,0,0,.25),0 0 34px rgba(115,85,255,.16)}
+body[data-cp-theme="liquid-neon"]{background:radial-gradient(circle at 10% 0,rgba(92,62,255,.19),transparent 30%),radial-gradient(circle at 90% 18%,rgba(0,235,209,.10),transparent 28%),var(--bg)}
 body[data-cp-theme="liquid-neon"]::before{background:radial-gradient(circle,#4c31ff 0%,transparent 68%)}
 body[data-cp-theme="liquid-neon"]::after{background:radial-gradient(circle,#00f0d0 0%,transparent 68%)}
+body[data-cp-theme="liquid-neon"] .card{background:linear-gradient(180deg,rgba(19,23,47,.92),rgba(10,13,29,.94));border-color:#292e54}
+
+body[data-cp-theme="akatsuki-storm"]{--bg:#060406;--panel:#151013;--text:#fff7f8;--muted:#b6a4a9;--accent:#ff405d;--accent2:#be1739;--danger:#ff6b7f;--line:#40232b;--glow:0 0 40px rgba(255,45,79,.13);--cp-glow:0 18px 54px rgba(0,0,0,.34),0 0 38px rgba(208,20,55,.18)}
+body[data-cp-theme="akatsuki-storm"]{background:radial-gradient(circle at 80% 0,rgba(93,5,21,.48),transparent 31%),radial-gradient(circle at 8% 55%,rgba(45,4,13,.50),transparent 30%),var(--bg)}
+body[data-cp-theme="akatsuki-storm"]::before{background:radial-gradient(circle,#a40023 0%,transparent 68%);opacity:.38}
+body[data-cp-theme="akatsuki-storm"]::after{background:radial-gradient(circle,#3b0713 0%,transparent 68%)}
+body[data-cp-theme="akatsuki-storm"] .card{background:linear-gradient(180deg,rgba(28,13,18,.95),rgba(12,8,10,.97));border-color:#44212b}
+body[data-cp-theme="akatsuki-storm"] .cp-hero{background:linear-gradient(135deg,rgba(179,18,51,.21),rgba(50,5,15,.15) 58%,rgba(255,71,99,.08))}
+
+body[data-cp-theme="default"]{--cp-glow:var(--glow)}
+
 @keyframes cpDrift{to{transform:translate3d(8vw,-5vh,0) scale(1.18)}}
 @keyframes cpSheen{0%,72%{transform:translateX(-115%)}88%,100%{transform:translateX(115%)}}
 @keyframes cpSpin{to{transform:rotate(360deg)}}
 @keyframes cpPulse{50%{opacity:.35;transform:scale(.75)}}
 @keyframes cpText{to{background-position:200% 0}}
-@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}.card:hover{transform:none}}
+@keyframes cpPanelIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+
+@media(max-width:900px){
+  .span1,.span2,.span3,.span4,.span5,.span6,.span7,.span8,.span9,.span10,.span11,.span12{grid-column:1/-1}
+  .tabs{margin-left:-2px;margin-right:-2px}
+  .card{border-radius:20px;padding:17px}
+  .cp-hero{padding:18px}
+}
+@media(max-width:540px){
+  .tabs{gap:6px;padding-bottom:9px}
+  .tabs .btn,#cpTheme{padding:9px 12px;font-size:13px}
+  #cpTheme{min-width:150px}
+  .card{padding:14px;border-radius:18px}
+  .cp-hero{padding:15px;border-radius:18px}
+  .cp-hero h2{font-size:30px}
+  .cp-grid,.cp-social{grid-template-columns:1fr}
+  .row.between{align-items:flex-start}
+  input,select,textarea,.btn{max-width:100%}
+}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}.card:hover,.btn:hover{transform:none}}
