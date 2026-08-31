@@ -29,8 +29,8 @@ export async function saveConnection(env,userId,exchange,body={}){
   exchange=exchange.toLowerCase(); if(!ALLOWED.has(exchange))throw new Error('Unsupported exchange'); validate(exchange,body.credentials);
   const permissions=Array.isArray(body.permissions)?body.permissions.map(String):['read'];
   if(permissions.some(x=>/withdraw|transfer/i.test(x)))throw new Error('Withdrawal/transfer permissions are not accepted by CryptoPilot');
-  const mode=['paper','testnet','live'].includes(body.mode)?body.mode:'paper';
-  if(exchange==='robinhood'&&mode==='testnet')throw new Error('Robinhood has no CryptoPilot testnet mode; use paper before live');
+  const mode=['paper','testnet','pilot','live'].includes(body.mode)?body.mode:'paper';
+  if(exchange==='robinhood'&&mode==='testnet')throw new Error('Robinhood has no CryptoPilot testnet mode; use paper before Pilot/live');
   const encrypted=await encryptJson(env,body.credentials),existing=await env.DB.prepare('SELECT id FROM exchange_connections WHERE user_id=? AND exchange=?').bind(userId,exchange).first();
   if(existing)await env.DB.prepare("UPDATE exchange_connections SET encrypted_credentials=?,permissions_json=?,mode=?,live_enabled=0,status='configured',updated_at=? WHERE id=?").bind(encrypted,JSON.stringify(permissions),mode,nowIso(),existing.id).run();
   else await env.DB.prepare("INSERT INTO exchange_connections(id,user_id,exchange,encrypted_credentials,permissions_json,mode,live_enabled,status,created_at,updated_at) VALUES(?,?,?,?,?,?,0,'configured',?,?)").bind(uuid(),userId,exchange,encrypted,JSON.stringify(permissions),mode,nowIso(),nowIso()).run();
@@ -49,9 +49,9 @@ export async function listConnections(env,userId){
 export async function setLiveEnabled(env,userId,exchange,enabled){
   const c=await env.DB.prepare('SELECT permissions_json,mode FROM exchange_connections WHERE user_id=? AND exchange=?').bind(userId,exchange).first(); if(!c)throw new Error('Connector not configured');
   const permissions=JSON.parse(c.permissions_json||'[]');
-  if(enabled&&!permissions.includes('trade'))throw new Error('Connector needs trade permission before live execution can be enabled');
-  if(enabled&&c.mode!=='live')throw new Error('Change connector mode to live before enabling live execution');
+  if(enabled&&!permissions.includes('trade'))throw new Error('Connector needs trade permission before execution can be enabled');
+  if(enabled&&!['pilot','live'].includes(c.mode))throw new Error('Change connector mode to Pilot or live before enabling real execution');
   await env.DB.prepare('UPDATE exchange_connections SET live_enabled=?,updated_at=? WHERE user_id=? AND exchange=?').bind(enabled?1:0,nowIso(),userId,exchange).run();
-  await audit(env,userId,enabled?'exchange.live_enabled':'exchange.live_disabled',{exchange},enabled?'warning':'info');
-  return {exchange,liveEnabled:Boolean(enabled)};
+  await audit(env,userId,enabled?'exchange.execution_enabled':'exchange.execution_disabled',{exchange,mode:c.mode},enabled?'warning':'info');
+  return {exchange,mode:c.mode,liveEnabled:Boolean(enabled)};
 }
