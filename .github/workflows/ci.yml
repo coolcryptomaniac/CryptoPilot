@@ -18,6 +18,7 @@ jobs:
           node --check intelligence.js
           node --check platform.js
           node --check v23.js
+          node --check v23-runtime.js
           node --check fallback.js
           node --check web3/tether-wdk.example.mjs
           python -m py_compile scripts/refresh_news.py
