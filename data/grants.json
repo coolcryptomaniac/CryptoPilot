@@ -1,0 +1,42 @@
+{
+  "lastReviewed": "2026-09-01",
+  "disclaimer": "Readiness scoring is not eligibility or a funding guarantee. Programs change and applications require program-specific review.",
+  "passport": {
+    "workingDemo": true,
+    "openSource": true,
+    "security": true,
+    "milestones": true,
+    "team": false,
+    "community": true,
+    "metrics": false,
+    "traction": false,
+    "businessModel": true,
+    "tokenomics": true,
+    "productionPath": true,
+    "publicGood": true,
+    "pitch": false,
+    "ethereumIntegration": true,
+    "usdcIntegration": true,
+    "circleIntegration": false,
+    "bnbIntegration": false,
+    "solanaIntegration": false,
+    "tronIntegration": false,
+    "arbitrumIntegration": false,
+    "avalancheIntegration": false,
+    "nearIntegration": false,
+    "superchainIntegration": false,
+    "tonIntegration": false
+  },
+  "grants": [
+    {"ecosystem":"TRON","program":"TRON Builders League","status":"open/rolling","funding":"Up to $5,000,000","url":"https://trondao.org/tron-builders-league","readiness":{"score":80,"missing":["tronIntegration"]}},
+    {"ecosystem":"Solana","program":"Solana Foundation Grants & Funding","status":"rolling","funding":"Milestone-based grants / convertible grants; amount varies","url":"https://solana.org/grants-funding","readiness":{"score":80,"missing":["solanaIntegration"]}},
+    {"ecosystem":"USDC / Circle","program":"Circle Developer Grants","status":"reopening / monitor","funding":"Amount varies","url":"https://www.circle.com/blog/announcing-the-first-circle-grant-recipients-in-2026","readiness":{"score":60,"missing":["circleIntegration","metrics"]}},
+    {"ecosystem":"BNB Chain","program":"Most Valuable Builder (MVB)","status":"rolling admission","funding":"Selective investment + accelerator support","url":"https://www.bnbchain.org/en/programs/mvb","readiness":{"score":60,"missing":["bnbIntegration","team"]}},
+    {"ecosystem":"Ethereum","program":"Ethereum Foundation Ecosystem Support Program","status":"open RFPs / wishlist","funding":"Milestone grants; amount varies","url":"https://esp.ethereum.foundation/applicants","readiness":{"score":100,"missing":[]}},
+    {"ecosystem":"Arbitrum","program":"Open House Singapore 2026","status":"open / current season","funding":"$415,000 total prizes & grants","url":"https://blog.arbitrum.foundation/builders-block-023-415k-in-prizes-at-open-house-singapore-apply-now/","readiness":{"score":20,"missing":["arbitrumIntegration","traction","team","pitch"]}},
+    {"ecosystem":"Avalanche","program":"Build Games 2026","status":"seasonal / monitor","funding":"$1,000,000 prize pool; $100,000 grand prize","url":"https://build.avax.network/build-games","readiness":{"score":20,"missing":["avalancheIntegration","execution","team","longTerm"]}},
+    {"ecosystem":"NEAR","program":"NEAR Ecosystem Funding","status":"rolling / multiple programs","funding":"Grants and protocol rewards; varies","url":"https://www.near.org/funding","readiness":{"score":60,"missing":["nearIntegration","metrics"]}},
+    {"ecosystem":"Optimism / Superchain","program":"Superchain Grants / Retro Funding","status":"transitioning","funding":"Program-specific; historic pools in millions of OP","url":"https://atlas.optimism.io/","readiness":{"score":40,"missing":["superchainIntegration","metrics","impact"]}},
+    {"ecosystem":"TON","program":"TON Ecosystem Support","status":"transitioning to TON Console","funding":"Program-specific","url":"https://builders.ton.org/","readiness":{"score":20,"missing":["tonIntegration","traction","team","metrics"]}}
+  ]
+}
