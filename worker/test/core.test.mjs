@@ -9,6 +9,7 @@ import { grantRadar } from '../lib/grants.js';
 import { pilotConfig,isPilotWalletAllowed } from '../lib/pilot.js';
 import { usdtStatus } from '../lib/usdt.js';
 import { integrationRegistry } from '../lib/integrations.js';
+import { sanitizeInvestorInterest } from '../lib/v23.js';
 
 test('risk score stays inside constitution bounds',()=>{
   assert.equal(riskProfile({style:'Conservative',networth:10000,drawdown:5,singleCap:5,lessRiskClicks:10}),15);
@@ -32,3 +33,6 @@ test('Tether grant radar exists and never makes a funding guarantee',()=>{const 
 test('Pilot defaults are tiny and require explicit allowlisting',()=>{const env={PILOT_ALLOWED_WALLETS:'0xabc,0xdef'};const c=pilotConfig(env);assert.equal(c.enabled,false);assert.equal(c.maxOrderUsd,25);assert.equal(c.maxDailyNotionalUsd,100);assert.equal(c.maxDailyOrders,5);assert.equal(isPilotWalletAllowed({wallet_address:'0xAbC'},env),true);assert.equal(isPilotWalletAllowed({wallet_address:'0x999'},env),false);});
 test('USDT reports unconfigured rather than guessing chain addresses',()=>{const s=usdtStatus({});assert.equal(s.configured,false);assert.match(s.error,/not fully configured/i);});
 test('Kalshi is signal-only and RWA integration is read-only',()=>{const r=integrationRegistry({});const k=r.find(x=>x.id==='kalshi'),c=r.find(x=>x.id==='centrifuge');assert.equal(k.mode,'market-data-only');assert.equal(c.mode,'read-only');assert.ok(r.some(x=>x.id==='tether-wdk'));});
+test('Uniswap microtrade is user-signed and Hyperliquid stays public-data-only',()=>{const r=integrationRegistry({});const u=r.find(x=>x.id==='uniswap'),h=r.find(x=>x.id==='hyperliquid');assert.match(u.mode,/user-signed/);assert.equal(h.mode,'public-market-data-only');assert.match(h.notes,/minimum order/i);});
+test('investor EOI requires explicit non-binding risk and contact consent',()=>{assert.throws(()=>sanitizeInvestorInterest({name:'Fund',amountUsd:1_000_000,email:'investor@example.com',phone:'+1 555',country:'US',city:'NYC',method:'Bank transfer',riskAcknowledged:true,nonBindingAcknowledged:true,ndaRequested:true,contactConsent:false}),/acknowledgement/i);const p=sanitizeInvestorInterest({name:'Fund',amountUsd:1_000_000,email:'Investor@Example.com',phone:'+1 555',country:'US',city:'NYC',method:'Crypto',methodDetail:'USDC',riskAcknowledged:true,nonBindingAcknowledged:true,ndaRequested:true,contactConsent:true});assert.equal(p.email,'investor@example.com');assert.equal(p.amountUsd,1_000_000);});
+test('investor EOI amount is bounded to the disclosed $1M-$100B range',()=>{assert.throws(()=>sanitizeInvestorInterest({name:'Fund',amountUsd:999999,email:'i@e.com',phone:'1',country:'US',city:'NYC',method:'Other',riskAcknowledged:true,nonBindingAcknowledged:true,ndaRequested:true,contactConsent:true}),/\$1M to \$100B/);});
