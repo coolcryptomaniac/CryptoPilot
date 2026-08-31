@@ -34,7 +34,7 @@ USDT_MIN_CONFIRMATIONS = "2"
 # migrations_dir = "migrations"
 
 # Add secrets with `wrangler secret put NAME`; never commit them:
-# CREDENTIAL_MASTER_KEY  (base64-encoded 32 random bytes)
+# CREDENTIAL_MASTER_KEY  (base64-encoded 32 random bytes; also encrypts investor EOI payloads)
 # PILOT_ALLOWED_WALLETS  (comma-separated EVM wallet addresses)
 # ZEROX_API_KEY
 # TELEGRAM_BOT_TOKEN
@@ -49,5 +49,9 @@ USDT_MIN_CONFIRMATIONS = "2"
 # USDT_PAYMENT_TARGET_ADDRESS
 # USDT_CHAIN_ID
 # PYTH_API_KEY
+# RESEND_API_KEY         (optional investor EOI email notification)
+# INVESTOR_NOTIFY_FROM   (verified Resend sender, e.g. CryptoPilot <funding@your-domain>)
+# INVESTOR_NOTIFY_TO     (optional; defaults to founder@roamwise.co.in)
 # Kalshi public market discovery needs no API key; authenticated trading is intentionally not integrated.
+# Hyperliquid public allMids data needs no API key; authenticated trading is intentionally not used for MicroTrade.
 # Optional future connectors: ALCHEMY_API_KEY, JUPITER_API_KEY, LIFI_API_KEY

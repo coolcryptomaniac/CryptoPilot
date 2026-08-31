@@ -12,6 +12,7 @@ import { auditExport,institutionalReport,INSTITUTIONAL_CONTROLS } from './lib/in
 import { createDeveloperKey,listDeveloperKeys,revokeDeveloperKey,authenticateApiKey,recordApiUsage,usageSummary } from './lib/developer-api.js';
 import { integrationRegistry,centrifugePools,defiLlamaProtocols,pythLatest,kalshiMarkets,circleCctpStatus,roamwisePartner } from './lib/integrations.js';
 import { pilotConfig,isPilotWalletAllowed } from './lib/pilot.js';
+import { createInvestorInterest,investorSummary,hyperliquidMids } from './lib/v23.js';
 
 function connectorCapabilities(env){
   return {
@@ -20,6 +21,8 @@ function connectorCapabilities(env){
     Kraken:{auth:'API-Key + API-Sign',execution:'REST AddOrder',userCredentials:true},
     'Robinhood Crypto':{auth:'Ed25519 x-signature',execution:'Official Crypto Trading API; regional eligibility applies',userCredentials:true},
     '0x DEX':{auth:env.ZEROX_API_KEY?'operator API key configured':'operator API key missing',execution:'quote only; user wallet signs transaction',userCredentials:false},
+    Uniswap:{auth:'user wallet',execution:'backend-free custom-link microtrade + future Trading API',userCredentials:false},
+    Hyperliquid:{auth:'public data; trading signer intentionally not enabled here',execution:'allMids market data',userCredentials:false},
     USDC:{provider:'Coinbase Payment Acceptance',configured:Boolean(env.COINBASE_PAYMENT_API_KEY_ID&&env.COINBASE_PAYMENT_API_KEY_SECRET)},
     USDT:{provider:'Tether-compatible EVM merchant verification',...usdtStatus(env)}
   };
@@ -40,6 +43,7 @@ async function developerRoute(request,env,url,path){
   else if(path==='/v1/rwa/pools')data={provider:'Centrifuge',pools:await centrifugePools(url.searchParams.get('limit')||20)};
   else if(path==='/v1/defi/protocols')data={provider:'DefiLlama',protocols:await defiLlamaProtocols(url.searchParams.get('limit')||25)};
   else if(path==='/v1/prediction/markets')data={provider:'Kalshi',mode:'market-data-only',data:await kalshiMarkets(env,{limit:url.searchParams.get('limit')||20,seriesTicker:url.searchParams.get('series_ticker')||''})};
+  else if(path==='/v1/hyperliquid/mids')data=await hyperliquidMids();
   else if(path==='/v1/oracle/pyth')data={provider:'Pyth',data:await pythLatest(env,url.searchParams.getAll('id'))};
   else if(path==='/v1/risk/quote'&&request.method==='POST'){const b=await requestJson(request),score=riskProfile(b),profile={learned_risk:score,investable_networth:Number(b.networth||50000),single_asset_cap_pct:Number(b.singleCap||28),paused:0};data={score,limits:riskLimits(profile,env),note:'Deterministic sizing output only; not investment advice or an execution authorization.'};}
   else return json({error:'Developer API endpoint not found'},404);
@@ -50,10 +54,13 @@ async function route(request,env){
   if(request.method==='OPTIONS')return json({ok:true});
   const url=new URL(request.url),path=url.pathname;
   if(path.startsWith('/v1/'))return developerRoute(request,env,url,path);
-  if(path==='/api/health')return json({ok:true,service:'CryptoPilot Worker',version:'2.2-production-pilot-usdt-api',persistence:Boolean(env.DB),globalLiveTrading:env.ENABLE_LIVE_TRADING==='true',pilot:pilotConfig(env),usdt:usdtStatus(env)});
+  if(path==='/api/health')return json({ok:true,service:'CryptoPilot Worker',version:'2.3-social-microtrade-investor',persistence:Boolean(env.DB),globalLiveTrading:env.ENABLE_LIVE_TRADING==='true',pilot:pilotConfig(env),usdt:usdtStatus(env)});
   if(path==='/api/connectors'){const user=await authUser(request,env,false);return json({connectors:connectorCapabilities(env),userConnections:user?await listConnections(env,user.id):[]});}
   if(path==='/api/integrations')return json({integrations:integrationRegistry(env)});
   if(path==='/api/partner/roamwise')return json(roamwisePartner());
+  if(path==='/api/hyperliquid/mids')return json(await hyperliquidMids());
+  if(path==='/api/investor/summary')return json(await investorSummary(env));
+  if(path==='/api/investor/interest'&&request.method==='POST')return json(await createInvestorInterest(env,await requestJson(request)),201);
 
   if(path==='/api/auth/wallet/challenge'&&request.method==='POST')return json(await createWalletChallenge(env,(await requestJson(request)).address));
   if(path==='/api/auth/wallet/verify'&&request.method==='POST')return json(await verifyWalletChallenge(env,await requestJson(request)));
@@ -117,5 +124,5 @@ async function route(request,env){
   return json({error:'not found'},404);
 }
 
-export default{async fetch(request,env){try{return await route(request,env)}catch(e){const message=e?.message||String(e);const status=/Missing bearer|invalid or expired|signature is invalid|Challenge|X-CryptoPilot-Key|Invalid CryptoPilot API key/i.test(message)?401:/required|Unsupported|blocked|disabled|permission|cap|quota|circuit breaker|mode|not configured|allowlist|confirmations/i.test(message)?400:500;return json({error:message},status)}}};
+export default{async fetch(request,env){try{return await route(request,env)}catch(e){const message=e?.message||String(e);const status=/Missing bearer|invalid or expired|signature is invalid|Challenge|X-CryptoPilot-Key|Invalid CryptoPilot API key/i.test(message)?401:/required|Unsupported|blocked|disabled|permission|cap|quota|circuit breaker|mode|not configured|allowlist|confirmations|recent expression|Indicative amount|acknowledgement/i.test(message)?400:500;return json({error:message},status)}}};
 export { riskProfile,riskLimits,backtestSmaCross };

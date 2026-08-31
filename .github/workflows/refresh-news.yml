@@ -43,9 +43,10 @@ jobs:
       - name: Build current static site with fresh headlines
         run: |
           mkdir -p _site/data
-          cp index.html app.js production.js intelligence.js platform.js fallback.js manifest.webmanifest _site/
+          cp index.html app.js production.js intelligence.js platform.js v23.js v23-runtime.js fallback.js v23.css manifest.webmanifest _site/
           cp data/*.json _site/data/
-          sed -i 's#</body>#<script src="production.js"></script><script src="intelligence.js"></script><script src="platform.js"></script><script src="fallback.js"></script></body>#' _site/index.html
+          sed -i 's#</head>#<link rel="stylesheet" href="v23.css"></head>#' _site/index.html
+          sed -i 's#</body>#<script src="production.js"></script><script src="intelligence.js"></script><script src="platform.js"></script><script src="v23.js"></script><script src="v23-runtime.js"></script><script src="fallback.js"></script></body>#' _site/index.html
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

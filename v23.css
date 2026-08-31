@@ -1,0 +1,34 @@
+/* CryptoPilot 2.3 visual layer — animated, GPU-light, reduced-motion aware. */
+:root{--cp-glow:0 0 28px rgba(122,92,255,.18),0 0 70px rgba(0,229,255,.08)}
+body::before,body::after{content:"";position:fixed;pointer-events:none;z-index:-2;border-radius:50%;filter:blur(60px);opacity:.28;animation:cpDrift 18s ease-in-out infinite alternate}
+body::before{width:36vw;height:36vw;left:-10vw;top:10vh;background:radial-gradient(circle,#653bff 0%,transparent 68%)}
+body::after{width:30vw;height:30vw;right:-7vw;bottom:4vh;background:radial-gradient(circle,#00d8ff 0%,transparent 68%);animation-delay:-7s}
+.card{position:relative;overflow:hidden;backdrop-filter:blur(12px);box-shadow:var(--cp-glow);transition:transform .28s ease,box-shadow .28s ease,border-color .28s ease}
+.card:hover{transform:translateY(-2px);box-shadow:0 14px 50px rgba(0,0,0,.22),0 0 40px rgba(107,76,255,.14)}
+.card::after{content:"";position:absolute;inset:-1px;pointer-events:none;border-radius:inherit;background:linear-gradient(115deg,transparent 18%,rgba(255,255,255,.06) 47%,transparent 70%);transform:translateX(-115%);animation:cpSheen 9s ease-in-out infinite}
+.btn.primary{position:relative;overflow:hidden;box-shadow:0 0 22px rgba(123,92,255,.18)}
+.btn.primary::after{content:"";position:absolute;inset:-40%;background:conic-gradient(from 0deg,transparent,rgba(255,255,255,.18),transparent 28%);animation:cpSpin 7s linear infinite;pointer-events:none}
+.cp-hero{padding:22px;border:1px solid rgba(140,125,255,.22);border-radius:22px;background:linear-gradient(135deg,rgba(121,81,255,.13),rgba(0,217,255,.06) 48%,rgba(255,52,141,.06));position:relative;overflow:hidden}
+.cp-hero h2{font-size:clamp(28px,5vw,54px);line-height:1.02;margin:.2em 0;background:linear-gradient(90deg,#fff,#c6baff,#8feaff,#fff);background-size:250% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:cpText 8s linear infinite}
+.cp-kpi{font-size:clamp(28px,4vw,46px);font-weight:800;letter-spacing:-.04em}
+.cp-pill{display:inline-flex;gap:7px;align-items:center;border:1px solid rgba(255,255,255,.12);border-radius:999px;padding:7px 11px;margin:3px;background:rgba(255,255,255,.035)}
+.cp-dot{width:7px;height:7px;border-radius:50%;background:#4cff9a;box-shadow:0 0 10px #4cff9a;animation:cpPulse 1.8s ease-in-out infinite}
+.cp-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px}
+.cp-social{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:9px}
+.cp-social button,.cp-social a{text-align:center;justify-content:center}
+.cp-progress{height:12px;border-radius:999px;background:rgba(255,255,255,.06);overflow:hidden;border:1px solid rgba(255,255,255,.06)}
+.cp-progress>i{display:block;height:100%;min-width:3px;background:linear-gradient(90deg,#7657ff,#00d9ff,#56ffb4);background-size:200% 100%;animation:cpText 5s linear infinite}
+.cp-warning{border-left:3px solid #ffb84d;padding-left:12px}
+.cp-danger{border-left:3px solid #ff4d76;padding-left:12px}
+.cp-code{display:block;white-space:pre-wrap;word-break:break-word;padding:12px;border-radius:12px;background:rgba(0,0,0,.28);border:1px solid rgba(255,255,255,.08);font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px}
+.cp-glass{background:linear-gradient(180deg,rgba(255,255,255,.055),rgba(255,255,255,.018));border:1px solid rgba(255,255,255,.1);border-radius:16px;padding:14px}
+body[data-cp-theme="akatsuki-storm"]::before{background:radial-gradient(circle,#a40023 0%,transparent 68%);opacity:.38}
+body[data-cp-theme="akatsuki-storm"]::after{background:radial-gradient(circle,#3b0713 0%,transparent 68%)}
+body[data-cp-theme="liquid-neon"]::before{background:radial-gradient(circle,#4c31ff 0%,transparent 68%)}
+body[data-cp-theme="liquid-neon"]::after{background:radial-gradient(circle,#00f0d0 0%,transparent 68%)}
+@keyframes cpDrift{to{transform:translate3d(8vw,-5vh,0) scale(1.18)}}
+@keyframes cpSheen{0%,72%{transform:translateX(-115%)}88%,100%{transform:translateX(115%)}}
+@keyframes cpSpin{to{transform:rotate(360deg)}}
+@keyframes cpPulse{50%{opacity:.35;transform:scale(.75)}}
+@keyframes cpText{to{background-position:200% 0}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}.card:hover{transform:none}}

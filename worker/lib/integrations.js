@@ -1,18 +1,25 @@
 export function integrationRegistry(env={}){return [
   {id:'tether-wdk',category:'wallets/stablecoins',name:'Tether WDK + USDT',status:'prototype-ready',mode:'self-custodial',configured:Boolean(env.USDT_TOKEN_ADDRESS),notes:'WDK module example + verified EVM USDT merchant checkout; no server-side seed custody.'},
   {id:'circle-cctp-v2',category:'stablecoins/crosschain',name:'Circle CCTP V2',status:'adapter-ready',mode:'read/status',configured:true,notes:'CCTP V2 attestation/status endpoint; use Arc/Circle integrations for grant alignment.'},
+  {id:'uniswap',category:'dex',name:'Uniswap',status:'backend-free-microtrade-live',mode:'user-signed/custom-link',configured:true,notes:'Official prefilled swap link for $1–$5 user-signed experiments; wallet and Uniswap remain final transaction authority.'},
+  {id:'hyperliquid',category:'dex/perps/market-data',name:'Hyperliquid',status:'public-data-live',mode:'public-market-data-only',configured:true,notes:'Public allMids feed is integrated. Authenticated trading is deliberately not used for the $1–$5 rail because venue-side minimum order constraints apply.'},
   {id:'pyth',category:'oracle/market-data',name:'Pyth Core',status:'adapter-ready',mode:'read-only',configured:Boolean(env.PYTH_API_KEY),notes:'Uses post-Aug-26-2026 authenticated upgraded Hermes API.'},
   {id:'kalshi',category:'prediction-signals',name:'Kalshi',status:'live-public-market-api',mode:'market-data-only',configured:true,notes:'Public prediction-market data is an optional signal input. CryptoPilot does not expose authenticated Kalshi trading.'},
   {id:'centrifuge',category:'rwa',name:'Centrifuge',status:'live-public-api',mode:'read-only',configured:true,notes:'Public GraphQL RWA pool/token data; suitable for institutional RWA discovery.'},
   {id:'defillama',category:'defi-analytics',name:'DefiLlama',status:'live-public-api',mode:'read-only',configured:true,notes:'Protocol/TVL discovery and risk context.'},
   {id:'0x',category:'dex',name:'0x Swap API',status:'integrated',mode:'user-signed',configured:Boolean(env.ZEROX_API_KEY),notes:'Quote routing only; user wallet signs.'},
+  {id:'tempo',category:'payments/agentic-commerce',name:'Tempo',status:'integration-target',mode:'stablecoin-native-payments',configured:false,notes:'Track payments-first primitives: stablecoin gas, memos, fee sponsorship, smart accounts/passkeys and agentic microtransactions.'},
   {id:'coinbase',category:'cex',name:'Coinbase Advanced Trade',status:'integrated',mode:'paper/test/live/pilot',configured:true},
   {id:'binance',category:'cex',name:'Binance Spot',status:'integrated',mode:'paper/testnet/live/pilot',configured:true},
   {id:'kraken',category:'cex',name:'Kraken Spot',status:'integrated',mode:'paper/live/pilot',configured:true},
   {id:'robinhood',category:'cex',name:'Robinhood Crypto',status:'regional',mode:'paper/live/pilot',configured:true,notes:'Availability depends on user jurisdiction.'},
+  {id:'google-identity',category:'identity',name:'Google Identity Services',status:'frontend-ready',mode:'profile/onboarding-only',configured:false,notes:'Optional easy social profile. Wallet-signature authentication remains the financial authorization boundary.'},
+  {id:'web3auth-privy',category:'identity/wallets',name:'Web3Auth / Privy',status:'integration-target',mode:'embedded-wallet/social-login',configured:false,notes:'Optional social/email wallet onboarding after operator project IDs and security review.'},
   {id:'alchemy',category:'wallet-infra',name:'Alchemy Wallet APIs',status:'integration-target',mode:'smart-wallets/session-keys',configured:Boolean(env.ALCHEMY_API_KEY)},
   {id:'jupiter',category:'solana-dex',name:'Jupiter',status:'integration-target',mode:'user-signed',configured:Boolean(env.JUPITER_API_KEY)},
   {id:'lifi',category:'crosschain',name:'LI.FI',status:'integration-target',mode:'user-signed',configured:Boolean(env.LIFI_API_KEY)},
+  {id:'codex',category:'developer-agents',name:'OpenAI Codex',status:'repo-ready',mode:'AGENTS.md + OpenAPI/MCP-ready',configured:true,notes:'Repository rules keep financial safety gates and secret handling explicit.'},
+  {id:'claude-code',category:'developer-agents',name:'Claude Code',status:'repo-ready',mode:'CLAUDE.md + MCP-ready',configured:true,notes:'Repository rules mirror the same test/live-trading/token-sale safety constraints.'},
   {id:'roamwise',category:'partner',name:'RoamWise',status:'founder-ecosystem-partner',mode:'referral/api',configured:true,notes:'Travel planning and travel-utility partner reference.'}
 ];}
 
