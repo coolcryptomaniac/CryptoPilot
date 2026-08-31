@@ -1,0 +1,14 @@
+name = "cryptopilot-api"
+main = "index.js"
+compatibility_date = "2026-08-01"
+
+[vars]
+ENABLE_LIVE_TRADING = "false"
+BINANCE_TESTNET = "true"
+
+# Add secrets with `wrangler secret put NAME` rather than committing them:
+# BINANCE_API_KEY, BINANCE_API_SECRET
+# KRAKEN_API_KEY, KRAKEN_API_SECRET
+# COINBASE_API_KEY, COINBASE_API_SECRET
+# ROBINHOOD_API_KEY, ROBINHOOD_PRIVATE_KEY
+# ZEROX_API_KEY, TELEGRAM_BOT_TOKEN, COINBASE_PAYMENT_BEARER
