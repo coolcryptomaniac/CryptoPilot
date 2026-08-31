@@ -1,0 +1,16 @@
+{
+  "controls": [
+    {"id":"non-custodial","label":"Non-custodial architecture","status":"implemented"},
+    {"id":"encrypted-credentials","label":"AES-GCM encrypted exchange credentials","status":"implemented"},
+    {"id":"wallet-auth","label":"Wallet-signature authentication","status":"implemented"},
+    {"id":"audit-log","label":"Application audit trail","status":"implemented"},
+    {"id":"risk-gates","label":"Deterministic order caps and circuit breakers","status":"implemented"},
+    {"id":"kill-switch","label":"User and operator emergency stop","status":"implemented"},
+    {"id":"idempotency","label":"Duplicate-order/idempotency protection","status":"implemented"},
+    {"id":"user-signed-dex","label":"User-signed DEX transactions","status":"implemented"},
+    {"id":"segregated-custody","label":"Institutional segregated/MPC custody connector","status":"planned"},
+    {"id":"dual-approval","label":"Dual-control trade approvals","status":"planned"},
+    {"id":"soc2","label":"SOC 2 / independent controls report","status":"external-required"},
+    {"id":"contract-audit","label":"Independent smart-contract audit","status":"external-required"}
+  ]
+}
