@@ -1,0 +1,11 @@
+{
+  "items": [],
+  "sources": [
+    {"source":"coindesk","ok":false,"count":0,"error":"Awaiting first GitHub Actions refresh"},
+    {"source":"cointelegraph","ok":false,"count":0,"error":"Awaiting first GitHub Actions refresh"},
+    {"source":"investing","ok":false,"count":0,"error":"Awaiting first GitHub Actions refresh"}
+  ],
+  "fetchedAt": null,
+  "mode": "github-actions-rss-cache",
+  "copyright": "Headlines and publisher links only; full articles remain with their publishers."
+}
