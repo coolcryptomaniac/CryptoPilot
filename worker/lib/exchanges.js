@@ -3,6 +3,7 @@ import nacl from 'tweetnacl';
 import { audit,b64ToBytes,bytesToB64,hmacHex,nowIso,sha256Bytes,te,uuid } from './util.js';
 import { connectionFor } from './vault.js';
 import { getRiskProfile,riskLimits } from './risk.js';
+import { assertPilotOrder } from './pilot.js';
 
 export const ALLOWED_EXCHANGES=new Set(['coinbase','binance','kraken','robinhood']);
 async function krakenSign(path,nonce,body,secret){
@@ -44,22 +45,23 @@ async function robinhoodOrder(connection,o){
   const r=await fetch(`https://trading.robinhood.com${path}`,{method,headers:{'x-api-key':connection.credentials.apiKey,'x-timestamp':timestamp,'x-signature':signature,'content-type':'application/json; charset=utf-8'},body});return {status:r.status,data:await r.json()};
 }
 function inferNotional(o){for(const x of [o.notional_usd,o.quote_amount,o.quoteOrderQty,o.quote_size])if(Number(x)>0)return Number(x);return 0;}
-async function gateOrder(env,userId,connection,order){
-  const profile=await getRiskProfile(env,userId),limits=riskLimits(profile,env); if(limits.paused)throw new Error(`Trading is paused${profile.paused_reason?`: ${profile.paused_reason}`:''}`); if(!connection.permissions.includes('trade'))throw new Error('Connector lacks trade permission');
-  const paper=connection.mode==='paper',testnet=connection.exchange==='binance'&&connection.mode==='testnet';
-  if(!paper&&!testnet){if(env.ENABLE_LIVE_TRADING!=='true')throw new Error('Global live trading switch is disabled');if(!connection.live_enabled)throw new Error('User-level live trading switch is disabled for this connector');}
-  const notional=inferNotional(order);if(!paper&&!notional)throw new Error('notional_usd or a quote amount is required for deterministic live risk checks');if(!paper&&notional>limits.maxOrderUsd)throw new Error(`Order blocked: $${notional.toFixed(2)} exceeds current $${limits.maxOrderUsd.toFixed(2)} hard order cap`);
-  if(!paper&&env.DB){const since=new Date(Date.now()-24*3600*1000).toISOString(),count=await env.DB.prepare("SELECT COUNT(*) AS n FROM orders WHERE user_id=? AND mode!='paper' AND created_at>=?").bind(userId,since).first();if(Number(count?.n||0)>=limits.maxDailyOrders)throw new Error('Daily live/test order count circuit breaker reached');}
-  return {paper,testnet,notional};
+async function gateOrder(env,user,connection,order){
+  const profile=await getRiskProfile(env,user.id),limits=riskLimits(profile,env); if(limits.paused)throw new Error(`Trading is paused${profile.paused_reason?`: ${profile.paused_reason}`:''}`); if(!connection.permissions.includes('trade'))throw new Error('Connector lacks trade permission');
+  const paper=connection.mode==='paper',testnet=connection.exchange==='binance'&&connection.mode==='testnet',pilot=connection.mode==='pilot';let notional=inferNotional(order),pilotPolicy=null;
+  if(pilot){if(!connection.live_enabled)throw new Error('User-level pilot trading switch is disabled for this connector');pilotPolicy=await assertPilotOrder(env,user,order,env.DB);notional=pilotPolicy.notional;}
+  else if(!paper&&!testnet){if(env.ENABLE_LIVE_TRADING!=='true')throw new Error('Global live trading switch is disabled');if(!connection.live_enabled)throw new Error('User-level live trading switch is disabled for this connector');}
+  if(!paper&&!notional)throw new Error('notional_usd or a quote amount is required for deterministic live/test risk checks');if(!paper&&notional>limits.maxOrderUsd)throw new Error(`Order blocked: $${notional.toFixed(2)} exceeds current $${limits.maxOrderUsd.toFixed(2)} hard order cap`);
+  if(!paper&&!pilot&&env.DB){const since=new Date(Date.now()-24*3600*1000).toISOString(),count=await env.DB.prepare("SELECT COUNT(*) AS n FROM orders WHERE user_id=? AND mode!='paper' AND created_at>=?").bind(user.id,since).first();if(Number(count?.n||0)>=limits.maxDailyOrders)throw new Error('Daily live/test order count circuit breaker reached');}
+  return {paper,testnet,pilot,notional,pilotPolicy};
 }
 export async function executeOrder(request,env,user,exchange,body={}){
   const key=request.headers.get('x-idempotency-key')||body.idempotency_key;if(!key||key.length>128)throw new Error('X-Idempotency-Key is required (1-128 characters)');
   const existing=await env.DB.prepare('SELECT * FROM orders WHERE idempotency_key=? LIMIT 1').bind(key).first();if(existing)return {replay:true,order:existing,response:existing.response_json?JSON.parse(existing.response_json):null};
-  const connection=await connectionFor(env,user.id,exchange);connection.exchange=exchange;const gate=await gateOrder(env,user.id,connection,body),orderId=uuid(),symbol=body.symbol||body.product_id||body.pair||'UNKNOWN',created=nowIso();
+  const connection=await connectionFor(env,user.id,exchange);connection.exchange=exchange;const gate=await gateOrder(env,user,connection,body),orderId=uuid(),symbol=body.symbol||body.product_id||body.pair||'UNKNOWN',created=nowIso();
   await env.DB.prepare("INSERT INTO orders(id,user_id,exchange,mode,symbol,side,order_type,quantity,quote_amount,notional_usd,status,idempotency_key,request_json,created_at,updated_at) VALUES(?,?,?,?,?,?,?,?,?,?,'pending',?,?,?,?)").bind(orderId,user.id,exchange,connection.mode,symbol,String(body.side||''),String(body.type||'market'),Number(body.quantity||body.volume||0)||null,Number(body.quote_amount||body.quoteOrderQty||body.quote_size||0)||null,gate.notional||null,key,JSON.stringify(body),created,created).run();
   if(gate.paper){const response={success:true,paper:true,order_id:orderId,symbol,side:body.side,notional_usd:gate.notional||null,message:'Paper order recorded; no exchange request was sent.'};await env.DB.prepare("UPDATE orders SET status='paper_filled',response_json=?,updated_at=? WHERE id=?").bind(JSON.stringify(response),nowIso(),orderId).run();await audit(env,user.id,'order.paper',{exchange,symbol,side:body.side,notional:gate.notional});return response;}
   try{
     const upstream=exchange==='coinbase'?await coinbaseOrder(connection.credentials,body):exchange==='binance'?await binanceOrder(connection,body):exchange==='kraken'?await krakenOrder(connection,body):await robinhoodOrder(connection,body),ok=upstream.status>=200&&upstream.status<300,external=upstream.data?.order_id||upstream.data?.orderId||upstream.data?.id||upstream.data?.order?.order_id||null;
-    await env.DB.prepare('UPDATE orders SET status=?,external_order_id=?,response_json=?,updated_at=? WHERE id=?').bind(ok?'submitted':'rejected',external,JSON.stringify(upstream.data),nowIso(),orderId).run();await audit(env,user.id,ok?'order.submitted':'order.rejected',{exchange,symbol,status:upstream.status,notional:gate.notional},ok?'warning':'error');return {localOrderId:orderId,upstreamStatus:upstream.status,data:upstream.data};
-  }catch(e){await env.DB.prepare("UPDATE orders SET status='error',response_json=?,updated_at=? WHERE id=?").bind(JSON.stringify({error:e.message}),nowIso(),orderId).run();await audit(env,user.id,'order.error',{exchange,symbol,error:e.message},'error');throw e;}
+    await env.DB.prepare('UPDATE orders SET status=?,external_order_id=?,response_json=?,updated_at=? WHERE id=?').bind(ok?'submitted':'rejected',external,JSON.stringify(upstream.data),nowIso(),orderId).run();await audit(env,user.id,ok?'order.submitted':'order.rejected',{exchange,symbol,status:upstream.status,notional:gate.notional,mode:connection.mode},ok?'warning':'error');return {localOrderId:orderId,mode:connection.mode,pilot:gate.pilot,upstreamStatus:upstream.status,data:upstream.data};
+  }catch(e){await env.DB.prepare("UPDATE orders SET status='error',response_json=?,updated_at=? WHERE id=?").bind(JSON.stringify({error:e.message}),nowIso(),orderId).run();await audit(env,user.id,'order.error',{exchange,symbol,error:e.message,mode:connection.mode},'error');throw e;}
 }
