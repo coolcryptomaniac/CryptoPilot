@@ -12,6 +12,7 @@ jobs:
         run: |
           node --check app.js
           node --check production.js
+          node --check intelligence.js
           grep -q "CryptoPilot" index.html
       - name: Worker dependencies and tests
         working-directory: worker
