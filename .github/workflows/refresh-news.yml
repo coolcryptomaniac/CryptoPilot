@@ -10,11 +10,16 @@ on:
       - '.github/workflows/refresh-news.yml'
 permissions:
   contents: write
+  pages: write
+  id-token: write
 concurrency:
   group: refresh-crypto-news
   cancel-in-progress: true
 jobs:
   refresh:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -27,10 +32,23 @@ jobs:
         run: |
           if git diff --quiet -- data/news.json; then
             echo 'No news changes.'
-            exit 0
+          else
+            git config user.name 'cryptopilot-news-bot'
+            git config user.email 'actions@users.noreply.github.com'
+            git add data/news.json
+            git commit -m 'chore: refresh crypto news headlines'
+            git push
           fi
-          git config user.name 'cryptopilot-news-bot'
-          git config user.email 'actions@users.noreply.github.com'
-          git add data/news.json
-          git commit -m 'chore: refresh crypto news headlines'
-          git push
+      - uses: actions/configure-pages@v5
+      - name: Build current static site with fresh headlines
+        run: |
+          mkdir -p _site/data
+          cp index.html app.js production.js intelligence.js fallback.js manifest.webmanifest _site/
+          cp data/*.json _site/data/
+          sed -i 's#</body>#<script src="production.js"></script><script src="intelligence.js"></script><script src="fallback.js"></script></body>#' _site/index.html
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Deploy fresh headlines to Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
