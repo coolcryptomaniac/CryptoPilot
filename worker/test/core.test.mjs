@@ -6,6 +6,9 @@ import { riskLimits,riskProfile } from '../lib/risk.js';
 import { safeEqualHex } from '../lib/util.js';
 import { parseRss } from '../lib/news.js';
 import { grantRadar } from '../lib/grants.js';
+import { pilotConfig,isPilotWalletAllowed } from '../lib/pilot.js';
+import { usdtStatus } from '../lib/usdt.js';
+import { integrationRegistry } from '../lib/integrations.js';
 
 test('risk score stays inside constitution bounds',()=>{
   assert.equal(riskProfile({style:'Conservative',networth:10000,drawdown:5,singleCap:5,lessRiskClicks:10}),15);
@@ -25,3 +28,7 @@ test('SMA baseline produces finite deterministic metrics',()=>{
 });
 test('RSS parser keeps headline link and short excerpt only',()=>{const xml='<rss><channel><item><title><![CDATA[Test &amp; BTC]]></title><link>https://example.com/a</link><pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate><description><![CDATA[<p>Short summary.</p>]]></description></item></channel></rss>',x=parseRss(xml,{id:'x',name:'Example'},10);assert.equal(x.length,1);assert.equal(x[0].title,'Test & BTC');assert.equal(x[0].summary,'Short summary.');});
 test('grant radar exposes readiness gaps rather than eligibility claims',()=>{const r=grantRadar({ecosystem:'TRON'});assert.equal(r.grants.length,1);assert.ok(r.grants[0].readiness.missing.includes('tronIntegration'));assert.match(r.disclaimer,/not eligibility/i);});
+test('Tether grant radar exists and never makes a funding guarantee',()=>{const r=grantRadar({ecosystem:'Tether'});assert.ok(r.grants.length>=2);assert.ok(r.grants.some(g=>g.program.includes('Developer Grants')));assert.match(r.disclaimer,/not eligibility|not a funding guarantee/i);});
+test('Pilot defaults are tiny and require explicit allowlisting',()=>{const env={PILOT_ALLOWED_WALLETS:'0xabc,0xdef'};const c=pilotConfig(env);assert.equal(c.enabled,false);assert.equal(c.maxOrderUsd,25);assert.equal(c.maxDailyNotionalUsd,100);assert.equal(c.maxDailyOrders,5);assert.equal(isPilotWalletAllowed({wallet_address:'0xAbC'},env),true);assert.equal(isPilotWalletAllowed({wallet_address:'0x999'},env),false);});
+test('USDT reports unconfigured rather than guessing chain addresses',()=>{const s=usdtStatus({});assert.equal(s.configured,false);assert.match(s.error,/not fully configured/i);});
+test('Kalshi is signal-only and RWA integration is read-only',()=>{const r=integrationRegistry({});const k=r.find(x=>x.id==='kalshi'),c=r.find(x=>x.id==='centrifuge');assert.equal(k.mode,'market-data-only');assert.equal(c.mode,'read-only');assert.ok(r.some(x=>x.id==='tether-wdk'));});
