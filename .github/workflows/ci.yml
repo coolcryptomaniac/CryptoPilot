@@ -16,7 +16,9 @@ jobs:
           node --check app.js
           node --check production.js
           node --check intelligence.js
+          node --check platform.js
           node --check fallback.js
+          node --check web3/tether-wdk.example.mjs
           python -m py_compile scripts/refresh_news.py
           python -m json.tool data/news.json >/dev/null
           python -m json.tool data/grants.json >/dev/null
