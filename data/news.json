@@ -3,6 +3,27 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
+      "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
+      "published": "Tue, 01 Sep 2026 15:36:27 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
+      "url": "https://www.coindesk.com/markets/2026/09/01/robinhood-s-new-crypto-network-is-printing-cash-and-it-s-sending-arbitrum-s-token-soaring",
+      "published": "Tue, 01 Sep 2026 15:28:29 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Musk’s X hit by wave of unsolicited password reset emails",
+      "url": "https://www.coindesk.com/tech/2026/09/01/musk-s-x-hit-by-wave-of-unsolicited-password-reset-emails",
+      "published": "Tue, 01 Sep 2026 14:59:12 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
       "url": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
       "published": "Tue, 01 Sep 2026 13:56:44 +0000"
@@ -66,7 +87,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin trades around $78,000 as crude surges, global bond sell-off deepens",
+      "title": "Live updates: Bitcoin slumps as oil surges to three-month high on new Iran strikes",
       "url": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
       "published": "Tue, 01 Sep 2026 08:35:57 +0000"
     },
@@ -148,25 +169,39 @@
       "published": "Mon, 31 Aug 2026 12:11:04 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Robinhood Chain beats Ethereum in daily revenue as memecoin trading takes over",
-      "url": "https://www.coindesk.com/markets/2026/08/31/robinhood-chain-beats-ethereum-in-daily-revenue-as-memecoin-trading-takes-over",
-      "published": "Mon, 31 Aug 2026 11:53:56 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
+      "url": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 01 Sep 2026 17:52:51 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Sberbank plans to add ether and USDT as collateral for crypto-backed loans: Report",
-      "url": "https://www.coindesk.com/business/2026/08/31/sberbank-plans-to-add-ether-and-usdt-as-collateral-for-crypto-backed-loans",
-      "published": "Mon, 31 Aug 2026 11:26:26 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Kalshi issues first lifetime ban for Republican politician over insider bets",
+      "url": "https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 01 Sep 2026 17:39:48 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Here's 1 metric on U.S. debt that makes bitcoin's bull case look stronger than ever",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/31/here-s-1-metric-on-u-s-debt-that-makes-bitcoin-s-bull-case-look-stronger-than-ever",
-      "published": "Mon, 31 Aug 2026 11:25:34 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
+      "url": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 01 Sep 2026 16:39:12 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Ethena launches USDe payments app, offers 6% rewards",
+      "url": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 01 Sep 2026 16:06:58 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin stays flat as global bond bear market rages on, pushing JGB to high",
+      "url": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 01 Sep 2026 15:34:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -302,39 +337,39 @@
       "published": "Mon, 31 Aug 2026 13:30:00 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Japanese regulator requests tax filing exemption for trust-type stablecoins in 2027 reform",
-      "url": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 31 Aug 2026 13:20:05 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bybit Expands Islamic Account, Adding 100 New Shariah-Compliant Trading Pairs",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bybit-expands-islamic-account-adding-100-new-shariahcompliant-trading-pairs-4884364",
+      "published": "2026-09-01 16:00:42"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Metaplanet moves 4,800 BTC worth $377M to Coinbase",
-      "url": "https://cointelegraph.com/news/mutiny-metaplanet-moves-4800-btc-worth-377m-to-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 31 Aug 2026 13:19:00 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Aster and World Liberty Financial Launch USD1 RWA Boost: Phase 1, Offering 125M $WLFI + 6.25M USD1 in Rewards",
+      "url": "https://www.investing.com/news/cryptocurrency-news/aster-and-world-liberty-financial-launch-usd1-rwa-boost-phase-1-offering-125m-wlfi--625m-usd1-in-rewards-4884288",
+      "published": "2026-09-01 14:31:02"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Strategy buys $370M Bitcoin in first corporate purchase since June",
-      "url": "https://cointelegraph.com/news/strategy-buys-370m-bitcoin-first-acquisition-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 31 Aug 2026 12:45:12 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Alkemya Metacore Secures $50M via Tokenised Equity to Scale Nickel Energy and Security Tech",
+      "url": "https://www.investing.com/news/cryptocurrency-news/alkemya-metacore-secures-50m-via-tokenised-equity-to-scale-nickel-energy-and-security-tech-4884289",
+      "published": "2026-09-01 14:31:02"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Hyperliquid, Pump.fun account for nearly 90% of record $638M crypto buybacks: FT",
-      "url": "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 31 Aug 2026 11:21:57 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Silhouette and xStocks Launch RFQ Trading for Tokenized Equities on Hyperliquid",
+      "url": "https://www.investing.com/news/cryptocurrency-news/silhouette-and-xstocks-launch-rfq-trading-for-tokenized-equities-on-hyperliquid-4884287",
+      "published": "2026-09-01 14:31:01"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Markets pivot to September Fed rate hike: Five things to know in Bitcoin this week",
-      "url": "https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 31 Aug 2026 10:51:49 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin steady above $78k as Strategy resumes buying; rate, Iran jitters persist",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-79k-as-strategy-resumes-buying-rate-iran-jitters-persist-4883529",
+      "published": "2026-09-01 14:22:22"
     },
     {
       "source": "Investing.com",
@@ -342,13 +377,6 @@
       "title": "Theorem Launches Exchange Infrastructure Built for the Next Phase of Tokenized Asset Markets",
       "url": "https://www.investing.com/news/cryptocurrency-news/theorem-launches-exchange-infrastructure-built-for-the-next-phase-of-tokenized-asset-markets-4884158",
       "published": "2026-09-01 13:30:37"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin steady near $78k as Strategy resumes buying; rate, Iran jitters persist",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-79k-as-strategy-resumes-buying-rate-iran-jitters-persist-4883529",
-      "published": "2026-09-01 09:23:59"
     },
     {
       "source": "Investing.com",
@@ -377,34 +405,6 @@
       "title": "ChangeNOW’s Fast Track Program Welcomes New Participant: Qastle Wallet",
       "url": "https://www.investing.com/news/cryptocurrency-news/changenows-fast-track-program-welcomes-new-participant-qastle-wallet-4883088",
       "published": "2026-08-31 16:30:36"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin’s worst is over, former Credit Suisse risk head sees $150,000 by 2027",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoins-worst-is-over-former-credit-suisse-risk-head-sees-150000-by-2027-4883017",
-      "published": "2026-08-31 14:50:19"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Coinbase and Webull expand crypto partnership to Canada",
-      "url": "https://www.investing.com/news/cryptocurrency-news/coinbase-and-webull-expand-crypto-partnership-to-canada-432SI-4882845",
-      "published": "2026-08-31 13:13:03"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Blackboard to Open Alpha on September 1",
-      "url": "https://www.investing.com/news/cryptocurrency-news/blackboard-to-open-alpha-on-september-1-4882730",
-      "published": "2026-08-31 12:30:33"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Strategy purchases 4,603 bitcoin",
-      "url": "https://www.investing.com/news/cryptocurrency-news/strategy-purchases-4603-bitcoin-432SI-4882693",
-      "published": "2026-08-31 12:15:02"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-01T14:53:45.105332+00:00",
+  "fetchedAt": "2026-09-01T18:30:58.545445+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
