@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
+      "url": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading",
+      "published": "Tue, 01 Sep 2026 23:55:46 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
       "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
       "published": "Tue, 01 Sep 2026 15:36:27 +0000"
@@ -160,13 +167,6 @@
       "title": "Bitmine makes largest ether purchase since June as Tom Lee points to crypto's strong Q3",
       "url": "https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3",
       "published": "Mon, 31 Aug 2026 12:53:17 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Strategy returns to bitcoin buys, adding $370 million of BTC last week",
-      "url": "https://www.coindesk.com/markets/2026/08/31/strategy-returns-to-bitcoin-buys-adding-usd370-million-worth-last-week",
-      "published": "Mon, 31 Aug 2026 12:11:04 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -339,6 +339,13 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
+      "title": "Bitcoin slips a day after posting its best monthly performance since November 2024",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-79k-as-strategy-resumes-buying-rate-iran-jitters-persist-4883529",
+      "published": "2026-09-01 22:03:01"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
       "title": "Bitcoin bearish Marubozu near $77,248: Live levels",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-consolidates-at-76200-support-live-levels-93CH-4882214",
       "published": "2026-09-01 19:19:22"
@@ -370,13 +377,6 @@
       "title": "Silhouette and xStocks Launch RFQ Trading for Tokenized Equities on Hyperliquid",
       "url": "https://www.investing.com/news/cryptocurrency-news/silhouette-and-xstocks-launch-rfq-trading-for-tokenized-equities-on-hyperliquid-4884287",
       "published": "2026-09-01 14:31:01"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin steady above $78k as Strategy resumes buying; rate, Iran jitters persist",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-79k-as-strategy-resumes-buying-rate-iran-jitters-persist-4883529",
-      "published": "2026-09-01 14:22:22"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-01T21:46:56.502700+00:00",
+  "fetchedAt": "2026-09-02T00:14:36.166975+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
