@@ -3,6 +3,34 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
+      "url": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
+      "published": "Thu, 03 Sep 2026 15:58:02 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Crypto for Advisors: Why crypto earnings reports can be misleading",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/03/crypto-for-advisors-why-crypto-earnings-reports-can-be-misleading",
+      "published": "Thu, 03 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes",
+      "url": "https://www.coindesk.com/tech/2026/09/03/a-memecoin-making-app-becomes-crypto-s-top-fee-generators-as-robinhood-chain-activity-explodes",
+      "published": "Thu, 03 Sep 2026 14:51:39 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution",
+      "url": "https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution",
+      "published": "Thu, 03 Sep 2026 14:41:25 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "SoFi, Kraken tie up as crypto and banking push into each other's turf",
       "url": "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
       "published": "Thu, 03 Sep 2026 12:00:00 +0000"
@@ -24,7 +52,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin jumps above $79,000 as rates fall, dollar weakens",
+      "title": "Live updates: Bitcoin jumps above $81,000 as rates fall, dollar weakens",
       "url": "https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015",
       "published": "Thu, 03 Sep 2026 10:42:15 +0000"
     },
@@ -141,32 +169,25 @@
       "published": "Wed, 02 Sep 2026 11:45:16 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "A Fed rate increase would be a mistake, some observers say as bitcoin, gold, stocks fall",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/02/a-fed-rate-increase-would-be-a-mistake-some-observers-say-as-bitcoin-gold-stocks-fall",
-      "published": "Wed, 02 Sep 2026 11:14:58 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bybit Pay integrates with Mesh to expand crypto payments",
+      "url": "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 03 Sep 2026 17:13:04 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant",
-      "url": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant",
-      "published": "Wed, 02 Sep 2026 11:03:46 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026",
+      "url": "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 03 Sep 2026 17:06:28 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin slips below $76,500 as U.S. strikes on Iran send oil above $93",
-      "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-slips-below-usd77-000-as-u-s-strikes-on-iran-send-oil-above-usd93",
-      "published": "Wed, 02 Sep 2026 10:50:38 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Former UK Prime Minister Liz Truss says bond rout could force emergency spending cuts",
-      "url": "https://www.coindesk.com/markets/2026/09/02/former-uk-prime-minister-liz-truss-says-bond-rout-could-force-emergency-spending-cuts",
-      "published": "Wed, 02 Sep 2026 10:27:30 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
+      "url": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 03 Sep 2026 16:04:11 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -316,25 +337,18 @@
       "published": "Wed, 02 Sep 2026 13:11:25 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Thai businessmen sue Tether for freezing $42M in $61M pig butchering case",
-      "url": "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 02 Sep 2026 12:00:00 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Grupo Salinas Selects Integral Digital to Power Coinpro’s Institutional Digital Asset Trading Desk",
+      "url": "https://www.investing.com/news/cryptocurrency-news/grupo-salinas-selects-integral-digital-to-power-coinpros-institutional-digital-asset-trading-desk-4888302",
+      "published": "2026-09-03 16:00:35"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Japan’s Remixpoint dumps altcoins, leaves 1,506 BTC as sole crypto bet",
-      "url": "https://cointelegraph.com/news/remixpoint-dumps-altcoins-1506-btc-sole-crypto-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 02 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Thailand adopts crypto Travel Rule with self-custodial wallet checks",
-      "url": "https://cointelegraph.com/news/thailand-crypto-travel-rule-self-custodial-wallet-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 02 Sep 2026 10:56:15 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Cardano Climbs 10% In a Green Day",
+      "url": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-a-green-day-4888230",
+      "published": "2026-09-03 14:49:59"
     },
     {
       "source": "Investing.com",
@@ -391,20 +405,6 @@
       "title": "Bitcoin slips a day after posting its best monthly performance since November 2024",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-79k-as-strategy-resumes-buying-rate-iran-jitters-persist-4883529",
       "published": "2026-09-01 22:03:01"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bybit Expands Islamic Account, Adding 100 New Shariah-Compliant Trading Pairs",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bybit-expands-islamic-account-adding-100-new-shariahcompliant-trading-pairs-4884364",
-      "published": "2026-09-01 16:00:42"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Aster and World Liberty Financial Launch USD1 RWA Boost: Phase 1, Offering 125M $WLFI + 6.25M USD1 in Rewards",
-      "url": "https://www.investing.com/news/cryptocurrency-news/aster-and-world-liberty-financial-launch-usd1-rwa-boost-phase-1-offering-125m-wlfi--625m-usd1-in-rewards-4884288",
-      "published": "2026-09-01 14:31:02"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-03T14:34:51.031268+00:00",
+  "fetchedAt": "2026-09-03T18:39:27.513924+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
