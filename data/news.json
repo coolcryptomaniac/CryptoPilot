@@ -3,6 +3,20 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in",
+      "url": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
+      "published": "Fri, 04 Sep 2026 14:56:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
+      "url": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns",
+      "published": "Fri, 04 Sep 2026 14:23:11 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral'",
       "url": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral",
       "published": "Fri, 04 Sep 2026 14:12:34 +0000"
@@ -155,18 +169,25 @@
       "published": "Thu, 03 Sep 2026 10:29:52 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears",
-      "url": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
-      "published": "Thu, 03 Sep 2026 10:09:31 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
+      "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 17:22:58 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
-      "url": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
-      "published": "Thu, 03 Sep 2026 09:13:40 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "QuFi launches post-quantum verification platform with Bitcoin testnet proof",
+      "url": "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 17:09:25 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "US law enforcement group moves to ‘neutral’ position on CLARITY Act",
+      "url": "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 17:05:34 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -316,32 +337,25 @@
       "published": "Thu, 03 Sep 2026 12:41:11 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia",
-      "url": "https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 03 Sep 2026 10:59:34 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Standard Chartered launches spot Bitcoin and Ether trading in UAE",
-      "url": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 03 Sep 2026 10:15:34 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Coldcard hacker swaps stolen Bitcoin for ETH via THORChain",
-      "url": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 03 Sep 2026 09:31:07 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "CoinRabbit Wins “Best Crypto Lending Platform 2026” Award from International Business Magazine",
+      "url": "https://www.investing.com/news/cryptocurrency-news/coinrabbit-wins-best-crypto-lending-platform-2026-award-from-international-business-magazine-4889859",
+      "published": "2026-09-04 16:30:43"
     },
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin surges above $81k as rate hike fears cool, regulatory hopes grow",
+      "title": "Bitcoin pares gains, holds above $79k as strong jobs data boosts rate hike bets",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rallies-past-81k-as-rate-hike-fears-cool-regulatory-hopes-grow-4888849",
-      "published": "2026-09-04 09:33:03"
+      "published": "2026-09-04 14:04:03"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Liquid Mercury Announces Initial Closing of ACQUA1 Offering",
+      "url": "https://www.investing.com/news/cryptocurrency-news/liquid-mercury-announces-initial-closing-of-acqua1-offering-4889708",
+      "published": "2026-09-04 14:00:33"
     },
     {
       "source": "Investing.com",
@@ -391,20 +405,6 @@
       "title": "Echo Base Forms BitMart Claimholder Group Following Bankruptcy Restructuring Proposal",
       "url": "https://www.investing.com/news/cryptocurrency-news/echo-base-forms-bitmart-claimholder-group-following-bankruptcy-restructuring-proposal-4886605",
       "published": "2026-09-02 18:00:37"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "GSR Expands Regulated Footprint for the Onchain Future of Finance",
-      "url": "https://www.investing.com/news/cryptocurrency-news/gsr-expands-regulated-footprint-for-the-onchain-future-of-finance-4886270",
-      "published": "2026-09-02 13:30:34"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Exclusive: Symbiotic hires ex-SocGen AM APAC chief to lead onchain push",
-      "url": "https://www.investing.com/news/cryptocurrency-news/exclusive-symbiotic-hires-exsocgen-am-apac-chief-to-lead-onchain-push-4885912",
-      "published": "2026-09-02 11:30:53"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-04T14:22:03.534178+00:00",
+  "fetchedAt": "2026-09-04T18:24:29.489957+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
