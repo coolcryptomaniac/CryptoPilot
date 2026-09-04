@@ -3,7 +3,56 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin ETFs take $731 million, their biggest day since January",
+      "title": "U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral'",
+      "url": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral",
+      "published": "Fri, 04 Sep 2026 14:12:34 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
+      "url": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
+      "published": "Fri, 04 Sep 2026 12:31:47 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/04/we-checked-6-years-of-bitcoin-data-the-nfp-report-isn-t-big-price-mover",
+      "published": "Fri, 04 Sep 2026 11:29:05 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
+      "url": "https://www.coindesk.com/markets/2026/09/04/zcash-jumps-20-to-landmark-usd1-000-level-as-short-sellers-lose-usd34-million",
+      "published": "Fri, 04 Sep 2026 10:40:14 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
+      "url": "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally",
+      "published": "Fri, 04 Sep 2026 09:57:01 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "IMF confirms El Salvador’s bitcoin growth was funded by private donations, not public money",
+      "url": "https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money",
+      "published": "Fri, 04 Sep 2026 09:47:15 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "South Korea targets February 2027 rollout for full tokenized securities market",
+      "url": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
+      "published": "Fri, 04 Sep 2026 09:41:31 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Live updates: Bitcoin tumbles after blowout August jobs print",
       "url": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
       "published": "Fri, 04 Sep 2026 07:34:07 +0000"
     },
@@ -120,53 +169,53 @@
       "published": "Thu, 03 Sep 2026 09:13:40 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Catastrophe bonds may join tokenization rush, with plans for test issuance in 2027",
-      "url": "https://www.coindesk.com/business/2026/09/03/catastrophe-bonds-may-join-tokenization-rush-with-plans-for-test-issuance-in-2027",
-      "published": "Thu, 03 Sep 2026 08:30:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
+      "url": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 13:34:30 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin’s fabled golden cross is coming. And USDT may be the real signal this time",
-      "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-s-fabled-golden-cross-is-coming-and-usdt-may-be-the-real-signal-this-time",
-      "published": "Thu, 03 Sep 2026 07:01:28 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Token buybacks are booming. But are they good for crypto projects?",
+      "url": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 13:30:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
-      "url": "https://www.coindesk.com/markets/2026/09/03/dogecoin-becomes-losing-bet-for-japan-listed-firm-remixpoint-as-it-sells-altcoins-for-bitcoin",
-      "published": "Thu, 03 Sep 2026 04:58:05 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 13:30:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
-      "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
-      "published": "Thu, 03 Sep 2026 04:22:40 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Kalshi US visits soar 1,500% as regulatory pressure mounts",
+      "url": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 11:32:28 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
-      "url": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
-      "published": "Wed, 02 Sep 2026 21:24:26 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Trezor says data breach affects another 67K US customers",
+      "url": "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 11:19:19 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
-      "url": "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest",
-      "published": "Wed, 02 Sep 2026 20:08:34 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "South Korean regulators introduce tokenized securities roadmap",
+      "url": "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 10:42:10 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto made new friends in U.S. primaries, but focus now shifts to general election",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/02/crypto-made-new-friends-in-u-s-primaries-but-focus-now-shifts-to-general-election",
-      "published": "Wed, 02 Sep 2026 17:39:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "AMC chief criticizes Robinhood’s tokenized stock plan",
+      "url": "https://cointelegraph.com/news/amc-ceo-criticizes-robinhoods-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 09:56:52 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -174,13 +223,6 @@
       "title": "Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K",
       "url": "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 04 Sep 2026 07:37:13 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 04 Sep 2026 06:22:29 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -295,48 +337,6 @@
       "published": "Thu, 03 Sep 2026 09:31:07 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Kalshi seeks CFTC approval for WTI crude perpetual futures: Report",
-      "url": "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 03 Sep 2026 09:28:34 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Australia warns unlicensed crypto firms of fines up to 10% of annual turnover",
-      "url": "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 03 Sep 2026 07:47:54 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Ether, XRP ETF inflow streaks end as Bitcoin funds rebound",
-      "url": "https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 03 Sep 2026 07:22:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Hyperscale Data ends Michigan BTC mining as holdings fall 79%",
-      "url": "https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 03 Sep 2026 04:57:55 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "US officials work with CrowdStrike to fight malware behind crypto theft",
-      "url": "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 02 Sep 2026 21:27:15 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Coinbase launches regulated crypto derivatives in Canada",
-      "url": "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 02 Sep 2026 20:55:55 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
       "title": "Bitcoin surges above $81k as rate hike fears cool, regulatory hopes grow",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-04T09:39:36.838688+00:00",
+  "fetchedAt": "2026-09-04T14:22:03.534178+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
