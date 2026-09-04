@@ -3,6 +3,27 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Live updates: Bitcoin ETFs take $731 million, their biggest day since January",
+      "url": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
+      "published": "Fri, 04 Sep 2026 07:34:07 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
+      "url": "https://www.coindesk.com/tech/2026/09/04/openai-puts-usd1-billion-behind-cyber-defense-after-unveiling-ai-that-can-find-zero-days",
+      "published": "Fri, 04 Sep 2026 05:49:43 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "One full bitcoin now buys a little more than 18 ounces of gold, the most since January",
+      "url": "https://www.coindesk.com/markets/2026/09/04/one-full-bitcoin-now-buys-a-little-more-than-18-ounces-of-gold-the-most-since-january",
+      "published": "Fri, 04 Sep 2026 05:10:34 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump",
       "url": "https://www.coindesk.com/markets/2026/09/04/bitcoin-back-above-usd81-000-as-hike-odds-fade-zcash-leads-with-15-jump",
       "published": "Fri, 04 Sep 2026 04:22:01 +0000"
@@ -148,25 +169,32 @@
       "published": "Wed, 02 Sep 2026 17:39:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "New Jersey becomes first state to ask Supreme Court to weigh in on prediction markets",
-      "url": "https://www.coindesk.com/policy/2026/09/02/new-jersey-becomes-first-state-to-ask-supreme-court-to-weigh-in-on-prediction-markets",
-      "published": "Wed, 02 Sep 2026 17:23:48 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 07:37:13 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto Long & Short: Crypto VCs are mistaking consensus for discipline",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/02/crypto-long-and-short-crypto-vcs-are-mistaking-consensus-for-discipline",
-      "published": "Wed, 02 Sep 2026 15:15:02 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 06:22:29 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
-      "url": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
-      "published": "Wed, 02 Sep 2026 13:14:47 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "El Salvador’s post-review Bitcoin accumulation used no public funds: IMF",
+      "url": "https://cointelegraph.com/news/el-salvador-bitcoin-private-donations-imf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 06:16:35 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "US, UK launch joint alliance targeting crypto scam centers",
+      "url": "https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 04:33:55 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -181,13 +209,6 @@
       "title": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
       "url": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 03 Sep 2026 21:09:13 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 03 Sep 2026 20:30:14 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -316,25 +337,18 @@
       "published": "Wed, 02 Sep 2026 20:55:55 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "New Jersey officials petition US Supreme Court over prediction markets",
-      "url": "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 02 Sep 2026 18:55:41 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin surges above $81k as rate hike fears cool, regulatory hopes grow",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rallies-past-81k-as-rate-hike-fears-cool-regulatory-hopes-grow-4888849",
+      "published": "2026-09-04 09:33:03"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Wyoming adds Chainlink reserve verification to state-issued stable token",
-      "url": "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 02 Sep 2026 18:38:18 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Ondo urges SEC, CFTC to bring US stock perpetuals onshore",
-      "url": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 02 Sep 2026 16:39:22 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin overbought at $80,910 with MFI at 100: Hourly",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-consolidates-at-76200-support-live-levels-93CH-4882214",
+      "published": "2026-09-04 07:11:53"
     },
     {
       "source": "Investing.com",
@@ -342,13 +356,6 @@
       "title": "Bitcoin rises 5% amid sliding yields, tops $80k for first time in nearly a week",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-below-78k-with-us-regulatory-developments-in-focus-4887020",
       "published": "2026-09-03 21:23:35"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin hits $81,336 with MFI at 100: Hourly levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-consolidates-at-76200-support-live-levels-93CH-4882214",
-      "published": "2026-09-03 19:19:54"
     },
     {
       "source": "Investing.com",
@@ -398,13 +405,6 @@
       "title": "Exclusive: Symbiotic hires ex-SocGen AM APAC chief to lead onchain push",
       "url": "https://www.investing.com/news/cryptocurrency-news/exclusive-symbiotic-hires-exsocgen-am-apac-chief-to-lead-onchain-push-4885912",
       "published": "2026-09-02 11:30:53"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin slips a day after posting its best monthly performance since November 2024",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-79k-as-strategy-resumes-buying-rate-iran-jitters-persist-4883529",
-      "published": "2026-09-01 22:03:01"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-04T04:33:53.697994+00:00",
+  "fetchedAt": "2026-09-04T09:39:36.838688+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
