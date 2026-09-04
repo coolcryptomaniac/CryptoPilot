@@ -3,7 +3,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in",
+      "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
       "url": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
       "published": "Fri, 04 Sep 2026 14:56:00 +0000"
     },
@@ -171,6 +171,34 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
+      "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
+      "url": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 20:30:47 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Pineapple Financial puts $1B in mortgage records on Injective",
+      "url": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 19:31:38 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "FinCEN ties $13B in crypto scams to non-US operations",
+      "url": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 19:22:26 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 04 Sep 2026 18:31:34 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
       "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
       "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 04 Sep 2026 17:22:58 +0000"
@@ -201,13 +229,6 @@
       "sourceId": "cointelegraph",
       "title": "Token buybacks are booming. But are they good for crypto projects?",
       "url": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 04 Sep 2026 13:30:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 04 Sep 2026 13:30:00 +0000"
     },
     {
@@ -316,25 +337,18 @@
       "published": "Thu, 03 Sep 2026 16:04:11 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Recovery specialists crack $1B crypto wallet... but find just $10",
-      "url": "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 03 Sep 2026 13:30:00 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "EOS Falls 10% In Selloff",
+      "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-selloff-4890028",
+      "published": "2026-09-04 21:03:01"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "VARA, Securitize sign MoU for tokenization innovation in Dubai",
-      "url": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 03 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Nvidia buys Hugging Face for $12.9B in push into AI software",
-      "url": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 03 Sep 2026 12:41:11 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin trapped in $78,600-$81,000 range: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-consolidates-at-76200-support-live-levels-93CH-4882214",
+      "published": "2026-09-04 19:19:13"
     },
     {
       "source": "Investing.com",
@@ -356,13 +370,6 @@
       "title": "Liquid Mercury Announces Initial Closing of ACQUA1 Offering",
       "url": "https://www.investing.com/news/cryptocurrency-news/liquid-mercury-announces-initial-closing-of-acqua1-offering-4889708",
       "published": "2026-09-04 14:00:33"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin overbought at $80,910 with MFI at 100: Hourly",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-consolidates-at-76200-support-live-levels-93CH-4882214",
-      "published": "2026-09-04 07:11:53"
     },
     {
       "source": "Investing.com",
@@ -398,13 +405,6 @@
       "title": "Bitcoin dips to $77.1k as U.S.-Iran fighting, rate jitters weigh",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-776k-as-usiran-fighting-rate-jitters-weigh-4885342",
       "published": "2026-09-02 22:10:34"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Echo Base Forms BitMart Claimholder Group Following Bankruptcy Restructuring Proposal",
-      "url": "https://www.investing.com/news/cryptocurrency-news/echo-base-forms-bitmart-claimholder-group-following-bankruptcy-restructuring-proposal-4886605",
-      "published": "2026-09-02 18:00:37"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-04T18:24:29.489957+00:00",
+  "fetchedAt": "2026-09-04T21:29:31.083928+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
