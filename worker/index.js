@@ -13,6 +13,7 @@ import { createDeveloperKey,listDeveloperKeys,revokeDeveloperKey,authenticateApi
 import { integrationRegistry,centrifugePools,defiLlamaProtocols,pythLatest,kalshiMarkets,circleCctpStatus,roamwisePartner } from './lib/integrations.js';
 import { pilotConfig,isPilotWalletAllowed } from './lib/pilot.js';
 import { createInvestorInterest,investorSummary,hyperliquidMids } from './lib/v23.js';
+import { rampConfig,rampPreview } from './lib/ramps.js';
 
 function connectorCapabilities(env){
   return {
@@ -57,6 +58,8 @@ async function route(request,env){
   if(path==='/api/health')return json({ok:true,service:'CryptoPilot Worker',version:'2.3-social-microtrade-investor',persistence:Boolean(env.DB),globalLiveTrading:env.ENABLE_LIVE_TRADING==='true',pilot:pilotConfig(env),usdt:usdtStatus(env)});
   if(path==='/api/connectors'){const user=await authUser(request,env,false);return json({connectors:connectorCapabilities(env),userConnections:user?await listConnections(env,user.id):[]});}
   if(path==='/api/integrations')return json({integrations:integrationRegistry(env)});
+  if(path==='/api/ramp/config'&&request.method==='GET')return json(rampConfig(env));
+  if(path==='/api/ramp/preview'&&request.method==='POST')return json(rampPreview(env,await requestJson(request)));
   if(path==='/api/partner/roamwise')return json(roamwisePartner());
   if(path==='/api/hyperliquid/mids')return json(await hyperliquidMids());
   if(path==='/api/investor/summary')return json(await investorSummary(env));
@@ -124,5 +127,5 @@ async function route(request,env){
   return json({error:'not found'},404);
 }
 
-export default{async fetch(request,env){try{return await route(request,env)}catch(e){const message=e?.message||String(e);const status=/Missing bearer|invalid or expired|signature is invalid|Challenge|X-CryptoPilot-Key|Invalid CryptoPilot API key/i.test(message)?401:/required|Unsupported|blocked|disabled|permission|cap|quota|circuit breaker|mode|not configured|allowlist|confirmations|recent expression|Indicative amount|acknowledgement/i.test(message)?400:500;return json({error:message},status)}}};
+export default{async fetch(request,env){try{return await route(request,env)}catch(e){const message=e?.message||String(e);const status=/Missing bearer|invalid or expired|signature is invalid|Challenge|X-CryptoPilot-Key|Invalid CryptoPilot API key/i.test(message)?401:/required|Unsupported|blocked|disabled|permission|cap|quota|circuit breaker|mode|not configured|allowlist|confirmations|recent expression|Indicative amount|acknowledgement|must be between/i.test(message)?400:500;return json({error:message},status)}}};
 export { riskProfile,riskLimits,backtestSmaCross };
