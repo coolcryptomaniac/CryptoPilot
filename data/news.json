@@ -3,6 +3,20 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
+      "url": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value",
+      "published": "Sat, 05 Sep 2026 05:30:45 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
+      "url": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
+      "published": "Sat, 05 Sep 2026 05:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
       "url": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
       "published": "Fri, 04 Sep 2026 14:56:00 +0000"
@@ -155,18 +169,11 @@
       "published": "Thu, 03 Sep 2026 11:19:56 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin jumps above $81,000 as rates fall, dollar weakens",
-      "url": "https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015",
-      "published": "Thu, 03 Sep 2026 10:42:15 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
-      "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-recovers-toward-usd78-000-as-pons-and-arbitrum-extend-robinhood-chain-rally",
-      "published": "Thu, 03 Sep 2026 10:29:52 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 05 Sep 2026 08:03:06 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -330,11 +337,11 @@
       "published": "Thu, 03 Sep 2026 17:06:28 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
-      "url": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 03 Sep 2026 16:04:11 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin stuck in $4K range with Doji signal: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-consolidates-at-76200-support-live-levels-93CH-4882214",
+      "published": "2026-09-05 07:02:04"
     },
     {
       "source": "Investing.com",
@@ -349,13 +356,6 @@
       "title": "EOS Falls 10% In Selloff",
       "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-selloff-4890028",
       "published": "2026-09-04 21:03:01"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin trapped in $78,600-$81,000 range: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-consolidates-at-76200-support-live-levels-93CH-4882214",
-      "published": "2026-09-04 19:19:13"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-05T04:29:33.397788+00:00",
+  "fetchedAt": "2026-09-05T09:05:15.831851+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
