@@ -21,6 +21,7 @@ jobs:
           node --check v23-runtime.js
           node --check hyperliquid-trade.js
           node --check fallback.js
+          node --check ramp.js
           node --check web3/tether-wdk.example.mjs
           python -m py_compile scripts/refresh_news.py scripts/check_ui.py
           python scripts/check_ui.py
