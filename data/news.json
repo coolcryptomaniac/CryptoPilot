@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+      "url": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
+      "published": "Sun, 06 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
       "url": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
       "published": "Sun, 06 Sep 2026 14:00:00 +0000"
@@ -162,13 +169,6 @@
       "published": "Thu, 03 Sep 2026 15:00:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes",
-      "url": "https://www.coindesk.com/tech/2026/09/03/a-memecoin-making-app-becomes-crypto-s-top-fee-generators-as-robinhood-chain-activity-explodes",
-      "published": "Thu, 03 Sep 2026 14:51:39 +0000"
-    },
-    {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -180,7 +180,7 @@
       "sourceId": "cointelegraph",
       "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
       "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 06 Sep 2026 13:01:48 +0000"
+      "published": "Sun, 06 Sep 2026 13:03:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -194,7 +194,7 @@
       "sourceId": "cointelegraph",
       "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
       "url": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 05 Sep 2026 10:44:29 +0000"
+      "published": "Sat, 05 Sep 2026 10:46:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -339,9 +339,9 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin trades near $80,000 as corporate demand and US crypto policy stay in focus",
+      "title": "Bitcoin down but holds near $80,000 as corporate buying, U.S. crypto vote in focus",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-near-80000-as-corporate-demand-and-us-crypto-policy-stay-in-focus-4890272",
-      "published": "2026-09-06 09:22:00"
+      "published": "2026-09-06 14:35:55"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-06T14:11:13.749700+00:00",
+  "fetchedAt": "2026-09-06T17:02:52.605908+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
