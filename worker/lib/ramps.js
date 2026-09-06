@@ -1,6 +1,7 @@
 const numberEnv=(value,fallback)=>{const n=Number(value);return Number.isFinite(n)?n:fallback};
 const boolEnv=(value,fallback=false)=>value==null?fallback:String(value).toLowerCase()==='true';
 const clamp=(n,min,max)=>Math.min(max,Math.max(min,n));
+export const CHECKOUT_VERSION='1.0.0';
 
 export function platformFeePolicy(env={}){
   const bps=clamp(Math.round(numberEnv(env.RAMP_PLATFORM_FEE_BPS,25)),0,100);
@@ -28,6 +29,12 @@ export function rampConfig(env={}){
   const onmetaEnabled=boolEnv(env.RAMP_ONMETA_ENABLED,true);
   const widgetClientId=String(env.ONMETA_WIDGET_API_KEY||'').trim();
   return {
+    checkout:{
+      version:CHECKOUT_VERSION,
+      integrations:['web-component','hosted-page','iframe-postmessage'],
+      hostedPath:'/checkout/',
+      completionSignal:'provider-event; verify server-side webhook before valuable fulfillment'
+    },
     enabled:boolEnv(env.RAMP_ENABLED,true),
     mode:'non-custodial-provider-ramp',
     fiat:'INR',
@@ -48,7 +55,9 @@ export function rampConfig(env={}){
         sdkUrl:onmetaEnvironment==='production'?'https://platform.onmeta.in/onmeta-sdk.js':'https://stg.platform.onmeta.in/onmeta-sdk.js',
         onRamp:true,
         offRamp:false,
-        offRampNote:'OnMeta off-ramp is API-only and pays INR to a verified bank account.'
+        offRampApiCredentialsPresent:Boolean(String(env.ONMETA_API_SECRET||'').trim()&&widgetClientId),
+        offRampAdapterEnabled:false,
+        offRampNote:'OnMeta off-ramp is API-only and pays INR to a verified bank account; the browser widget does not provide sell.'
       },
       onrampMoney:{
         enabled:boolEnv(env.RAMP_ONRAMP_MONEY_ENABLED,false),
@@ -77,10 +86,12 @@ export function rampPreview(env={},body={}){
   if(!['137','8453','56'].includes(chainId))throw new Error('Unsupported ramp chain');
   const cfg=rampConfig(env),feeTargetInr=calculatePlatformFeeInr(amount,env);
   return {
+    checkoutVersion:CHECKOUT_VERSION,
     amountInr:amount,
     token,
     chainId,
     paymentMethod:'INR_UPI',
+    source:String(body.source||'').slice(0,80)||null,
     cryptoPilotFeeTargetInr:feeTargetInr,
     cryptoPilotFeeCollectionEnabled:cfg.feePolicy.collectionEnabled,
     providerFees:'shown in provider live quote',

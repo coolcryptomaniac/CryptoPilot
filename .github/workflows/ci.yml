@@ -22,6 +22,8 @@ jobs:
           node --check hyperliquid-trade.js
           node --check fallback.js
           node --check ramp.js
+          node --check checkout/cryptopilot-checkout.js
+          node --check checkout/standalone.js
           node --check web3/tether-wdk.example.mjs
           python -m py_compile scripts/refresh_news.py scripts/check_ui.py
           python scripts/check_ui.py
@@ -31,6 +33,8 @@ jobs:
           test -s v23.css
           test -s AGENTS.md
           test -s CLAUDE.md
+          test -s checkout/index.html
+          test -s checkout/README.md
           grep -q "CryptoPilot" index.html
       - name: Worker dependencies and tests
         working-directory: worker
