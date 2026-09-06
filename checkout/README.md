@@ -9,7 +9,7 @@ It is intentionally non-custodial: the regulated ramp provider handles KYC, fiat
 - `cryptopilot-checkout.js` — reusable `<cryptopilot-checkout>` Web Component with isolated Shadow DOM styling.
 - `index.html` + `standalone.js` — hosted checkout page suitable for a normal link or an iframe.
 - `embed-example.html` — iframe integration that passes wallet/email at runtime with `postMessage`.
-- CryptoPilot's Worker endpoints `GET /api/checkout/config` and `POST /api/checkout/preview` (with the old `/api/ramp/*` aliases retained).
+- A backend adapter that probes `/api/checkout/config` and `/api/checkout/preview` for compatible backends, then falls back to CryptoPilot's current `/api/ramp/config` and `/api/ramp/preview` routes.
 
 The first live provider adapter is OnMeta's official on-ramp widget. The component listens to the provider's order/action/completion events and re-emits stable CryptoPilot checkout events for the host application.
 
