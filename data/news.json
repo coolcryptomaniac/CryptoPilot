@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Prediction markets inch closer to the Supreme Court: State of Crypto",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
+      "published": "Sun, 06 Sep 2026 18:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
       "url": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
       "published": "Sun, 06 Sep 2026 16:00:00 +0000"
@@ -160,13 +167,6 @@
       "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
       "url": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
       "published": "Thu, 03 Sep 2026 15:58:02 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto for Advisors: Why crypto earnings reports can be misleading",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/03/crypto-for-advisors-why-crypto-earnings-reports-can-be-misleading",
-      "published": "Thu, 03 Sep 2026 15:00:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -339,16 +339,16 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin down but holds near $80,000 as corporate buying, U.S. crypto vote in focus",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-near-80000-as-corporate-demand-and-us-crypto-policy-stay-in-focus-4890272",
-      "published": "2026-09-06 14:35:55"
+      "title": "Bitcoin consolidates near $79,955 with overbought signals: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-consolidates-at-76200-support-live-levels-93CH-4882214",
+      "published": "2026-09-06 19:02:11"
     },
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin bull flag 80% done, trapped in range: Hourly",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-consolidates-at-76200-support-live-levels-93CH-4882214",
-      "published": "2026-09-06 07:02:22"
+      "title": "Bitcoin down but holds near $80,000 as corporate buying, U.S. crypto vote in focus",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-near-80000-as-corporate-demand-and-us-crypto-policy-stay-in-focus-4890272",
+      "published": "2026-09-06 14:35:55"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-06T17:02:52.605908+00:00",
+  "fetchedAt": "2026-09-06T19:10:46.419407+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
