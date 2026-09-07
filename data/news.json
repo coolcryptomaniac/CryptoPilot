@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+      "url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+      "published": "Mon, 07 Sep 2026 03:43:12 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Prediction markets inch closer to the Supreme Court: State of Crypto",
       "url": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
       "published": "Sun, 06 Sep 2026 18:30:00 +0000"
@@ -162,11 +169,11 @@
       "published": "Fri, 04 Sep 2026 03:03:25 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
-      "url": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
-      "published": "Thu, 03 Sep 2026 15:58:02 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 07 Sep 2026 00:05:02 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -330,13 +337,6 @@
       "published": "Thu, 03 Sep 2026 19:36:56 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms",
-      "url": "https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 03 Sep 2026 19:11:46 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
       "title": "Bitcoin consolidates near $79,955 with overbought signals: Live levels",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-06T23:54:23.403659+00:00",
+  "fetchedAt": "2026-09-07T04:41:55.532296+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
