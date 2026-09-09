@@ -3,6 +3,20 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models",
+      "url": "https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models",
+      "published": "Wed, 09 Sep 2026 04:40:54 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
+      "url": "https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul",
+      "published": "Wed, 09 Sep 2026 04:35:55 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month",
       "url": "https://www.coindesk.com/business/2026/09/08/copper-ceo-amar-kuchinad-departs-as-search-for-a-buyer-enters-a-fourth-month",
       "published": "Tue, 08 Sep 2026 15:23:46 +0000"
@@ -155,18 +169,11 @@
       "published": "Mon, 07 Sep 2026 15:44:30 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
-      "url": "https://www.coindesk.com/policy/2026/09/07/polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe",
-      "published": "Mon, 07 Sep 2026 15:28:43 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
-      "url": "https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub",
-      "published": "Mon, 07 Sep 2026 14:12:15 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Malone Lam pleads guilty in $245M crypto theft conspiracy",
+      "url": "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 09 Sep 2026 04:09:51 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -330,13 +337,6 @@
       "published": "Mon, 07 Sep 2026 18:53:47 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention",
-      "url": "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 07 Sep 2026 17:58:00 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
       "title": "Bitcoin falls nearly 1% as Fed rate hike bets remain elevated, oil prices rise",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-09T00:15:03.086376+00:00",
+  "fetchedAt": "2026-09-09T04:47:51.111529+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
