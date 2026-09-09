@@ -3,6 +3,34 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "India’s financial intelligence unit flags 15 crypto platforms for AML lapses",
+      "url": "https://www.coindesk.com/policy/2026/09/09/india-s-financial-intelligence-unit-flags-15-crypto-platforms-for-aml-lapses",
+      "published": "Wed, 09 Sep 2026 08:17:54 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Live updates: Brent crude hits $100 for first time since July as bitcoin holds above $79,000",
+      "url": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
+      "published": "Wed, 09 Sep 2026 07:20:51 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Anthropic researcher quits with a warning on AI that echoes 'The Terminator' script",
+      "url": "https://www.coindesk.com/markets/2026/09/09/anthropic-researcher-quits-with-a-warning-on-ai-that-echoes-the-terminator-script",
+      "published": "Wed, 09 Sep 2026 06:20:38 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a ‘grift’",
+      "url": "https://www.coindesk.com/markets/2026/09/09/hunter-biden-defends-laptop-ahead-of-wednesday-launch-calls-trump-a-grift",
+      "published": "Wed, 09 Sep 2026 05:22:57 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models",
       "url": "https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models",
       "published": "Wed, 09 Sep 2026 04:40:54 +0000"
@@ -141,37 +169,37 @@
       "published": "Tue, 08 Sep 2026 05:56:23 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
-      "url": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
-      "published": "Tue, 08 Sep 2026 04:41:17 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
-      "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60",
-      "published": "Tue, 08 Sep 2026 04:40:57 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Metaplanet CEO breaks silence but shareholders say the hard questions remain unanswered",
-      "url": "https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered",
-      "published": "Mon, 07 Sep 2026 23:01:00 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
-      "url": "https://www.coindesk.com/business/2026/09/07/hunter-biden-is-launching-a-memecoin-named-after-his-laptop",
-      "published": "Mon, 07 Sep 2026 15:44:30 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Iran eases currency rules to bypass US sanctions with crypto: Report",
+      "url": "https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 09 Sep 2026 07:36:39 +0000"
     },
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
-      "title": "Malone Lam pleads guilty in $245M crypto theft conspiracy",
+      "title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
+      "url": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 09 Sep 2026 07:36:21 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 09 Sep 2026 05:51:21 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Gemini receives Singapore payment license for crypto services",
+      "url": "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 09 Sep 2026 05:27:12 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy",
       "url": "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 09 Sep 2026 04:09:51 +0000"
     },
@@ -188,13 +216,6 @@
       "title": "Franklin Templeton digital asset veteran takes helm at StablecoinX",
       "url": "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 08 Sep 2026 20:59:20 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 08 Sep 2026 20:13:27 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -316,25 +337,18 @@
       "published": "Tue, 08 Sep 2026 03:46:17 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "UK financial watchdog weighs lifting prediction markets ban: Report",
-      "url": "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 07 Sep 2026 20:40:17 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin coils near $79,300 in tight range: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
+      "published": "2026-09-09 07:10:45"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade",
-      "url": "https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 07 Sep 2026 20:21:31 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ",
-      "url": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 07 Sep 2026 18:53:47 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin rebounds above $79k on Zcash ETF inflows; Fed, oil pressures limit rise",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-79k-on-zcash-etf-inflows-fed-oil-pressures-limit-rise-4892730",
+      "published": "2026-09-09 06:21:51"
     },
     {
       "source": "Investing.com",
@@ -356,13 +370,6 @@
       "title": "Strategy doubles digital credit securities repurchase program to $2B",
       "url": "https://www.investing.com/news/cryptocurrency-news/strategy-doubles-digital-credit-securities-repurchase-program-to-2b-432SI-4891577",
       "published": "2026-09-08 12:11:02"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin hovers above $77,500 support as bears press: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
-      "published": "2026-09-08 07:11:58"
     },
     {
       "source": "Investing.com",
@@ -398,13 +405,6 @@
       "title": "EOS Climbs 14% In Bullish Trade",
       "url": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-14-in-bullish-trade-4890229",
       "published": "2026-09-05 18:01:01"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin holds below $80,000 as jobs data lifts Fed hike bets; ETF inflows continue",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-80000-as-strong-us-jobs-data-revives-fed-rate-hike-fears-4890184",
-      "published": "2026-09-05 16:17:27"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-09T04:47:51.111529+00:00",
+  "fetchedAt": "2026-09-09T09:46:00.205654+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
