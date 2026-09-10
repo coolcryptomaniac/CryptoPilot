@@ -171,6 +171,13 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
+      "title": "US sanctions Xinbi scam marketplace, restrains $52M in crypto",
+      "url": "https://cointelegraph.com/news/us-sanctions-xinbi-restrains-52m-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 10 Sep 2026 04:05:03 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
       "title": "Here’s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 09 Sep 2026 21:30:00 +0000"
@@ -330,13 +337,6 @@
       "published": "Tue, 08 Sep 2026 20:59:20 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bybit launches 24/7 perpetuals for major currency pairs",
-      "url": "https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 08 Sep 2026 18:51:08 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
       "title": "Bitcoin marginally lower to $78.3k as Brent tops $100 and U.S. bonds slide",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-10T00:14:55.409721+00:00",
+  "fetchedAt": "2026-09-10T04:48:48.319055+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
