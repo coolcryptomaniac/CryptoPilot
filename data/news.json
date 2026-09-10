@@ -3,6 +3,55 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
+      "url": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows",
+      "published": "Thu, 10 Sep 2026 17:07:59 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
+      "url": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
+      "published": "Thu, 10 Sep 2026 17:03:34 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
+      "url": "https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
+      "published": "Thu, 10 Sep 2026 16:10:03 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
+      "url": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
+      "published": "Thu, 10 Sep 2026 15:53:24 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
+      "url": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
+      "published": "Thu, 10 Sep 2026 15:14:49 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Crypto for Advisors: Hyperliquid and the future of finance",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
+      "published": "Thu, 10 Sep 2026 15:00:16 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
+      "url": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
+      "published": "Thu, 10 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
       "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
       "published": "Thu, 10 Sep 2026 13:56:54 +0000"
@@ -73,7 +122,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin slumps as ECB hikes rates and U.S. core PPI eases, but remains hot",
+      "title": "Live updates: Bitcoin slumps as oil and bond yields surge to new highs",
       "url": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
       "published": "Thu, 10 Sep 2026 07:45:46 +0000"
     },
@@ -120,53 +169,39 @@
       "published": "Wed, 09 Sep 2026 16:05:11 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Tether pushes into private credit with $400 million fund with Fasanara",
-      "url": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
-      "published": "Wed, 09 Sep 2026 15:51:25 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
+      "url": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 10 Sep 2026 17:54:12 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
-      "url": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
-      "published": "Wed, 09 Sep 2026 15:30:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Liquid Network resumes block production after $320M exploit",
+      "url": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 10 Sep 2026 16:38:16 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Consensys to split MetaMask into its own firm while staying silent on IPO",
-      "url": "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo",
-      "published": "Wed, 09 Sep 2026 15:24:01 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
+      "url": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 10 Sep 2026 15:59:37 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto Long & Short: Inside the 300-to-1 onchain gap between the dollar and euro",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
-      "published": "Wed, 09 Sep 2026 14:58:07 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "EU finance groups push to remove tokenized securities cap",
+      "url": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 10 Sep 2026 15:49:22 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
-      "url": "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
-      "published": "Wed, 09 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "PayPal expands stablecoin rails with custom token issuance platform",
-      "url": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
-      "published": "Wed, 09 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
-      "url": "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
-      "published": "Wed, 09 Sep 2026 13:57:57 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
+      "url": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 10 Sep 2026 14:52:15 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -302,39 +337,25 @@
       "published": "Wed, 09 Sep 2026 15:58:39 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Trade groups seek to block Illinois crypto tax before January effective date",
-      "url": "https://cointelegraph.com/news/trade-groups-seek-block-illinois-crypto-tax-before-january-effective-date?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 09 Sep 2026 15:57:07 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Tag Markets Names Craig Lund Chief Executive Officer",
+      "url": "https://www.investing.com/news/cryptocurrency-news/tag-markets-names-craig-lund-chief-executive-officer-4896666",
+      "published": "2026-09-10 18:00:35"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Tether, Fasanara launch $400M private credit fund targeting $3B",
-      "url": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 09 Sep 2026 15:21:44 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin’s next adoption wave could come from retirement accounts",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoins-next-adoption-wave-could-come-from-retirement-accounts-4896632",
+      "published": "2026-09-10 17:39:05"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "German finance ministry proposes 25% crypto tax starting 2028: Report",
-      "url": "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 09 Sep 2026 13:49:55 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "10 of the greatest unsolved crypto mysteries",
-      "url": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 09 Sep 2026 13:30:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "BitMart misses roadmap deadline, appoints financial adviser",
-      "url": "https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 09 Sep 2026 13:04:28 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "BTCC Exchange Launches $1M \"Trade to Win\" Competition Ahead of TOKEN2049, with Tesla Cybertruck as Top Prize",
+      "url": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-launches-1m-trade-to-win-competition-ahead-of-token2049-with-tesla-cybertruck-as-top-prize-4896310",
+      "published": "2026-09-10 14:30:36"
     },
     {
       "source": "Investing.com",
@@ -384,27 +405,6 @@
       "title": "Coinbase CEO calls the bottom in Bitcoin",
       "url": "https://www.investing.com/news/cryptocurrency-news/coinbase-ceo-calls-the-bottom-in-bitcoin-4895075",
       "published": "2026-09-10 07:53:38"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin consolidates at $78,226 in bull flag squeeze: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
-      "published": "2026-09-10 07:12:02"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin marginally lower to $78.3k as Brent tops $100 and U.S. bonds slide",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-79k-on-zcash-etf-inflows-fed-oil-pressures-limit-rise-4892730",
-      "published": "2026-09-09 20:47:59"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "PYUSDx stablecoin platform crosses $100 million in scale",
-      "url": "https://www.investing.com/news/cryptocurrency-news/pyusdx-stablecoin-platform-crosses-100-million-in-scale-4894055",
-      "published": "2026-09-09 15:00:41"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-10T14:26:37.186237+00:00",
+  "fetchedAt": "2026-09-10T18:28:51.673961+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
