@@ -52,7 +52,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin gives up early gains as markets fully price in Fed rate hike",
+      "title": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
       "url": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
       "published": "Fri, 11 Sep 2026 11:04:12 +0000"
     },
@@ -167,6 +167,20 @@
       "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
       "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
       "published": "Thu, 10 Sep 2026 13:56:54 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
+      "url": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 11 Sep 2026 19:46:24 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
+      "url": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 11 Sep 2026 18:45:15 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -323,18 +337,11 @@
       "published": "Thu, 10 Sep 2026 15:59:37 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "EU finance groups push to remove tokenized securities cap",
-      "url": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 10 Sep 2026 15:49:22 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
-      "url": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 10 Sep 2026 14:52:15 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin breakdown risk at $77,167 with $76,296 as last support: Live",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
+      "published": "2026-09-11 19:18:53"
     },
     {
       "source": "Investing.com",
@@ -342,13 +349,6 @@
       "title": "Bitcoin rebounds to near $79k after in-line inflation report",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
       "published": "2026-09-11 14:26:09"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin fights $76,400 support as momentum turns bearish: Live",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
-      "published": "2026-09-11 07:12:33"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-11T18:33:27.351624+00:00",
+  "fetchedAt": "2026-09-11T21:43:53.200437+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
