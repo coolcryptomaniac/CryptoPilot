@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
+      "url": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet",
+      "published": "Fri, 11 Sep 2026 04:25:21 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
       "url": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
       "published": "Thu, 10 Sep 2026 20:21:57 +0000"
@@ -38,7 +45,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
+      "title": "Monument Bank delays retail tokenized deposits while onboarding custody partner",
       "url": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
       "published": "Thu, 10 Sep 2026 15:53:24 +0000"
     },
@@ -162,11 +169,11 @@
       "published": "Thu, 10 Sep 2026 05:30:15 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
-      "url": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
-      "published": "Thu, 10 Sep 2026 05:05:41 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers",
+      "url": "https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 11 Sep 2026 04:21:14 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -330,13 +337,6 @@
       "published": "Wed, 09 Sep 2026 17:30:06 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "US Bank tests proprietary stablecoin in cross-border Stellar transaction",
-      "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 09 Sep 2026 16:37:08 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
       "title": "Bitcoin dips to $77.1k as PPI data boosts Fed rate hike bets, oil prices jump",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-11T00:10:35.199307+00:00",
+  "fetchedAt": "2026-09-11T04:40:52.988103+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
