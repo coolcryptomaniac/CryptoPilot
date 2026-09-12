@@ -3,6 +3,20 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
+      "url": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
+      "published": "Sat, 12 Sep 2026 18:51:04 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Anthropic CEO calls for AI race to slow down. Musk and OpenAI's Altman agrees",
+      "url": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
+      "published": "Sat, 12 Sep 2026 18:43:33 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
       "url": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
       "published": "Sat, 12 Sep 2026 16:00:00 +0000"
@@ -155,20 +169,6 @@
       "published": "Thu, 10 Sep 2026 17:07:59 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
-      "url": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
-      "published": "Thu, 10 Sep 2026 17:03:34 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
-      "url": "https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
-      "published": "Thu, 10 Sep 2026 16:10:03 +0000"
-    },
-    {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -185,7 +185,7 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
-      "title": "Farage’s Reform UK gets biggest donation ever from crypto billionaire: Reports",
+      "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
       "url": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 12 Sep 2026 15:50:14 +0000"
     },
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-12T17:10:26.212606+00:00",
+  "fetchedAt": "2026-09-12T19:21:59.385630+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
