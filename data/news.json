@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Staked ether should be seen as the benchmark of the decentralized economy",
+      "url": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
+      "published": "Sat, 12 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
       "url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
       "published": "Sat, 12 Sep 2026 10:11:01 +0000"
@@ -160,13 +167,6 @@
       "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
       "url": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
       "published": "Thu, 10 Sep 2026 15:14:49 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto for Advisors: Hyperliquid and the future of finance",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
-      "published": "Thu, 10 Sep 2026 15:00:16 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -339,6 +339,13 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
+      "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
+      "published": "2026-09-12 09:52:28"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
       "title": "Bitcoin consolidates above $76,500 support: Live levels",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
       "published": "2026-09-12 07:02:30"
@@ -398,13 +405,6 @@
       "title": "New CMC AI Endpoints Make CoinMarketCap’s Industry-Leading API Even More Powerful",
       "url": "https://www.investing.com/news/cryptocurrency-news/new-cmc-ai-endpoints-make-coinmarketcaps-industryleading-api-even-more-powerful-4895620",
       "published": "2026-09-10 11:30:46"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Orbs Appoints Ran Hammer CEO to Lead Its Next Stage of Growth",
-      "url": "https://www.investing.com/news/cryptocurrency-news/orbs-appoints-ran-hammer-ceo-to-lead-its-next-stage-of-growth-4895256",
-      "published": "2026-09-10 09:30:32"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-12T10:47:01.646091+00:00",
+  "fetchedAt": "2026-09-12T14:08:08.738107+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
