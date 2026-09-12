@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+      "url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+      "published": "Sat, 12 Sep 2026 10:11:01 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
       "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
       "published": "Fri, 11 Sep 2026 23:47:51 +0000"
@@ -160,13 +167,6 @@
       "title": "Crypto for Advisors: Hyperliquid and the future of finance",
       "url": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
       "published": "Thu, 10 Sep 2026 15:00:16 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
-      "url": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
-      "published": "Thu, 10 Sep 2026 14:30:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -339,16 +339,16 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin set to snap three-week win streak on surging oil, tick up in Fed hike bets",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
-      "published": "2026-09-11 21:20:45"
+      "title": "Bitcoin consolidates above $76,500 support: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
+      "published": "2026-09-12 07:02:30"
     },
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin breakdown risk at $77,167 with $76,296 as last support: Live",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
-      "published": "2026-09-11 19:18:53"
+      "title": "Bitcoin set to snap three-week win streak on surging oil, tick up in Fed hike bets",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
+      "published": "2026-09-11 21:20:45"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-12T05:47:44.946389+00:00",
+  "fetchedAt": "2026-09-12T10:47:01.646091+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
