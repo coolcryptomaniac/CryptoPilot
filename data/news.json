@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+      "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
+      "published": "Fri, 11 Sep 2026 23:47:51 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
       "url": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
       "published": "Fri, 11 Sep 2026 17:12:45 +0000"
@@ -162,11 +169,11 @@
       "published": "Thu, 10 Sep 2026 14:30:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
-      "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
-      "published": "Thu, 10 Sep 2026 13:56:54 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 11 Sep 2026 21:30:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -209,13 +216,6 @@
       "title": "Trading stocks against BONER is the latest trend for DeFi degens",
       "url": "https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 11 Sep 2026 13:30:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 11 Sep 2026 12:57:24 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -339,16 +339,16 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin breakdown risk at $77,167 with $76,296 as last support: Live",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
-      "published": "2026-09-11 19:18:53"
+      "title": "Bitcoin set to snap three-week win streak on surging oil, tick up in Fed hike bets",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
+      "published": "2026-09-11 21:20:45"
     },
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin rebounds to near $79k after in-line inflation report",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
-      "published": "2026-09-11 14:26:09"
+      "title": "Bitcoin breakdown risk at $77,167 with $76,296 as last support: Live",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
+      "published": "2026-09-11 19:18:53"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-11T21:43:53.200437+00:00",
+  "fetchedAt": "2026-09-12T00:18:36.461884+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
