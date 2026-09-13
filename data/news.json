@@ -339,16 +339,23 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
-      "published": "2026-09-12 09:52:28"
+      "title": "Bitcoin slips to $77,200 as rate pressure clashes with diversification case",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
+      "published": "2026-09-13 05:49:29"
     },
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin consolidates above $76,500 support: Live levels",
+      "title": "Bitcoin compresses near $76,349 trigger: Live setups",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
-      "published": "2026-09-12 07:02:30"
+      "published": "2026-09-12 19:02:39"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
+      "published": "2026-09-12 09:52:28"
     },
     {
       "source": "Investing.com",
@@ -398,13 +405,6 @@
       "title": "From Stablecoins to Onchain Credit: Illuminance Global Builds the Next Financial Layer",
       "url": "https://www.investing.com/news/cryptocurrency-news/from-stablecoins-to-onchain-credit-illuminance-global-builds-the-next-financial-layer-4895619",
       "published": "2026-09-10 11:30:46"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "New CMC AI Endpoints Make CoinMarketCap’s Industry-Leading API Even More Powerful",
-      "url": "https://www.investing.com/news/cryptocurrency-news/new-cmc-ai-endpoints-make-coinmarketcaps-industryleading-api-even-more-powerful-4895620",
-      "published": "2026-09-10 11:30:46"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-13T01:00:44.651415+00:00",
+  "fetchedAt": "2026-09-13T06:10:26.375307+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
