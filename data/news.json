@@ -3,6 +3,34 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
+      "url": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
+      "published": "Mon, 14 Sep 2026 23:43:28 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+      "url": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
+      "published": "Mon, 14 Sep 2026 23:30:40 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
+      "url": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
+      "published": "Mon, 14 Sep 2026 22:34:18 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
+      "url": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
+      "published": "Mon, 14 Sep 2026 21:05:13 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
       "url": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable",
       "published": "Mon, 14 Sep 2026 19:21:58 +0000"
@@ -141,32 +169,11 @@
       "published": "Sun, 13 Sep 2026 18:45:08 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Quantum-proof blockchain: why math, not machines, holds the key",
-      "url": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
-      "published": "Sun, 13 Sep 2026 17:00:00 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
-      "url": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
-      "published": "Sun, 13 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
-      "url": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
-      "published": "Sun, 13 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto’s Clarity Act heads into a make-or-break week with no clear outcome",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
-      "published": "Sun, 13 Sep 2026 12:00:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
+      "url": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 20:54:10 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -330,11 +337,11 @@
       "published": "Sat, 12 Sep 2026 15:50:14 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
-      "url": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 12 Sep 2026 15:12:40 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin up 2% after Trump agrees to ethics requirements in latest Clarity Act text",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
+      "published": "2026-09-14 21:56:58"
     },
     {
       "source": "Investing.com",
@@ -342,13 +349,6 @@
       "title": "Bitcoin nears $80K bull trap zone with weak ADX: Live levels",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-14 19:18:14"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin steady at $78k amid M.East tensions, rate hike jitters",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
-      "published": "2026-09-14 13:44:36"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-14T20:56:57.947351+00:00",
+  "fetchedAt": "2026-09-14T23:52:49.054778+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
