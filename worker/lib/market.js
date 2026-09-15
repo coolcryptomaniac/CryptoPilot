@@ -35,8 +35,13 @@ export async function dexQuote(env,url){
     slippageBps:'100'
   });
   const r=await fetch(`https://api.0x.org/swap/allowance-holder/quote?${qs}`,{headers:{'0x-api-key':zeroXApiKey,'0x-version':'v2','content-type':'application/json'}}),data=await r.json();
-  if(data?.transaction?.to&&data?.issues?.allowance?.spender&&data.transaction.to.toLowerCase()===data.issues.allowance.spender.toLowerCase())data.securityWarning='Execution target and allowance spender unexpectedly match; do not approve the Settler. Re-check the 0x response.';
-  if(r.ok)data.cryptoPilotFee={bps:Number(FEE_BPS),percent:'0.50%',recipient:FEE_RECIPIENT,token:BASE_USDC,amount:data?.fees?.integratorFee?.amount||null};
+  if(r.ok){
+    const spender=data?.issues?.allowance?.spender||data?.allowanceTarget||null;
+    if(spender&&data?.allowanceTarget&&spender.toLowerCase()!==data.allowanceTarget.toLowerCase()){
+      data.securityWarning='0x allowance spender does not match allowanceTarget; do not approve this quote.';
+    }
+    data.cryptoPilotFee={bps:Number(FEE_BPS),percent:'0.50%',recipient:FEE_RECIPIENT,token:BASE_USDC,amount:data?.fees?.integratorFee?.amount||null};
+  }
   return {status:r.status,data};
 }
 export async function gdelt(q){
