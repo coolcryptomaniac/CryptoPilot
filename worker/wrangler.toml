@@ -3,6 +3,13 @@ main = "index.js"
 compatibility_date = "2026-08-01"
 compatibility_flags = ["nodejs_compat"]
 
+# Keep the production 0x key in Cloudflare Secrets Store. This contains only
+# binding metadata; the secret value is never committed to GitHub.
+[[secrets_store_secrets]]
+binding = "ZEROX_API_KEY"
+store_id = "4019e39a64574b1baf1477e47ab30572"
+secret_name = "ZEROX_API_KEY"
+
 [vars]
 # Full live mode remains OFF by default.
 ENABLE_LIVE_TRADING = "false"
@@ -33,10 +40,9 @@ USDT_MIN_CONFIRMATIONS = "2"
 # database_id = "<YOUR_D1_DATABASE_ID>"
 # migrations_dir = "migrations"
 
-# Add secrets with `wrangler secret put NAME`; never commit them:
+# Keep other Worker secrets out of GitHub and provision them through Cloudflare:
 # CREDENTIAL_MASTER_KEY  (base64-encoded 32 random bytes; also encrypts investor EOI payloads)
 # PILOT_ALLOWED_WALLETS  (comma-separated EVM wallet addresses)
-# ZEROX_API_KEY
 # TELEGRAM_BOT_TOKEN
 # COINBASE_PAYMENT_API_KEY_ID
 # COINBASE_PAYMENT_API_KEY_SECRET
