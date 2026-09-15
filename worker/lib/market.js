@@ -8,8 +8,17 @@ const FEE_BPS='50';
 const MAX_PILOT_USDC=5_000_000n;
 const EVM_ADDRESS=/^0x[a-fA-F0-9]{40}$/;
 
+async function readSecret(binding,name){
+  if(typeof binding==='string'&&binding.trim())return binding.trim();
+  if(binding&&typeof binding.get==='function'){
+    const value=await binding.get();
+    if(typeof value==='string'&&value.trim())return value.trim();
+  }
+  throw new Error(`${name} is not configured`);
+}
+
 export async function dexQuote(env,url){
-  if(!env.ZEROX_API_KEY)throw new Error('ZEROX_API_KEY is not configured');
+  const zeroXApiKey=await readSecret(env.ZEROX_API_KEY,'ZEROX_API_KEY');
   const taker=url.searchParams.get('taker')||'';
   const sellAmount=url.searchParams.get('sellAmount')||'';
   if(!EVM_ADDRESS.test(taker))throw new Error('A valid taker wallet is required');
@@ -25,7 +34,7 @@ export async function dexQuote(env,url){
     swapFeeToken:BASE_USDC,
     slippageBps:'100'
   });
-  const r=await fetch(`https://api.0x.org/swap/allowance-holder/quote?${qs}`,{headers:{'0x-api-key':env.ZEROX_API_KEY,'0x-version':'v2'}}),data=await r.json();
+  const r=await fetch(`https://api.0x.org/swap/allowance-holder/quote?${qs}`,{headers:{'0x-api-key':zeroXApiKey,'0x-version':'v2','content-type':'application/json'}}),data=await r.json();
   if(data?.transaction?.to&&data?.issues?.allowance?.spender&&data.transaction.to.toLowerCase()===data.issues.allowance.spender.toLowerCase())data.securityWarning='Execution target and allowance spender unexpectedly match; do not approve the Settler. Re-check the 0x response.';
   if(r.ok)data.cryptoPilotFee={bps:Number(FEE_BPS),percent:'0.50%',recipient:FEE_RECIPIENT,token:BASE_USDC,amount:data?.fees?.integratorFee?.amount||null};
   return {status:r.status,data};
