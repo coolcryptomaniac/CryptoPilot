@@ -3,7 +3,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "There were many conductors in the derailment of the crypto industry's Clarity Act",
+      "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
       "url": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
       "published": "Tue, 15 Sep 2026 21:58:48 +0000"
     },
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-15T22:13:40.447559+00:00",
+  "fetchedAt": "2026-09-16T00:23:09.233656+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
