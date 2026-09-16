@@ -18,11 +18,13 @@ const appKit = createAppKit({
   allWallets: 'SHOW'
 });
 
-// EIP-1193 provider is supplied by the wallet selected in AppKit, not by Google identity alone.
+window.__cryptoPilotWalletReady = true;
+appKit.subscribeState(state => { window.__cryptoPilotWalletModalOpened = Boolean(state?.open); });
 export function getConnectedProvider() {
   return appKit.getWalletProvider?.() || null;
 }
 export async function openWalletConnection() {
+  window.__cryptoPilotWalletModalOpened = false;
   await appKit.open({ view: 'Connect' });
 }
 export function subscribeWalletProvider(callback) {
