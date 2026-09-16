@@ -1,0 +1,1 @@
+{"private":true,"type":"module","scripts":{"build":"vite build --config vite.config.js","check":"node --check pilot.js && node --check wallet-connect.js"},"dependencies":{"@reown/appkit":"1.8.23","@reown/appkit-adapter-ethers":"1.8.23","ethers":"^6.15.0"},"devDependencies":{"vite":"^7.1.0"}}
