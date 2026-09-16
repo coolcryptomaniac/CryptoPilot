@@ -3,6 +3,27 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
+      "url": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
+      "published": "Wed, 16 Sep 2026 19:07:34 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Fed raises rates by 25 basis points in first hike since July 2023",
+      "url": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
+      "published": "Wed, 16 Sep 2026 17:54:55 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
+      "url": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
+      "published": "Wed, 16 Sep 2026 17:34:04 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
       "url": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
       "published": "Wed, 16 Sep 2026 16:21:44 +0000"
@@ -94,7 +115,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin holds near $76,000 as traders brace for first Fed rate hike in three years",
+      "title": "Live updates: Bitcoin steady as stocks slide following Fed rate hike, Warsh press conference",
       "url": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
       "published": "Wed, 16 Sep 2026 10:37:46 +0000"
     },
@@ -148,25 +169,25 @@
       "published": "Wed, 16 Sep 2026 04:07:27 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
-      "url": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
-      "published": "Wed, 16 Sep 2026 03:37:45 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 19:25:46 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
-      "published": "Tue, 15 Sep 2026 21:58:48 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "UK FCA sets crypto authorization guidance ahead of September application window",
+      "url": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 19:19:23 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto stocks sink after Senate rejects Clarity Act",
-      "url": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
-      "published": "Tue, 15 Sep 2026 20:03:17 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
+      "url": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 18:01:55 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -262,13 +283,6 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 06:00:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
       "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
       "url": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 04:48:20 +0000"
@@ -323,18 +337,25 @@
       "published": "Tue, 15 Sep 2026 17:22:04 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 16:02:01 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin bounces at $75,791 below Ichimoku cloud: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-16 19:18:24"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
-      "url": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 15:50:49 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Phoenix Enables SOL as Collateral for Perpetual Futures Trading",
+      "url": "https://www.investing.com/news/cryptocurrency-news/phoenix-enables-sol-as-collateral-for-perpetual-futures-trading-4904222",
+      "published": "2026-09-16 17:30:36"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin extends losses after Clarity Act fails; eyes now on Fed for expected hike",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
+      "published": "2026-09-16 17:27:03"
     },
     {
       "source": "Investing.com",
@@ -360,23 +381,9 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin drops below $76k as Clarity vote fails; Fed rate hike in focus",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
-      "published": "2026-09-16 13:40:40"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
       "title": "BASIS.pro Expands On-Chain Infrastructure with XDC Network Partnership and Zypher DAO as Auto Earn Goes Live",
       "url": "https://www.investing.com/news/cryptocurrency-news/basispro-expands-onchain-infrastructure-with-xdc-network-partnership-and-zypher-dao-as-auto-earn-goes-live-4903004",
       "published": "2026-09-16 07:30:36"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin breaks down below 200MA at $75,861: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-16 07:11:51"
     },
     {
       "source": "Investing.com",
@@ -398,13 +405,6 @@
       "title": "Exclusive: Bitget Wallet adds tokenized U.S. stocks through Reality integration",
       "url": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-wallet-adds-tokenized-us-stocks-through-reality-integration-4901412",
       "published": "2026-09-15 11:31:22"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "BingX Evolves into a Multi-Asset Trading Platform, Connecting Users to Global Opportunities",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bingx-evolves-into-a-multiasset-trading-platform-connecting-users-to-global-opportunities-4901404",
-      "published": "2026-09-15 11:30:33"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-16T16:55:44.372629+00:00",
+  "fetchedAt": "2026-09-16T20:07:39.937196+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
