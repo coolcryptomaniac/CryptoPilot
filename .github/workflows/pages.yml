@@ -19,12 +19,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+      - name: Build wallet pilot
+        run: |
+          cd pilot-fund
+          npm install --no-audit --no-fund
+          npm run check
+          npm run build
       - name: Build static site
         run: |
           mkdir -p _site/data
           cp index.html app.js production.js intelligence.js platform.js v23.js v23-runtime.js hyperliquid-trade.js fallback.js ramp.js v23.css manifest.webmanifest _site/
           cp -R checkout _site/checkout
-          cp -R pilot-fund _site/pilot-fund
+          cp -R pilot-fund/dist _site/pilot-fund
           cp data/*.json _site/data/
           sed -i 's#</head>#<link rel="stylesheet" href="v23.css"></head>#' _site/index.html
           sed -i 's#</body>#<script src="production.js"></script><script src="intelligence.js"></script><script src="platform.js"></script><script src="v23.js"></script><script src="v23-runtime.js"></script><script src="hyperliquid-trade.js"></script><script src="fallback.js"></script></body>#' _site/index.html
