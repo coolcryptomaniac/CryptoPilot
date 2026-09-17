@@ -171,6 +171,13 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
+      "title": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law",
+      "url": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 00:23:44 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
       "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
       "url": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 20:51:38 +0000"
@@ -330,13 +337,6 @@
       "published": "Tue, 15 Sep 2026 18:46:51 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
-      "url": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 17:53:04 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
       "title": "Bitcoin turns slightly higher as traders digest Clarity Act failure, Fed rate hike",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-16T22:56:27.509847+00:00",
+  "fetchedAt": "2026-09-17T01:25:45.281627+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
