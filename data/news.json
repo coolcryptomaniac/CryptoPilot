@@ -3,6 +3,20 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
+      "url": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
+      "published": "Thu, 17 Sep 2026 21:47:22 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending",
+      "url": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
+      "published": "Thu, 17 Sep 2026 21:28:35 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
       "url": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
       "published": "Thu, 17 Sep 2026 18:40:38 +0000"
@@ -155,18 +169,11 @@
       "published": "Wed, 16 Sep 2026 17:34:04 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
-      "url": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
-      "published": "Wed, 16 Sep 2026 16:21:44 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Hamas military wing told donors to avoid sending crypto directly from Binance, DOJ filing shows",
-      "url": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
-      "published": "Wed, 16 Sep 2026 15:25:41 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
+      "url": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 23:49:23 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -330,11 +337,11 @@
       "published": "Wed, 16 Sep 2026 19:19:23 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
-      "url": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 18:01:55 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin extends recovery from Clarity setback, gains capped by Fed hawkishness",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
+      "published": "2026-09-17 21:19:11"
     },
     {
       "source": "Investing.com",
@@ -342,13 +349,6 @@
       "title": "Bitcoin trapped in $75K-$77K range on 5h chart: Live levels",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-17 19:18:50"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin steady at $76.5k as markets digest Fed rate hike, M.East tensions",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
-      "published": "2026-09-17 13:57:03"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-17T21:25:02.229894+00:00",
+  "fetchedAt": "2026-09-18T00:19:40.201842+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
