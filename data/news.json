@@ -339,6 +339,27 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
+      "title": "EOS Climbs 10% In Rally",
+      "url": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-10-in-rally-4908047",
+      "published": "2026-09-19 03:38:02"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin jumps above $81k as short squeeze offsets rate and regulatory pressure",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-jumps-above-81k-as-short-squeeze-offsets-rate-and-regulatory-pressure-4908041",
+      "published": "2026-09-19 03:19:14"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Cardano Climbs 10% In Bullish Trade",
+      "url": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-bullish-trade-4908042",
+      "published": "2026-09-19 02:45:02"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
       "title": "Bitcoin jumps, tops $80k for first time since Sept 7 & turns positive for the week",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
       "published": "2026-09-18 21:49:51"
@@ -384,27 +405,6 @@
       "title": "Bitcoin extends recovery from Clarity setback, gains capped by Fed hawkishness",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
       "published": "2026-09-17 21:19:11"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Zama Opens Confidential Access to DeFi’s Existing Yield Venues",
-      "url": "https://www.investing.com/news/cryptocurrency-news/zama-opens-confidential-access-to-defis-existing-yield-venues-4905281",
-      "published": "2026-09-17 11:00:34"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin turns slightly higher as traders digest Clarity Act failure, Fed rate hike",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
-      "published": "2026-09-16 21:54:07"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Phoenix Enables SOL as Collateral for Perpetual Futures Trading",
-      "url": "https://www.investing.com/news/cryptocurrency-news/phoenix-enables-sol-as-collateral-for-perpetual-futures-trading-4904222",
-      "published": "2026-09-16 17:30:36"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-19T00:21:14.485948+00:00",
+  "fetchedAt": "2026-09-19T05:53:09.297334+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
