@@ -171,6 +171,20 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
+      "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
+      "url": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 19 Sep 2026 19:14:38 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Kalshi joins Coinbase with filing for US stock perpetual futures",
+      "url": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 19 Sep 2026 18:35:16 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
       "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
       "url": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 19 Sep 2026 16:15:27 +0000"
@@ -323,25 +337,11 @@
       "published": "Thu, 17 Sep 2026 23:49:23 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "CFTC expands regulatory relief for passive trading software providers",
-      "url": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 19:30:48 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
-      "url": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 17:31:12 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin hits $82,178 resistance with MFI 100: Live levels",
+      "title": "Bitcoin tests $82,178 resistance with RSI overbought: Live levels",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-19 07:02:25"
+      "published": "2026-09-19 19:01:46"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-19T18:01:16.161489+00:00",
+  "fetchedAt": "2026-09-19T20:40:34.770749+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
