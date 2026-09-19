@@ -339,16 +339,16 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin overbought at $81K after triangle breakout: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-18 19:18:50"
+      "title": "Bitcoin jumps, tops $80k for first time since Sept 7 & turns positive for the week",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
+      "published": "2026-09-18 21:49:51"
     },
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin climbs to $78k as markets look past Clarity setback",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
-      "published": "2026-09-18 13:39:48"
+      "title": "Bitcoin overbought at $81K after triangle breakout: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-18 19:18:50"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-18T21:41:27.409670+00:00",
+  "fetchedAt": "2026-09-19T00:21:14.485948+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
