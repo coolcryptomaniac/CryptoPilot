@@ -3,6 +3,41 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
+      "url": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
+      "published": "Sat, 19 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+      "url": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
+      "published": "Sat, 19 Sep 2026 13:39:15 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
+      "url": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
+      "published": "Sat, 19 Sep 2026 12:13:57 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
+      "url": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
+      "published": "Sat, 19 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+      "url": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
+      "published": "Sat, 19 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
       "url": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
       "published": "Fri, 18 Sep 2026 15:16:37 +0000"
@@ -134,46 +169,11 @@
       "published": "Thu, 17 Sep 2026 18:40:38 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
-      "url": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
-      "published": "Thu, 17 Sep 2026 18:38:10 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
-      "url": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
-      "published": "Thu, 17 Sep 2026 15:08:24 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
-      "url": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
-      "published": "Thu, 17 Sep 2026 15:03:19 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto for Advisors: The case for diversifying beyond bitcoin and ether",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
-      "published": "Thu, 17 Sep 2026 14:57:11 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
-      "url": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
-      "published": "Thu, 17 Sep 2026 14:50:58 +0000"
-    },
-    {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
-      "title": "Dtcpay welcomes SBI Group as strategic investor extending Series A to $25M",
-      "url": "https://cointelegraph.com/news/dtcpay-welcomes-sbi-group-as-strategic-investor-extending-series-a-to-25m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 19 Sep 2026 09:56:47 +0000"
+      "title": "Bastion wins conditional OCC approval for national trust bank charter",
+      "url": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 19 Sep 2026 11:47:29 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-19T10:59:27.459705+00:00",
+  "fetchedAt": "2026-09-19T14:25:24.779620+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
