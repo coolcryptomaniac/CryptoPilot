@@ -3,6 +3,27 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
+      "url": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
+      "published": "Sun, 20 Sep 2026 14:54:48 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
+      "url": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
+      "published": "Sun, 20 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
+      "url": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
+      "published": "Sun, 20 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
       "url": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
       "published": "Sat, 19 Sep 2026 16:00:00 +0000"
@@ -148,25 +169,11 @@
       "published": "Fri, 18 Sep 2026 04:49:17 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
-      "url": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
-      "published": "Fri, 18 Sep 2026 03:03:38 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
-      "url": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
-      "published": "Thu, 17 Sep 2026 21:47:22 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending",
-      "url": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
-      "published": "Thu, 17 Sep 2026 21:28:35 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
+      "url": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 20 Sep 2026 12:00:52 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -330,11 +337,11 @@
       "published": "Fri, 18 Sep 2026 04:11:40 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "World launches self-custodial ‘super app’ World Money",
-      "url": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 03:40:28 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Multi-Asset Trading Venue Monochrome Exchange Announces IEO of Its Native Token, $MCR",
+      "url": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4908176",
+      "published": "2026-09-20 14:00:37"
     },
     {
       "source": "Investing.com",
@@ -398,13 +405,6 @@
       "title": "CT3 to Participate as Speaker at CoinFerenceX Singapore 2026",
       "url": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
       "published": "2026-09-18 09:30:34"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "EOS Climbs 12% In Bullish Trade",
-      "url": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-in-bullish-trade-4906656",
-      "published": "2026-09-18 03:36:04"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-20T11:33:56.632898+00:00",
+  "fetchedAt": "2026-09-20T16:06:46.166982+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
