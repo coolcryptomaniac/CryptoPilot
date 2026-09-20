@@ -185,7 +185,7 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
-      "title": "Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal",
+      "title": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal",
       "url": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 20 Sep 2026 07:51:24 +0000"
     },
@@ -339,6 +339,13 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
+      "title": "Bitcoin slips 1% but above $80,000 as ETF inflows revive institutional demand",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141",
+      "published": "2026-09-20 16:08:07"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
       "title": "Multi-Asset Trading Venue Monochrome Exchange Announces IEO of Its Native Token, $MCR",
       "url": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4908176",
       "published": "2026-09-20 14:00:37"
@@ -356,13 +363,6 @@
       "title": "Bitcoin trapped between $78.5K-$82K in breakout standoff: Live",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-20 07:02:23"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin holds above $80,000 as ETF inflows revive institutional demand",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141",
-      "published": "2026-09-20 05:06:36"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-20T16:06:46.166982+00:00",
+  "fetchedAt": "2026-09-20T18:47:47.201179+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
