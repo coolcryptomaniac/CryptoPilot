@@ -3,6 +3,34 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Animoca Brands delays IPO plans, suspends merger talks with Currenc",
+      "url": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
+      "published": "Tue, 22 Sep 2026 09:47:15 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever",
+      "url": "https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever",
+      "published": "Tue, 22 Sep 2026 07:40:41 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Whitehats move 52 bitcoin from the Coldcard hack to a recovery trust",
+      "url": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust",
+      "published": "Tue, 22 Sep 2026 06:27:28 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Elon Musk's X brings bitcoin and stock trading closer to the timeline",
+      "url": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
+      "published": "Tue, 22 Sep 2026 05:26:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
       "url": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
       "published": "Tue, 22 Sep 2026 04:33:11 +0000"
@@ -141,32 +169,46 @@
       "published": "Mon, 21 Sep 2026 06:20:47 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
-      "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
-      "published": "Mon, 21 Sep 2026 04:03:43 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "White hats outrun Coldcard hackers in 52-Bitcoin evacuation",
+      "url": "https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 09:06:59 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs",
-      "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
-      "published": "Mon, 21 Sep 2026 03:56:23 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says",
+      "url": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 08:06:23 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
-      "url": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
-      "published": "Sun, 20 Sep 2026 14:54:48 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin ETFs flirt with $1B as inflows hit 2026 high",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 07:33:37 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
-      "url": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
-      "published": "Sun, 20 Sep 2026 12:00:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Animoca puts Currenc merger on ice, delaying its Nasdaq debut",
+      "url": "https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 06:48:20 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 05:40:46 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto",
+      "url": "https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 05:29:31 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -195,13 +237,6 @@
       "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
       "url": "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 20:37:15 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 19:53:04 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -302,39 +337,25 @@
       "published": "Mon, 21 Sep 2026 04:29:59 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
-      "url": "https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 04:27:32 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Margex Launches $2.7M ETH Airdrop Campaign Celebrating 4 Years of Proof of Stake",
+      "url": "https://www.investing.com/news/cryptocurrency-news/margex-launches-27m-eth-airdrop-campaign-celebrating-4-years-of-proof-of-stake-4910148",
+      "published": "2026-09-22 09:31:24"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
-      "url": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 01:42:53 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin climbs toward $86k as Strategy buys more coins",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
+      "published": "2026-09-22 09:22:45"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest",
-      "url": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 20 Sep 2026 23:37:39 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
-      "url": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 20 Sep 2026 12:00:52 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Grayscale’s Zcash ETF files for 3-for-1 forward share split",
-      "url": "https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 20 Sep 2026 09:14:27 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin overbought at $87K high, mean-reversion risk: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-22 07:11:43"
     },
     {
       "source": "Investing.com",
@@ -356,13 +377,6 @@
       "title": "Bitcoin surges to over 7-month high as tokenized-stock move lifts crypto sentiment",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
       "published": "2026-09-21 21:37:00"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin parabolic at $86K with RSI at 83: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-21 19:19:36"
     },
     {
       "source": "Investing.com",
@@ -391,20 +405,6 @@
       "title": "Litecoin Climbs 10% As Investors Gain Confidence",
       "url": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-as-investors-gain-confidence-4909060",
       "published": "2026-09-21 12:40:00"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Cardano Climbs 10% In a Green Day",
-      "url": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-a-green-day-4908996",
-      "published": "2026-09-21 12:26:02"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Strategy buys 950 bitcoin, repurchases STRC shares in weekly update",
-      "url": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-950-bitcoin-repurchases-strc-shares-in-weekly-update-432SI-4908941",
-      "published": "2026-09-21 12:04:02"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-22T04:57:00.141751+00:00",
+  "fetchedAt": "2026-09-22T09:57:51.692483+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
