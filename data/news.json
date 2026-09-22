@@ -339,6 +339,27 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
+      "title": "CloudTech Powers Institutional-Grade Digital Asset Trading for Australian Investors Through Integral Technology",
+      "url": "https://www.investing.com/news/cryptocurrency-news/cloudtech-powers-institutionalgrade-digital-asset-trading-for-australian-investors-through-integral-technology-4909726",
+      "published": "2026-09-21 22:30:35"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "XRP Climbs 10% In a Green Day",
+      "url": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-a-green-day-4909700",
+      "published": "2026-09-21 21:39:05"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin surges to over 7-month high as tokenized-stock move lifts crypto sentiment",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
+      "published": "2026-09-21 21:37:00"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
       "title": "Bitcoin parabolic at $86K with RSI at 83: Live levels",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
       "published": "2026-09-21 19:19:36"
@@ -367,13 +388,6 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin rallies above $85k as tokenized-stock move boosts crypto sentiment",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
-      "published": "2026-09-21 13:39:10"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
       "title": "Litecoin Climbs 10% As Investors Gain Confidence",
       "url": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-as-investors-gain-confidence-4909060",
       "published": "2026-09-21 12:40:00"
@@ -391,20 +405,6 @@
       "title": "Strategy buys 950 bitcoin, repurchases STRC shares in weekly update",
       "url": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-950-bitcoin-repurchases-strc-shares-in-weekly-update-432SI-4908941",
       "published": "2026-09-21 12:04:02"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Crypto stocks rise premarket as Bitcoin hits over seven-month high",
-      "url": "https://www.investing.com/news/cryptocurrency-news/crypto-stocks-rise-premarket-as-bitcoin-hits-over-sevenmonth-high-4908587",
-      "published": "2026-09-21 10:43:27"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin surges past $84k: Key technical levels to watch for BTC now",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-84k-key-technical-levels-to-watch-for-btc-now-93CH-4908598",
-      "published": "2026-09-21 10:22:12"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-21T21:05:12.447003+00:00",
+  "fetchedAt": "2026-09-22T00:07:36.896275+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
