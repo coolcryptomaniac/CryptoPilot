@@ -3,7 +3,35 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin slips under $86,000 as money rotates into BCH and ZEC",
+      "title": "Inside the FBI’s little-known annual crypto crime gathering",
+      "url": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
+      "published": "Wed, 23 Sep 2026 15:26:35 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
+      "published": "Wed, 23 Sep 2026 15:07:21 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
+      "url": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
+      "published": "Wed, 23 Sep 2026 13:02:43 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
+      "url": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
+      "published": "Wed, 23 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Live updates: Bitcoin slips as higher rates and dollar pressure markets",
       "url": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
       "published": "Wed, 23 Sep 2026 11:29:30 +0000"
     },
@@ -141,32 +169,74 @@
       "published": "Tue, 22 Sep 2026 11:35:43 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
-      "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
-      "published": "Tue, 22 Sep 2026 11:07:23 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
+      "url": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 16:34:27 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
-      "url": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
-      "published": "Tue, 22 Sep 2026 10:59:03 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
+      "url": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 15:56:20 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin trades near $86,000 as U.S. stocks post small gains",
-      "url": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
-      "published": "Tue, 22 Sep 2026 10:20:12 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
+      "url": "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 14:52:11 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
-      "url": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
-      "published": "Tue, 22 Sep 2026 10:07:52 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
+      "url": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 14:28:50 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
+      "url": "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 13:40:00 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 13:39:08 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Winners and losers of the SEC’s new tokenized stocks rules",
+      "url": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 13:30:00 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
+      "url": "https://cointelegraph.com/news/moonpay-north-capital-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Stablecoin cross-border flows surge 78%, defying crypto bear market",
+      "url": "https://cointelegraph.com/news/stablecoin-cross-border-flows-surge-78-defying-crypto-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "EU watchdogs warn quantum computers could pick crypto’s locks",
+      "url": "https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 12:22:56 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -181,13 +251,6 @@
       "title": "Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis",
       "url": "https://cointelegraph.com/markets/bitcoin-bull-market-confirmed-but-90k-presents-profit-taking-risk-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 10:05:10 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
-      "url": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 09:42:39 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -209,13 +272,6 @@
       "title": "Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis",
       "url": "https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 07:25:05 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 05:43:01 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -281,60 +337,25 @@
       "published": "Tue, 22 Sep 2026 16:21:44 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin price seeks $86K as new support after oil dips below $90",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-seeks-86k-as-new-support-after-oil-dips-below-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 16:01:55 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "BTCC Exchange and Markets.com Announce Promotional Collaboration Ahead of TOKEN2049 Singapore",
+      "url": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-and-marketscom-announce-promotional-collaboration-ahead-of-token2049-singapore-4913473",
+      "published": "2026-09-23 15:00:39"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "CLARITY vote failure could stoke more crypto PAC spending in key races",
-      "url": "https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 15:55:37 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin steadies below $86k as ETF inflows soar; Trump-Xi summit in focus",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
+      "published": "2026-09-23 13:43:59"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
-      "url": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 15:37:17 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Big Questions: Does Satoshi actually own 1.1 million Bitcoin?",
-      "url": "https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 13:30:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Binance takes $100M stake in Circle under expanded USDC deal",
-      "url": "https://cointelegraph.com/news/binance-stake-circle-expanded-usdc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 12:18:41 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "ECB to put its own money into tokenized securities via new Pontes DLT",
-      "url": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 11:29:35 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%",
-      "url": "https://cointelegraph.com/markets/crypto-metric-signals-altseason-as-bitcoin-market-cap-share-stalls-below-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 10:00:43 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally",
-      "url": "https://cointelegraph.com/markets/crypto-market-cap-3-trillion-bitcoin-altcoins-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 09:58:26 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Travala Launches Permanent AVA Strategic Reserve, Doubles Monthly Open-Market Buybacks",
+      "url": "https://www.investing.com/news/cryptocurrency-news/travala-launches-permanent-ava-strategic-reserve-doubles-monthly-openmarket-buybacks-4912992",
+      "published": "2026-09-23 12:32:18"
     },
     {
       "source": "Investing.com",
@@ -342,13 +363,6 @@
       "title": "Analyst says Bitcoin bull market is underway and sets 2029 target",
       "url": "https://www.investing.com/news/cryptocurrency-news/analyst-says-bitcoin-bull-market-is-underway-and-sets-2029-target-4912571",
       "published": "2026-09-23 10:42:44"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin firms near $86k as ETF inflows soar; Trump-Xi summit in focus",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
-      "published": "2026-09-23 10:02:36"
     },
     {
       "source": "Investing.com",
@@ -391,20 +405,6 @@
       "title": "Margex Launches $2.7M ETH Airdrop Campaign Celebrating 4 Years of Proof of Stake",
       "url": "https://www.investing.com/news/cryptocurrency-news/margex-launches-27m-eth-airdrop-campaign-celebrating-4-years-of-proof-of-stake-4910148",
       "published": "2026-09-22 09:31:24"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "CloudTech Powers Institutional-Grade Digital Asset Trading for Australian Investors Through Integral Technology",
-      "url": "https://www.investing.com/news/cryptocurrency-news/cloudtech-powers-institutionalgrade-digital-asset-trading-for-australian-investors-through-integral-technology-4909726",
-      "published": "2026-09-21 22:30:35"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "XRP Climbs 10% In a Green Day",
-      "url": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-a-green-day-4909700",
-      "published": "2026-09-21 21:39:05"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-23T11:36:52.738411+00:00",
+  "fetchedAt": "2026-09-23T16:58:46.357089+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
