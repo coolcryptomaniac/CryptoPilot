@@ -3,6 +3,27 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
+      "url": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
+      "published": "Wed, 23 Sep 2026 19:04:52 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
+      "url": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm",
+      "published": "Wed, 23 Sep 2026 18:59:36 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
+      "url": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
+      "published": "Wed, 23 Sep 2026 18:04:11 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Inside the FBI’s little-known annual crypto crime gathering",
       "url": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
       "published": "Wed, 23 Sep 2026 15:26:35 +0000"
@@ -31,7 +52,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin slips as higher rates and dollar pressure markets",
+      "title": "Live updates: Bitcoin pulls back to $84,000 as bond yields fly higher",
       "url": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
       "published": "Wed, 23 Sep 2026 11:29:30 +0000"
     },
@@ -66,7 +87,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
+      "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
       "url": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
       "published": "Wed, 23 Sep 2026 09:17:53 +0000"
     },
@@ -148,25 +169,25 @@
       "published": "Tue, 22 Sep 2026 14:32:59 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
-      "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
-      "published": "Tue, 22 Sep 2026 12:32:15 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 19:39:24 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
-      "url": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
-      "published": "Tue, 22 Sep 2026 12:05:55 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Trump reveals up to $100K Strategy stock purchase in ethics filing",
+      "url": "https://cointelegraph.com/news/trump-discloses-up-to-100k-strategy-stock-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 19:05:14 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
-      "published": "Tue, 22 Sep 2026 11:35:43 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
+      "url": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 18:17:48 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -202,13 +223,6 @@
       "title": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
       "url": "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 13:40:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 13:39:08 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -323,18 +337,18 @@
       "published": "Tue, 22 Sep 2026 20:57:51 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
-      "url": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 19:56:48 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin pinned at $84,328 as bearish momentum builds: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-23 19:18:30"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Zcash gets first European ETP following US ETF launch",
-      "url": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 16:21:44 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "BitGo says asset servicing is the real barrier to tokenized securities",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitgo-says-asset-servicing-is-the-real-barrier-to-tokenized-securities-4913704",
+      "published": "2026-09-23 17:53:48"
     },
     {
       "source": "Investing.com",
@@ -374,13 +388,6 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin pulls back from overbought highs at $86,388: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-23 07:11:40"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
       "title": "Bitcoin takes a breather, halting a big rally that briefly took it above $87k",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
       "published": "2026-09-22 22:16:25"
@@ -398,13 +405,6 @@
       "title": "Farmhouse holds 15.709 Bitcoin with $347K in unrealized gains",
       "url": "https://www.investing.com/news/cryptocurrency-news/farmhouse-holds-15709-bitcoin-with-347k-in-unrealized-gains-432SI-4911044",
       "published": "2026-09-22 13:38:01"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Margex Launches $2.7M ETH Airdrop Campaign Celebrating 4 Years of Proof of Stake",
-      "url": "https://www.investing.com/news/cryptocurrency-news/margex-launches-27m-eth-airdrop-campaign-celebrating-4-years-of-proof-of-stake-4910148",
-      "published": "2026-09-22 09:31:24"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-23T16:58:46.357089+00:00",
+  "fetchedAt": "2026-09-23T20:22:14.633583+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
