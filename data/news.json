@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
+      "url": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
+      "published": "Thu, 24 Sep 2026 04:13:01 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
       "url": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
       "published": "Wed, 23 Sep 2026 19:04:52 +0000"
@@ -162,11 +169,11 @@
       "published": "Tue, 22 Sep 2026 15:21:28 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
-      "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
-      "published": "Tue, 22 Sep 2026 14:32:59 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
+      "url": "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 00:53:09 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -330,13 +337,6 @@
       "published": "Wed, 23 Sep 2026 04:33:18 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
-      "url": "https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 03:33:15 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
       "title": "Bitcoin slips nearly 2%, extends pullback after rally amid hit to risk sentiment",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-23T23:42:16.364153+00:00",
+  "fetchedAt": "2026-09-24T04:51:06.112347+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
