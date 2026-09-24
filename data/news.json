@@ -3,6 +3,34 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "The data proves it: Bitcoin doesn't care about rising bond yields over long-term",
+      "url": "https://www.coindesk.com/markets/2026/09/24/the-data-proves-it-bitcoin-doesn-t-care-about-rising-bond-yields-over-long-term",
+      "published": "Thu, 24 Sep 2026 09:48:09 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption",
+      "url": "https://www.coindesk.com/tech/2026/09/24/eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption",
+      "published": "Thu, 24 Sep 2026 09:32:48 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
+      "url": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
+      "published": "Thu, 24 Sep 2026 06:33:23 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
+      "url": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
+      "published": "Thu, 24 Sep 2026 05:24:56 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
       "url": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
       "published": "Thu, 24 Sep 2026 04:13:01 +0000"
@@ -141,32 +169,46 @@
       "published": "Wed, 23 Sep 2026 00:00:45 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
-      "url": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
-      "published": "Tue, 22 Sep 2026 21:29:05 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 09:32:44 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto market structure can't wait for shot at post-election Clarity Act surge: White House",
-      "url": "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house",
-      "published": "Tue, 22 Sep 2026 20:31:02 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
+      "url": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 09:18:16 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Canada's 'Big Six' banks to launch interbank tokenized deposit initiative",
-      "url": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
-      "published": "Tue, 22 Sep 2026 17:34:03 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Australia says OpenAI agent hacked government site before Altman warning",
+      "url": "https://cointelegraph.com/news/australia-openai-agent-government-hack-altman-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 08:29:11 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
-      "url": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
-      "published": "Tue, 22 Sep 2026 15:21:28 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 05:23:34 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare",
+      "url": "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 04:52:40 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
+      "url": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 04:44:12 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -195,13 +237,6 @@
       "title": "US lawmakers from gaming states urge SCOTUS to take up Kalshi case",
       "url": "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 20:28:34 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 19:39:24 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -302,39 +337,32 @@
       "published": "Wed, 23 Sep 2026 08:18:38 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Zcash’s November upgrade could freeze funds in legacy Sprout pool",
-      "url": "https://cointelegraph.com/news/zcash-nu7-upgrade-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 08:07:10 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin drops to $83.3k as yields, oil spike spook risk",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
+      "published": "2026-09-24 09:26:52"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 07:25:05 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Litecoin Climbs 10% In a Green Day",
+      "url": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-in-a-green-day-4914566",
+      "published": "2026-09-24 08:01:00"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report",
-      "url": "https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 05:34:49 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Exclusive: Bitget adopts Sygnum’s off-exchange bank custody model",
+      "url": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-adopts-sygnums-offexchange-bank-custody-model-4914553",
+      "published": "2026-09-24 07:50:29"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
-      "url": "https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 05:22:21 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "AI potential to drive crypto demand remains ‘underappreciated’: BlackRock",
-      "url": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 04:33:18 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin slips below 20 SMA at $84,076: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-24 07:10:54"
     },
     {
       "source": "Investing.com",
@@ -342,13 +370,6 @@
       "title": "Bitcoin slips nearly 2%, extends pullback after rally amid hit to risk sentiment",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
       "published": "2026-09-23 22:15:55"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin pinned at $84,328 as bearish momentum builds: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-23 19:18:30"
     },
     {
       "source": "Investing.com",
@@ -384,27 +405,6 @@
       "title": "Cregis Marks Two Years of Middle East Growth as Traditional Financial Firms Drive Adoption",
       "url": "https://www.investing.com/news/cryptocurrency-news/cregis-marks-two-years-of-middle-east-growth-as-traditional-financial-firms-drive-adoption-4912208",
       "published": "2026-09-23 07:30:34"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin takes a breather, halting a big rally that briefly took it above $87k",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
-      "published": "2026-09-22 22:16:25"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "EOS Climbs 12% As Investors Gain Confidence",
-      "url": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-as-investors-gain-confidence-4911434",
-      "published": "2026-09-22 18:03:00"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Farmhouse holds 15.709 Bitcoin with $347K in unrealized gains",
-      "url": "https://www.investing.com/news/cryptocurrency-news/farmhouse-holds-15709-bitcoin-with-347k-in-unrealized-gains-432SI-4911044",
-      "published": "2026-09-22 13:38:01"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-24T04:51:06.112347+00:00",
+  "fetchedAt": "2026-09-24T10:01:29.520617+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
