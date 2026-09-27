@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+      "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+      "published": "Sun, 27 Sep 2026 14:29:13 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "How months of work on the Clarity Act all fell apart",
       "url": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
       "published": "Sun, 27 Sep 2026 12:00:00 +0000"
@@ -160,13 +167,6 @@
       "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
       "url": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
       "published": "Thu, 24 Sep 2026 22:28:49 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
-      "url": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
-      "published": "Thu, 24 Sep 2026 21:59:32 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-27T13:58:52.915687+00:00",
+  "fetchedAt": "2026-09-27T18:24:26.118612+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
