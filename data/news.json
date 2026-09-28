@@ -171,6 +171,13 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
+      "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 27 Sep 2026 23:43:18 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
       "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
       "url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 27 Sep 2026 12:46:28 +0000"
@@ -330,13 +337,6 @@
       "published": "Fri, 25 Sep 2026 05:06:22 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
-      "url": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 04:41:06 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
       "title": "Bitcoin stalls in bull flag below $87,363: Live levels",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-27T22:11:40.612823+00:00",
+  "fetchedAt": "2026-09-28T00:46:29.919932+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
