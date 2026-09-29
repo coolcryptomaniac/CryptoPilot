@@ -171,6 +171,13 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
+      "title": "NEAR Intents says it blocked $50M tied to Bitget hackers",
+      "url": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 01:17:49 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
       "title": "Canadian ‘crypto king’ set to represent himself at fraud trial",
       "url": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 28 Sep 2026 20:41:44 +0000"
@@ -330,13 +337,6 @@
       "published": "Sun, 27 Sep 2026 09:57:19 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy",
-      "url": "https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 27 Sep 2026 07:18:42 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
       "title": "Bitcoin falls over 1% as risk sentiment takes a hit from bond rout, Iran tensions",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-28T22:00:56.898693+00:00",
+  "fetchedAt": "2026-09-29T01:57:32.013047+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
