@@ -3,6 +3,20 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
+      "url": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
+      "published": "Tue, 29 Sep 2026 18:21:07 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
+      "url": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
+      "published": "Tue, 29 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Democrats killed the Clarity Act",
       "url": "https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act",
       "published": "Tue, 29 Sep 2026 14:08:18 +0000"
@@ -10,7 +24,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Bitcoin beats gold, surge to $100,000 in play",
+      "title": "Bitcoin surging to $100,000 may be in play, after outperforming gold",
       "url": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
       "published": "Tue, 29 Sep 2026 11:34:55 +0000"
     },
@@ -155,18 +169,53 @@
       "published": "Mon, 28 Sep 2026 09:45:55 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Caution builds in the bitcoin market even as prices stay well above summer lows",
-      "url": "https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows",
-      "published": "Mon, 28 Sep 2026 09:29:34 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
+      "url": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 19:59:43 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
-      "url": "https://www.coindesk.com/business/2026/09/28/redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans",
-      "published": "Mon, 28 Sep 2026 07:50:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
+      "url": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 19:55:49 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
+      "url": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 19:49:53 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 19:42:02 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
+      "url": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 17:14:36 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin gives back gains as long-term holder supply keeps $85K out of reach",
+      "url": "https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 16:26:11 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
+      "url": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 16:18:06 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -174,13 +223,6 @@
       "title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’",
       "url": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 13:30:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 13:08:04 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -295,46 +337,18 @@
       "published": "Mon, 28 Sep 2026 16:48:00 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
-      "url": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 14:46:21 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin bull flag compresses near $83,266 support: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
+      "published": "2026-09-29 19:19:05"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "MiCA focus shifts from rulemaking to supervision, ESMA chair says",
-      "url": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 14:02:45 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Altseason is coming — and traders are more discerning this time",
-      "url": "https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 13:30:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666",
-      "url": "https://cointelegraph.com/news/strategy-1665-bitcoin-buy-holdings-847666-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 12:38:01 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
-      "url": "https://cointelegraph.com/markets/btc-price-eyes-best-q3-in-nine-years-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 12:21:50 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
-      "url": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 11:05:24 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Puffer and Anchorage Digital Partner to Bring Institutional Settlement Infrastructure to Puffer UniFi",
+      "url": "https://www.investing.com/news/cryptocurrency-news/puffer-and-anchorage-digital-partner-to-bring-institutional-settlement-infrastructure-to-puffer-unifi-4923352",
+      "published": "2026-09-29 19:00:37"
     },
     {
       "source": "Investing.com",
@@ -381,13 +395,6 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin consolidates below $85K resistance: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
-      "published": "2026-09-29 07:11:54"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
       "title": "BTSE Bhutan Receives Financial Services License for Digital Asset Trading Services in Gelephu Mindfulness City",
       "url": "https://www.investing.com/news/cryptocurrency-news/btse-bhutan-receives-financial-services-license-for-digital-asset-trading-services-in-gelephu-mindfulness-city-4921553",
       "published": "2026-09-29 04:30:33"
@@ -398,13 +405,6 @@
       "title": "Bitcoin falls over 1% as risk sentiment takes a hit from bond rout, Iran tensions",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
       "published": "2026-09-28 21:48:41"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "AlgoQuant Asset Management Selects Liquid Mercury to Enhance Digital Asset Trading Infrastructure",
-      "url": "https://www.investing.com/news/cryptocurrency-news/algoquant-asset-management-selects-liquid-mercury-to-enhance-digital-asset-trading-infrastructure-4920777",
-      "published": "2026-09-28 15:00:36"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-29T15:52:00.497088+00:00",
+  "fetchedAt": "2026-09-29T20:47:07.490664+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
