@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
+      "url": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
+      "published": "Tue, 29 Sep 2026 23:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
       "url": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
       "published": "Tue, 29 Sep 2026 18:21:07 +0000"
@@ -160,13 +167,6 @@
       "title": "Live updates: Bitcoin remains under pressure as Iran denies report of peace progress",
       "url": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
       "published": "Mon, 28 Sep 2026 10:02:37 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Eyes on key U.S. employment data as crypto bulls take a breather: Crypto Week Ahead",
-      "url": "https://www.coindesk.com/markets/2026/09/28/bitcoin-rally-takes-a-breather-ahead-of-key-u-s-employment-data-crypto-week-ahead",
-      "published": "Mon, 28 Sep 2026 09:45:55 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -339,6 +339,13 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
+      "title": "Bitcoin rises to $83.5k amid a fall in oil prices and a let up in Treasury yields",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
+      "published": "2026-09-29 21:43:40"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
       "title": "Bitcoin bull flag compresses near $83,266 support: Live levels",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
       "published": "2026-09-29 19:19:05"
@@ -349,13 +356,6 @@
       "title": "Puffer and Anchorage Digital Partner to Bring Institutional Settlement Infrastructure to Puffer UniFi",
       "url": "https://www.investing.com/news/cryptocurrency-news/puffer-and-anchorage-digital-partner-to-bring-institutional-settlement-infrastructure-to-puffer-unifi-4923352",
       "published": "2026-09-29 19:00:37"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin flat at $83.4k as markets weigh soaring yields, Iran tensions",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
-      "published": "2026-09-29 13:32:24"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-09-29T20:47:07.490664+00:00",
+  "fetchedAt": "2026-09-30T00:27:22.678339+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
