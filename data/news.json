@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "SEC proposes new crypto custody rules for investment advisers and funds",
+      "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+      "published": "Thu, 01 Oct 2026 20:20:04 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Another Trump memecoin dinner advertised for token's top investors",
       "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
       "published": "Thu, 01 Oct 2026 18:45:29 +0000"
@@ -162,11 +169,25 @@
       "published": "Wed, 30 Sep 2026 10:28:24 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin closing out best quarter since 2024, ether its best since 2021",
-      "url": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
-      "published": "Wed, 30 Sep 2026 10:18:34 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
+      "url": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 21:07:45 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims",
+      "url": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 21:00:11 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 20:07:25 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -223,13 +244,6 @@
       "title": "Stablecoins can drain from banks and nations at lightning speed",
       "url": "https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 13:30:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 13:08:56 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -323,18 +337,25 @@
       "published": "Wed, 30 Sep 2026 18:49:06 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
-      "url": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 17:17:54 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin reverses course, inches up to kick off Q4 as U.S. Treasury bonds rally",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370",
+      "published": "2026-10-01 21:51:19"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitget ‘gradually back to usual’ as protection fund reaches $309M",
-      "url": "https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 16:28:30 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin hits MFI 100 overbought at $84,789: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
+      "published": "2026-10-01 19:18:44"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Lowest Fee Bitcoin ATMs Announces Launch of More Than 400 ATMs Nationwide",
+      "url": "https://www.investing.com/news/cryptocurrency-news/lowest-fee-bitcoin-atms-announces-launch-of-more-than-400-atms-nationwide-4928141",
+      "published": "2026-10-01 19:00:37"
     },
     {
       "source": "Investing.com",
@@ -360,23 +381,9 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin starts Q4 on dour note as stubborn yields weigh",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370",
-      "published": "2026-10-01 13:29:52"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
       "title": "Blackboard and Aster Announce First Trading Competition With Up to $100,000 in Prizes",
       "url": "https://www.investing.com/news/cryptocurrency-news/blackboard-and-aster-announce-first-trading-competition-with-up-to-100000-in-prizes-4927024",
       "published": "2026-10-01 11:00:34"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin stuck in $82,800-$85,000 range: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
-      "published": "2026-10-01 07:10:54"
     },
     {
       "source": "Investing.com",
@@ -398,13 +405,6 @@
       "title": "Open Standard issues dollar stablecoin backed by Visa, Stripe, and Mastercard",
       "url": "https://www.investing.com/news/cryptocurrency-news/open-standard-issues-dollar-stablecoin-backed-by-visa-stripe-and-mastercard-4925607",
       "published": "2026-09-30 16:24:42"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Solmate names Bitcoin Depot veteran Scott Buchanan as CFO",
-      "url": "https://www.investing.com/news/cryptocurrency-news/solmate-names-bitcoin-depot-veteran-scott-buchanan-as-cfo-432SI-4925282",
-      "published": "2026-09-30 13:22:02"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-01T18:54:53.886623+00:00",
+  "fetchedAt": "2026-10-01T23:12:32.081366+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
