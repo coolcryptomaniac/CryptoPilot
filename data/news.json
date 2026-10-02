@@ -3,7 +3,49 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there",
+      "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
+      "url": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
+      "published": "Fri, 02 Oct 2026 13:22:19 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
+      "url": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
+      "published": "Fri, 02 Oct 2026 12:31:53 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Cboe wants to turn VIX into a never-ending trade",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
+      "published": "Fri, 02 Oct 2026 11:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Live updates: Bitcoin trading near $86,000 after big miss on U.S. jobs",
+      "url": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
+      "published": "Fri, 02 Oct 2026 11:22:40 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
+      "url": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
+      "published": "Fri, 02 Oct 2026 10:31:16 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
+      "url": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
+      "published": "Fri, 02 Oct 2026 09:14:21 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
       "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
       "published": "Fri, 02 Oct 2026 08:28:19 +0000"
     },
@@ -127,46 +169,88 @@
       "published": "Wed, 30 Sep 2026 15:19:36 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto Long & Short: What will the AI agents run on?",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
-      "published": "Wed, 30 Sep 2026 14:56:07 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Crypto’s billions are back, but the premiums aren’t",
+      "url": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 15:32:53 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
-      "url": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
-      "published": "Wed, 30 Sep 2026 14:04:19 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower",
+      "url": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 15:27:31 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
-      "url": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
-      "published": "Wed, 30 Sep 2026 13:00:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens",
+      "url": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 14:12:48 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "A stronger dollar is a weaker threat to bitcoin than traders think",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
-      "published": "Wed, 30 Sep 2026 11:20:09 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
+      "url": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 13:30:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace",
-      "url": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
-      "published": "Wed, 30 Sep 2026 11:04:09 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 13:00:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’",
-      "url": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
-      "published": "Wed, 30 Sep 2026 11:00:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
+      "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 12:25:56 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
+      "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 11:40:21 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
+      "url": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 10:54:33 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain",
+      "url": "https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 10:29:35 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin reaches for $87K as short liquidations top $120M",
+      "url": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 09:37:06 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
+      "url": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 09:30:49 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Porsche’s ‘long haul’ Web3 project ends in less than four years",
+      "url": "https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 09:18:52 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -174,13 +258,6 @@
       "title": "Bitcoin ETFs kick off ‘Uptober’ with $103M inflow",
       "url": "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 08:20:08 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 06:00:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -260,81 +337,18 @@
       "published": "Thu, 01 Oct 2026 18:45:09 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Illinois will postpone implementation of crypto tax following lawsuit",
-      "url": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 18:01:49 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Stablecoin firm Fasset aims to be a bank for people and their AI agents",
+      "url": "https://www.investing.com/news/cryptocurrency-news/stablecoin-firm-fasset-aims-to-be-a-bank-for-people-and-their-ai-agents-4930084",
+      "published": "2026-10-02 14:28:26"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "New York, Wyoming regulators sign pact to coordinate crypto oversight",
-      "url": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 16:12:23 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
-      "url": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 15:55:19 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
-      "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 15:43:34 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
-      "url": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 13:35:47 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "LATAM stablecoin liquidity may depend on few providers, investor says",
-      "url": "https://cointelegraph.com/news/latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 13:30:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Stablecoins can drain from banks and nations at lightning speed",
-      "url": "https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 13:30:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Tokenized assets don’t always mirror traditional markets, Dune finds",
-      "url": "https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 10:50:24 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin trapped below $86K as PCE changes cloud inflation reading",
-      "url": "https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 10:30:18 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Binance’s EU services face scrutiny over licensing exemption: Report",
-      "url": "https://cointelegraph.com/news/europe-binance-questions-esma-tighter-mica-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 10:07:18 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives",
-      "url": "https://cointelegraph.com/news/celsius-chainalysis-lawsuit-audit-claim-survives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 09:09:46 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Travala’s Crypto Loyalty Program Passes 170,000 Members, Sets Long-Term Goal of 30% of AVA Supply Locked",
+      "url": "https://www.investing.com/news/cryptocurrency-news/travalas-crypto-loyalty-program-passes-170000-members-sets-longterm-goal-of-30-of-ava-supply-locked-4929740",
+      "published": "2026-10-02 12:30:36"
     },
     {
       "source": "Investing.com",
@@ -391,20 +405,6 @@
       "title": "Blackboard and Aster Announce First Trading Competition With Up to $100,000 in Prizes",
       "url": "https://www.investing.com/news/cryptocurrency-news/blackboard-and-aster-announce-first-trading-competition-with-up-to-100000-in-prizes-4927024",
       "published": "2026-10-01 11:00:34"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "OKX and BitGo expand off-exchange settlement to global institutions",
-      "url": "https://www.investing.com/news/cryptocurrency-news/okx-and-bitgo-expand-offexchange-settlement-to-global-institutions-432SI-4926120",
-      "published": "2026-10-01 00:14:02"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin muted at $83.7k, but set for best quarterly performance since Q4 2024",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
-      "published": "2026-09-30 21:54:18"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-02T08:37:27.537604+00:00",
+  "fetchedAt": "2026-10-02T15:49:25.508864+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
