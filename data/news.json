@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+      "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+      "published": "Fri, 02 Oct 2026 21:23:20 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
       "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
       "published": "Fri, 02 Oct 2026 17:34:40 +0000"
@@ -162,11 +169,18 @@
       "published": "Thu, 01 Oct 2026 04:58:52 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
-      "url": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
-      "published": "Thu, 01 Oct 2026 04:15:20 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 20:46:58 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
+      "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 20:40:47 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -216,13 +230,6 @@
       "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
       "url": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 13:30:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 13:00:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -330,11 +337,11 @@
       "published": "Fri, 02 Oct 2026 01:07:08 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
-      "url": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 23:17:47 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin slightly up for the week on pared Fed rate hike bets, ’uptober’ hopes",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-865k-with-uptober-hopes-nonfarm-payrolls-in-focus-4928895",
+      "published": "2026-10-02 21:40:53"
     },
     {
       "source": "Investing.com",
@@ -370,13 +377,6 @@
       "title": "Travala’s Crypto Loyalty Program Passes 170,000 Members, Sets Long-Term Goal of 30% of AVA Supply Locked",
       "url": "https://www.investing.com/news/cryptocurrency-news/travalas-crypto-loyalty-program-passes-170000-members-sets-longterm-goal-of-30-of-ava-supply-locked-4929740",
       "published": "2026-10-02 12:30:36"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin rises to $86.5k with ‘uptober’ hopes, nonfarm payrolls in focus",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-865k-with-uptober-hopes-nonfarm-payrolls-in-focus-4928895",
-      "published": "2026-10-02 05:40:48"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-02T20:45:18.648981+00:00",
+  "fetchedAt": "2026-10-03T00:30:24.677622+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
