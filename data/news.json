@@ -339,6 +339,13 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
+      "title": "Bitcoin holds below $85,000 as SEC custody proposal boosts institutional outlook",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-85000-as-sec-custody-proposal-boosts-institutional-outlook-4930676",
+      "published": "2026-10-03 02:15:26"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
       "title": "Bitcoin slightly up for the week on pared Fed rate hike bets, ’uptober’ hopes",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-865k-with-uptober-hopes-nonfarm-payrolls-in-focus-4928895",
       "published": "2026-10-02 21:40:53"
@@ -398,13 +405,6 @@
       "title": "21X Group Announces Collaboration with Circle as it joins Arc as a Day-1 Launch Partner",
       "url": "https://www.investing.com/news/cryptocurrency-news/21x-group-announces-collaboration-with-circle-as-it-joins-arc-as-a-day1-launch-partner-4927879",
       "published": "2026-10-01 15:30:37"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Citi updates BTC, ETH forecasts. Here are the new 2027 targets",
-      "url": "https://www.investing.com/news/cryptocurrency-news/citi-updates-btc-eth-forecasts-here-are-the-new-2027-targets-4927801",
-      "published": "2026-10-01 14:44:06"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-03T00:30:24.677622+00:00",
+  "fetchedAt": "2026-10-03T06:33:19.052594+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
