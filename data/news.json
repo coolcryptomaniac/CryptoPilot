@@ -339,6 +339,13 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
+      "title": "Bitcoin holds near $85,000 as SEC clears first 3x leveraged crypto ETPs",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-85000-as-sec-clears-first-3x-leveraged-crypto-etps-4930906",
+      "published": "2026-10-04 05:38:13"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
       "title": "Bitcoin stuck at $84,947 in tightening range: Live levels",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
       "published": "2026-10-03 19:02:33"
@@ -398,13 +405,6 @@
       "title": "Lowest Fee Bitcoin ATMs Announces Launch of More Than 400 ATMs Nationwide",
       "url": "https://www.investing.com/news/cryptocurrency-news/lowest-fee-bitcoin-atms-announces-launch-of-more-than-400-atms-nationwide-4928141",
       "published": "2026-10-01 19:00:37"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "21X Group Announces Collaboration with Circle as it joins Arc as a Day-1 Launch Partner",
-      "url": "https://www.investing.com/news/cryptocurrency-news/21x-group-announces-collaboration-with-circle-as-it-joins-arc-as-a-day1-launch-partner-4927879",
-      "published": "2026-10-01 15:30:37"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-03T23:47:12.795054+00:00",
+  "fetchedAt": "2026-10-04T05:53:26.352779+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
