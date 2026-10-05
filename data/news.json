@@ -3,6 +3,20 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on",
+      "url": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
+      "published": "Mon, 05 Oct 2026 19:21:06 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
+      "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
+      "published": "Mon, 05 Oct 2026 17:18:14 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
       "url": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
       "published": "Mon, 05 Oct 2026 15:54:23 +0000"
@@ -155,18 +169,60 @@
       "published": "Sat, 03 Oct 2026 16:00:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
-      "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
-      "published": "Sat, 03 Oct 2026 15:00:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Crypto PAC announces support for 32 House candidates in US midterms",
+      "url": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 21:42:30 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto's Sisyphean struggle",
-      "url": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
-      "published": "Sat, 03 Oct 2026 13:00:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
+      "url": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 20:46:53 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Modern Treasury seeks US trust bank charter for digital asset custody",
+      "url": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 19:53:52 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 19:25:00 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Advocacy group pushes back on banks’ lawsuit against OCC over charters",
+      "url": "https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 19:15:22 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
+      "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 17:58:58 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
+      "url": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 17:40:23 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017",
+      "url": "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 16:53:08 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -192,13 +248,6 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 13:04:57 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
       "title": "China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis",
       "url": "https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 05 Oct 2026 13:00:00 +0000"
@@ -207,7 +256,7 @@
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
       "title": "Too big to pause: Could an AI slowdown crash the economy?",
-      "url": "https://cointelegraph.com/features/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/magazine/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 05 Oct 2026 12:30:00 +0000"
     },
     {
@@ -288,53 +337,32 @@
       "published": "Sun, 04 Oct 2026 12:42:00 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
-      "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 04 Oct 2026 09:40:00 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin hovers under $86k as traders parse positive CFTC move against bond rout",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
+      "published": "2026-10-05 21:55:15"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
-      "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 04 Oct 2026 07:18:00 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin battles $83,900 support amid fading momentum: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+      "published": "2026-10-05 19:20:46"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
-      "url": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 03 Oct 2026 11:59:10 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Eden Labs Raises $1.5M to Build Personal AI That Works for Everyone",
+      "url": "https://www.investing.com/news/cryptocurrency-news/eden-labs-raises-15m-to-build-personal-ai-that-works-for-everyone-4932634",
+      "published": "2026-10-05 17:00:17"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Community banks sue OCC over trust bank charters of crypto firms",
-      "url": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 03 Oct 2026 09:28:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Trump expected to appoint Jay Clayton as new AI czar: Reports",
-      "url": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 03 Oct 2026 07:09:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
-      "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 20:40:47 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
-      "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 18:41:17 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Stockhunt Unveils CoinIQ, an AI-Powered Self-Custody DEX, at TOKEN2049 Singapore",
+      "url": "https://www.investing.com/news/cryptocurrency-news/stockhunt-unveils-coiniq-an-aipowered-selfcustody-dex-at-token2049-singapore-4932635",
+      "published": "2026-10-05 17:00:17"
     },
     {
       "source": "Investing.com",
@@ -342,13 +370,6 @@
       "title": "Stablecoin Development reports $180M in SKY token holdings at Q3 end",
       "url": "https://www.investing.com/news/cryptocurrency-news/stablecoin-development-reports-180m-in-sky-token-holdings-at-q3-end-432SI-4932433",
       "published": "2026-10-05 14:16:02"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin hovers above $86k as softer jobs data offsets pressure from high yields",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
-      "published": "2026-10-05 14:07:44"
     },
     {
       "source": "Investing.com",
@@ -363,13 +384,6 @@
       "title": "Strategy buys 334 bitcoin and holds 848,000 BTC as of October 4",
       "url": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-334-bitcoin-and-holds-848000-btc-as-of-october-4-432SI-4932036",
       "published": "2026-10-05 12:18:02"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin tests $87,363 resistance with fading momentum: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-      "published": "2026-10-05 07:12:18"
     },
     {
       "source": "Investing.com",
@@ -391,20 +405,6 @@
       "title": "Bitcoin edges above $85,000 as traders weigh U.S. leveraged-crypto move",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-85000-as-sec-clears-first-3x-leveraged-crypto-etps-4930906",
       "published": "2026-10-04 17:30:51"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin jumps above $85,000 as SEC custody proposal boosts institutional outlook",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-85000-as-sec-custody-proposal-boosts-institutional-outlook-4930676",
-      "published": "2026-10-03 18:16:48"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin slightly up for the week on pared Fed rate hike bets, ’uptober’ hopes",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-865k-with-uptober-hopes-nonfarm-payrolls-in-focus-4928895",
-      "published": "2026-10-02 21:40:53"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-05T16:00:04.509121+00:00",
+  "fetchedAt": "2026-10-05T22:37:16.849976+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
