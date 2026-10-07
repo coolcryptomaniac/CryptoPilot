@@ -171,6 +171,13 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
+      "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
+      "url": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 00:01:40 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
       "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
       "url": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 21:00:44 +0000"
@@ -330,11 +337,11 @@
       "published": "Tue, 06 Oct 2026 07:09:33 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto",
-      "url": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 05:43:50 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin dips as oil turns higher, countering bond rout halt and regulatory hopes",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
+      "published": "2026-10-06 21:46:48"
     },
     {
       "source": "Investing.com",
@@ -363,13 +370,6 @@
       "title": "Superform Activates Earn Strategies for Tokenized Stocks on Base, Powered by Aave",
       "url": "https://www.investing.com/news/cryptocurrency-news/superform-activates-earn-strategies-for-tokenized-stocks-on-base-powered-by-aave-4934906",
       "published": "2026-10-06 15:00:07"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin pinned at $86.2k as soaring yields offset regulatory hopes",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
-      "published": "2026-10-06 13:52:45"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-06T21:37:32.170355+00:00",
+  "fetchedAt": "2026-10-07T01:32:13.683642+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
