@@ -3,7 +3,35 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
+      "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
+      "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+      "published": "Thu, 08 Oct 2026 21:22:58 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
+      "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
+      "published": "Thu, 08 Oct 2026 19:46:15 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Crypto crumbles as anniversary of flash crash nears",
+      "url": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
+      "published": "Thu, 08 Oct 2026 18:14:39 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
+      "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
+      "published": "Thu, 08 Oct 2026 18:06:41 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
       "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
       "published": "Thu, 08 Oct 2026 15:43:04 +0000"
     },
@@ -80,7 +108,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin breaks lower from recent trading range, sliding below $82,000",
+      "title": "Live updates: Bitcoin pulls off worst levels late in Thursday session",
       "url": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
       "published": "Thu, 08 Oct 2026 10:44:47 +0000"
     },
@@ -141,32 +169,39 @@
       "published": "Thu, 08 Oct 2026 04:23:23 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
-      "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
-      "published": "Thu, 08 Oct 2026 04:00:07 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
+      "url": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 19:31:38 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
-      "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
-      "published": "Thu, 08 Oct 2026 00:35:24 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi",
+      "url": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 19:17:18 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
-      "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
-      "published": "Wed, 07 Oct 2026 18:59:32 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 18:29:33 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
-      "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
-      "published": "Wed, 07 Oct 2026 16:30:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
+      "url": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 18:17:35 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "IMF warns tokenized markets could amplify financial risks",
+      "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 16:25:06 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -195,13 +230,6 @@
       "title": "Crypto lending rises again… but have they solved the risks?",
       "url": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 13:30:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 12:58:01 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -309,32 +337,18 @@
       "published": "Wed, 07 Oct 2026 18:00:10 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
-      "url": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 17:46:59 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin clings to $81K above 200 SMA after Double Top: Live",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+      "published": "2026-10-08 19:19:12"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
-      "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 16:25:38 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill",
-      "url": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 16:06:03 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
-      "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 15:36:11 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Cardano Falls 10% In Bearish Trade",
+      "url": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-4939477",
+      "published": "2026-10-08 16:07:57"
     },
     {
       "source": "Investing.com",
@@ -356,13 +370,6 @@
       "title": "Travala Launches Native AI Travel Agent with BNB Chain & Binance Pay",
       "url": "https://www.investing.com/news/cryptocurrency-news/travala-launches-native-ai-travel-agent-with-bnb-chain--binance-pay-4938960",
       "published": "2026-10-08 12:30:10"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin clings to $83K below key averages: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-      "published": "2026-10-08 07:12:17"
     },
     {
       "source": "Investing.com",
@@ -398,13 +405,6 @@
       "title": "Sui Sets Record for Highest Verified Throughput Settled to a Blockchain: 40 Million Transactions Per Second",
       "url": "https://www.investing.com/news/cryptocurrency-news/sui-sets-record-for-highest-verified-throughput-settled-to-a-blockchain-40-million-transactions-per-second-4936094",
       "published": "2026-10-07 10:30:10"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Yapı Kredi Kripto Selects Integral to Power Digital Asset Trading Services in Türkiye",
-      "url": "https://www.investing.com/news/cryptocurrency-news/yap-kredi-kripto-selects-integral-to-power-digital-asset-trading-services-in-turkiye-4935714",
-      "published": "2026-10-07 07:30:09"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-08T16:28:26.429632+00:00",
+  "fetchedAt": "2026-10-08T22:04:20.854516+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
