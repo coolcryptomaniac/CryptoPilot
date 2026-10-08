@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+      "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+      "published": "Thu, 08 Oct 2026 00:35:24 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
       "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
       "published": "Wed, 07 Oct 2026 18:59:32 +0000"
@@ -162,11 +169,11 @@
       "published": "Tue, 06 Oct 2026 15:20:30 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
-      "url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
-      "published": "Tue, 06 Oct 2026 13:02:33 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 00:04:32 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -330,11 +337,18 @@
       "published": "Tue, 06 Oct 2026 20:53:19 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "UK names 6 banks to lead first digitally native government bond",
-      "url": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 19:19:00 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Hashi Mainnet to Launch With $500M in Capital Backing, Adds Anchorage Digital to Coalition",
+      "url": "https://www.investing.com/news/cryptocurrency-news/hashi-mainnet-to-launch-with-500m-in-capital-backing-adds-anchorage-digital-to-coalition-4937792",
+      "published": "2026-10-08 01:30:09"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin falls to $83k amid pressure from Fed minutes, oil prices, and yields",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
+      "published": "2026-10-07 21:50:27"
     },
     {
       "source": "Investing.com",
@@ -349,13 +363,6 @@
       "title": "Bitcoin breaks below 20/50-SMA, eyes $81K support: Live levels",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
       "published": "2026-10-07 19:19:11"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin drops to $83k amid pressure from rising oil prices, yields",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
-      "published": "2026-10-07 13:52:32"
     },
     {
       "source": "Investing.com",
@@ -398,13 +405,6 @@
       "title": "Anvil Announces SDK Launch, Enterprise Partnerships, and $5M ANVL Token Sale",
       "url": "https://www.investing.com/news/cryptocurrency-news/anvil-announces-sdk-launch-enterprise-partnerships-and-5m-anvl-token-sale-4935117",
       "published": "2026-10-06 19:30:07"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "New Generation of Crypto Miners Released by ASICID",
-      "url": "https://www.investing.com/news/cryptocurrency-news/new-generation-of-crypto-miners-released-by-asicid-4934907",
-      "published": "2026-10-06 15:00:08"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-07T21:58:31.696763+00:00",
+  "fetchedAt": "2026-10-08T01:55:35.793090+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
