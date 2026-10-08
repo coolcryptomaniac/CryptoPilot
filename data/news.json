@@ -3,6 +3,48 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
+      "url": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
+      "published": "Thu, 08 Oct 2026 08:39:23 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Crypto investment firm Deus X Capital shuts down as backers pursue separate strategies",
+      "url": "https://www.coindesk.com/business/2026/10/06/crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue-separate-strategies",
+      "published": "Thu, 08 Oct 2026 08:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+      "url": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
+      "published": "Thu, 08 Oct 2026 06:17:13 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
+      "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
+      "published": "Thu, 08 Oct 2026 05:40:41 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
+      "url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+      "published": "Thu, 08 Oct 2026 04:23:23 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
+      "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
+      "published": "Thu, 08 Oct 2026 04:00:07 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
       "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
       "published": "Thu, 08 Oct 2026 00:35:24 +0000"
@@ -127,46 +169,60 @@
       "published": "Wed, 07 Oct 2026 05:58:25 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
-      "url": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
-      "published": "Wed, 07 Oct 2026 04:31:14 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
+      "url": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 08:24:24 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
-      "url": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
-      "published": "Wed, 07 Oct 2026 04:11:33 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "NEAR enters crypto’s top 20 after 140% surge in 30 days",
+      "url": "https://cointelegraph.com/markets/near-enters-crypto-top-20-token-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 08:17:14 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
-      "url": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
-      "published": "Wed, 07 Oct 2026 04:00:51 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Standard Chartered plans institutional crypto custody in Singapore",
+      "url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 08:08:03 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
-      "url": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
-      "published": "Tue, 06 Oct 2026 17:00:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Greece plans 10% capital gains tax on cryptocurrencies",
+      "url": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 08:03:47 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto is expanding the boundaries of what can be priced",
-      "url": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
-      "published": "Tue, 06 Oct 2026 16:50:26 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 07:30:42 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
-      "url": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
-      "published": "Tue, 06 Oct 2026 15:20:30 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 06:00:00 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
+      "url": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 05:06:51 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
+      "url": "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 04:28:27 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -181,13 +237,6 @@
       "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
       "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 20:48:34 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 18:55:36 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -288,53 +337,18 @@
       "published": "Wed, 07 Oct 2026 08:50:02 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Russia clears first crypto exchanges, custodians under new law",
-      "url": "https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 08:06:35 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin clings to $83K below key averages: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+      "published": "2026-10-08 07:12:17"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid",
-      "url": "https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 07:10:59 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Kalshi’s 15-min gold markets overtake Ether just weeks after launch",
-      "url": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 04:57:54 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
-      "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 01:48:53 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
-      "url": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 00:01:40 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
-      "url": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 21:00:44 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
-      "url": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 20:53:19 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin falls below $83k as M.East tensions, soaring yields dent crypto appetite",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
+      "published": "2026-10-08 06:37:24"
     },
     {
       "source": "Investing.com",
@@ -356,13 +370,6 @@
       "title": "EOS Falls 10% In Bearish Trade",
       "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-bearish-trade-4937373",
       "published": "2026-10-07 19:26:58"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin breaks below 20/50-SMA, eyes $81K support: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-      "published": "2026-10-07 19:19:11"
     },
     {
       "source": "Investing.com",
@@ -398,13 +405,6 @@
       "title": "Bitcoin dips as oil turns higher, countering bond rout halt and regulatory hopes",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
       "published": "2026-10-06 21:46:48"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Anvil Announces SDK Launch, Enterprise Partnerships, and $5M ANVL Token Sale",
-      "url": "https://www.investing.com/news/cryptocurrency-news/anvil-announces-sdk-launch-enterprise-partnerships-and-5m-anvl-token-sale-4935117",
-      "published": "2026-10-06 19:30:07"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-08T01:55:35.793090+00:00",
+  "fetchedAt": "2026-10-08T08:58:04.526492+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
