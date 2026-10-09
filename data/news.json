@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Robinhood Chain considers technology that gives paying traders priority",
+      "url": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
+      "published": "Fri, 09 Oct 2026 18:11:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
       "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
       "published": "Fri, 09 Oct 2026 14:55:23 +0000"
@@ -80,7 +87,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin steadies near $83,000 as crypto recovers from Thursday selloff",
+      "title": "Live updates: Bitcoin slips from day's highs, set to close week with a loss",
       "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
       "published": "Fri, 09 Oct 2026 06:51:32 +0000"
     },
@@ -162,11 +169,53 @@
       "published": "Thu, 08 Oct 2026 15:23:26 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
-      "published": "Thu, 08 Oct 2026 15:11:15 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
+      "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 20:39:17 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
+      "url": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 20:14:02 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
+      "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 19:04:03 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 18:30:11 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
+      "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 17:21:07 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
+      "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 17:02:47 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
+      "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 16:22:45 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -188,13 +237,6 @@
       "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
       "url": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 13:49:22 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 13:31:41 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -295,46 +337,11 @@
       "published": "Thu, 08 Oct 2026 18:17:35 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "IMF warns tokenized markets could amplify financial risks",
-      "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 16:25:06 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes",
-      "url": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 15:55:55 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "US government moves $1B in seized Bitcoin after $770M transfers",
-      "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 15:24:16 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity",
-      "url": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 13:42:27 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Crypto lending rises again… but have they solved the risks?",
-      "url": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 13:30:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "EU lawmakers push crypto onto anti-corruption agenda",
-      "url": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 12:54:21 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin clings to $81,121 macro support on 5h chart: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+      "published": "2026-10-09 19:18:52"
     },
     {
       "source": "Investing.com",
@@ -349,13 +356,6 @@
       "title": "OceanBase Launches EvolvingX: A Database Solution for Always-On Performance and Seamless Growth",
       "url": "https://www.investing.com/news/cryptocurrency-news/oceanbase-launches-evolvingx-a-database-solution-for-alwayson-performance-and-seamless-growth-4940421",
       "published": "2026-10-09 09:00:09"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin breaks below range, tests $81K support: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-      "published": "2026-10-09 07:11:29"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-09T16:12:50.794338+00:00",
+  "fetchedAt": "2026-10-09T20:55:15.717375+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
