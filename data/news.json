@@ -3,6 +3,34 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+      "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+      "published": "Sat, 10 Oct 2026 05:43:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+      "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+      "published": "Sat, 10 Oct 2026 04:44:35 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+      "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+      "published": "Sat, 10 Oct 2026 04:20:07 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+      "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+      "published": "Sat, 10 Oct 2026 03:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
       "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
       "published": "Fri, 09 Oct 2026 21:21:54 +0000"
@@ -139,34 +167,6 @@
       "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
       "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
       "published": "Thu, 08 Oct 2026 21:22:58 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
-      "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
-      "published": "Thu, 08 Oct 2026 19:46:15 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto crumbles as anniversary of flash crash nears",
-      "url": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
-      "published": "Thu, 08 Oct 2026 18:14:39 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
-      "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
-      "published": "Thu, 08 Oct 2026 18:06:41 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
-      "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
-      "published": "Thu, 08 Oct 2026 15:43:04 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -339,6 +339,20 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
+      "title": "EOS Climbs 17% In a Green Day",
+      "url": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-17-in-a-green-day-4942011",
+      "published": "2026-10-10 06:16:02"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin trades above $82,000 as rising oil prices, Fed outlook weigh",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
+      "published": "2026-10-10 03:59:57"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
       "title": "Bitcoin holds ground above $82k, heads for weekly losses amid yield pressure",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
       "published": "2026-10-09 20:46:24"
@@ -391,20 +405,6 @@
       "title": "Hashi Mainnet to Launch With $500M in Capital Backing, Adds Anchorage Digital to Coalition",
       "url": "https://www.investing.com/news/cryptocurrency-news/hashi-mainnet-to-launch-with-500m-in-capital-backing-adds-anchorage-digital-to-coalition-4937792",
       "published": "2026-10-08 01:30:09"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin falls to $83k amid pressure from Fed minutes, oil prices, and yields",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
-      "published": "2026-10-07 21:50:27"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "EOS Falls 10% In Bearish Trade",
-      "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-bearish-trade-4937373",
-      "published": "2026-10-07 19:26:58"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-10T00:51:31.272982+00:00",
+  "fetchedAt": "2026-10-10T07:07:31.846702+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
