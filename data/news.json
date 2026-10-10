@@ -339,9 +339,9 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin falls nearly 3% over past week as security fears weigh on sentiment",
+      "title": "Bitcoin steadies near $83,000 as spot ETF outflows top $680 million",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
-      "published": "2026-10-10 11:41:25"
+      "published": "2026-10-10 15:08:04"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-10T13:42:00.060416+00:00",
+  "fetchedAt": "2026-10-10T18:36:01.233300+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
