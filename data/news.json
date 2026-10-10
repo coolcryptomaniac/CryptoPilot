@@ -339,16 +339,16 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin steadies near $83,000 as spot ETF outflows top $680 million",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
-      "published": "2026-10-10 15:08:04"
+      "title": "Bitcoin stuck in $81,200-$87,300 chop zone: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+      "published": "2026-10-10 19:02:16"
     },
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin hovers at Fibonacci support near $82,700: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-      "published": "2026-10-10 07:02:31"
+      "title": "Bitcoin rebounds above $83,000 after weekly slide as oil, yields and security fear",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
+      "published": "2026-10-10 18:48:08"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-10T18:36:01.233300+00:00",
+  "fetchedAt": "2026-10-10T22:31:43.748169+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
