@@ -3,6 +3,34 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
+      "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+      "published": "Tue, 13 Oct 2026 15:52:09 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
+      "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+      "published": "Tue, 13 Oct 2026 15:24:52 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
+      "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
+      "published": "Tue, 13 Oct 2026 11:58:04 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
+      "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+      "published": "Tue, 13 Oct 2026 11:56:04 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
       "url": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
       "published": "Tue, 13 Oct 2026 11:26:45 +0000"
@@ -24,7 +52,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin whipsaws between $81,000 and $84,000 as altcoins slide",
+      "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
       "url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
       "published": "Tue, 13 Oct 2026 10:46:57 +0000"
     },
@@ -141,32 +169,67 @@
       "published": "Mon, 12 Oct 2026 10:27:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-      "url": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
-      "published": "Mon, 12 Oct 2026 10:20:54 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
+      "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 19:07:04 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
-      "url": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
-      "published": "Mon, 12 Oct 2026 08:58:24 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
+      "url": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 16:51:25 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
-      "url": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
-      "published": "Mon, 12 Oct 2026 08:32:17 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
+      "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 15:57:55 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
-      "url": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
-      "published": "Mon, 12 Oct 2026 07:49:40 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
+      "url": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 15:27:32 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
+      "url": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 13:55:09 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Is Bitcoin kidding itself about the Lightning Network?",
+      "url": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 13:30:00 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 13:26:42 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
+      "url": "https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 13:17:17 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
+      "url": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 12:22:24 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -209,13 +272,6 @@
       "title": "Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis",
       "url": "https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 13 Oct 2026 08:45:10 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 05:51:31 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -281,67 +337,18 @@
       "published": "Mon, 12 Oct 2026 16:51:05 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
-      "url": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 16:30:21 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print",
-      "url": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 14:18:49 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
-      "url": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 14:07:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
-      "url": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 12:31:51 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Australia proposes leverage caps for crypto-settled derivatives",
-      "url": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 11:41:58 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
-      "url": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 11:14:10 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Kraken parent clears Dubai’s final hurdle for dirham trading rollout",
-      "url": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 09:41:17 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
-      "url": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 09:30:57 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Privacy by Default. Disclosure by Choice: Ricchezza Coin Prepares to Launch Layer 1 Privacy Ecosystem",
+      "url": "https://www.investing.com/news/cryptocurrency-news/privacy-by-default-disclosure-by-choice-ricchezza-coin-prepares-to-launch-layer-1-privacy-ecosystem-4947123",
+      "published": "2026-10-13 14:30:10"
     },
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin pinned below $84k as tech selldown hurts risk appetite",
+      "title": "Bitcoin subdued below $84k as tech selldown hurts risk appetite",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-84k-as-tech-selldown-weighs-4945552",
-      "published": "2026-10-13 10:52:55"
+      "published": "2026-10-13 14:02:39"
     },
     {
       "source": "Investing.com",
@@ -398,13 +405,6 @@
       "title": "Bitcoin trapped in $81K-$84K range: Breakout watch live",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
       "published": "2026-10-11 19:02:17"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "EOS Climbs 11% As Investors Gain Confidence",
-      "url": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-11-as-investors-gain-confidence-4942660",
-      "published": "2026-10-11 13:03:01"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-13T11:48:23.299733+00:00",
+  "fetchedAt": "2026-10-13T19:17:32.555186+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
