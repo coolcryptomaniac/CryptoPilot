@@ -171,6 +171,13 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
+      "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
+      "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 14 Oct 2026 20:56:22 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
       "title": "Here’s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 14 Oct 2026 19:13:24 +0000"
@@ -330,18 +337,18 @@
       "published": "Tue, 13 Oct 2026 16:51:25 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
-      "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 15:57:55 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin slips under $82k as hot CPI data fuels an uptick in Fed rate hike bets",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-83k-as-markets-await-us-inflation-data-4948178",
+      "published": "2026-10-14 21:39:14"
     },
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin dips below $83k after hot U.S. inflation data",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-83k-as-markets-await-us-inflation-data-4948178",
-      "published": "2026-10-14 14:01:39"
+      "title": "Bitcoin teeters at 200-period MA with bearish momentum: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+      "published": "2026-10-14 19:19:13"
     },
     {
       "source": "Investing.com",
@@ -363,13 +370,6 @@
       "title": "Bybit Kazakhstan Signs MoC with AIFC: Digital Asset Investments on Bybit KZ Now Recognised under AIFC’s ITRP",
       "url": "https://www.investing.com/news/cryptocurrency-news/bybit-kazakhstan-signs-moc-with-aifc-digital-asset-investments-on-bybit-kz-now-recognised-under-aifcs-itrp-4948539",
       "published": "2026-10-14 10:00:08"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin stuck in Ichimoku cloud near $83,517: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
-      "published": "2026-10-14 07:11:53"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-14T19:24:21.900305+00:00",
+  "fetchedAt": "2026-10-14T23:14:27.041195+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
