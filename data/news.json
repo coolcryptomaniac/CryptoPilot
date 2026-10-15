@@ -171,6 +171,20 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
+      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+      "url": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 01:21:52 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Polygon gains US payments licenses after closing Coinme deal",
+      "url": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 00:55:21 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
       "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
       "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 14 Oct 2026 20:56:22 +0000"
@@ -323,20 +337,6 @@
       "published": "Tue, 13 Oct 2026 19:48:06 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
-      "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 19:07:04 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
-      "url": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 16:51:25 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
       "title": "Bitcoin slips under $82k as hot CPI data fuels an uptick in Fed rate hike bets",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-14T23:14:27.041195+00:00",
+  "fetchedAt": "2026-10-15T01:30:37.159412+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
