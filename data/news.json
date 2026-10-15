@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "At the White House, crypto policy vacancy looms large",
+      "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
+      "published": "Thu, 15 Oct 2026 18:48:02 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
       "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
       "published": "Thu, 15 Oct 2026 15:00:00 +0000"
@@ -38,7 +45,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin bounces after first fall below $80,000 in one month",
+      "title": "Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month",
       "url": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
       "published": "Thu, 15 Oct 2026 10:16:15 +0000"
     },
@@ -162,11 +169,18 @@
       "published": "Wed, 14 Oct 2026 11:15:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
-      "url": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
-      "published": "Wed, 14 Oct 2026 11:12:36 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
+      "url": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 20:21:11 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 19:37:27 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -216,13 +230,6 @@
       "title": "Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion",
       "url": "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 15 Oct 2026 13:30:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 15 Oct 2026 13:17:45 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -330,11 +337,32 @@
       "published": "Wed, 14 Oct 2026 20:56:22 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
-      "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 14 Oct 2026 19:03:52 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin ticks up slightly above $82k as U.S. bond rally lifts risk sentiment",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-81k-as-hot-us-cpi-spurs-rate-hike-bets-4950559",
+      "published": "2026-10-15 21:43:22"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "ChangeNOW Announces NOW AI After Resolving Website Integration Vulnerability",
+      "url": "https://www.investing.com/news/cryptocurrency-news/changenow-announces-now-ai-after-resolving-website-integration-vulnerability-4952721",
+      "published": "2026-10-15 21:30:12"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Pixagram Announces Free Account Creation for 250 New Users Daily Through 2026",
+      "url": "https://www.investing.com/news/cryptocurrency-news/pixagram-announces-free-account-creation-for-250-new-users-daily-through-2026-4952682",
+      "published": "2026-10-15 21:00:13"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin holds $81,500 support as momentum fades: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+      "published": "2026-10-15 19:19:22"
     },
     {
       "source": "Investing.com",
@@ -346,23 +374,9 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin drops to one-month low of $80k as hot U.S. CPI spurs rate hike bets",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-81k-as-hot-us-cpi-spurs-rate-hike-bets-4950559",
-      "published": "2026-10-15 13:23:52"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
       "title": "EOS Falls 10% In Rout",
       "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-rout-4951244",
       "published": "2026-10-15 11:06:58"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin tests $80K after breaking 200-SMA: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
-      "published": "2026-10-15 07:14:05"
     },
     {
       "source": "Investing.com",
@@ -391,20 +405,6 @@
       "title": "Bybit Kazakhstan Signs MoC with AIFC: Digital Asset Investments on Bybit KZ Now Recognised under AIFC’s ITRP",
       "url": "https://www.investing.com/news/cryptocurrency-news/bybit-kazakhstan-signs-moc-with-aifc-digital-asset-investments-on-bybit-kz-now-recognised-under-aifcs-itrp-4948539",
       "published": "2026-10-14 10:00:08"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin up 1% to $83.4k, but gains capped as risk appetite takes a hit",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-84k-as-tech-selldown-weighs-4945552",
-      "published": "2026-10-13 21:40:52"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bybit Expands Beyond Crypto as CEO Outlines Next Phase of Financial Platform",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bybit-expands-beyond-crypto-as-ceo-outlines-next-phase-of-financial-platform-4947564",
-      "published": "2026-10-13 21:00:08"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-15T18:18:22.964426+00:00",
+  "fetchedAt": "2026-10-15T22:18:08.709302+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
