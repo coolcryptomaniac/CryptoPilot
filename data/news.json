@@ -3,6 +3,34 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
+      "url": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
+      "published": "Thu, 15 Oct 2026 06:17:58 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+      "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+      "published": "Thu, 15 Oct 2026 04:25:15 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+      "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+      "published": "Thu, 15 Oct 2026 04:13:56 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+      "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+      "published": "Thu, 15 Oct 2026 03:57:45 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
       "url": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
       "published": "Wed, 14 Oct 2026 16:34:53 +0000"
@@ -141,32 +169,32 @@
       "published": "Wed, 14 Oct 2026 03:50:54 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
-      "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
-      "published": "Wed, 14 Oct 2026 01:00:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+      "url": "https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 05:52:21 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
-      "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
-      "published": "Tue, 13 Oct 2026 23:23:05 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 05:49:17 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
-      "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
-      "published": "Tue, 13 Oct 2026 21:52:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
+      "url": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 05:00:40 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
-      "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
-      "published": "Tue, 13 Oct 2026 15:52:09 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
+      "url": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 03:29:22 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -188,13 +216,6 @@
       "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
       "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 14 Oct 2026 20:56:22 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 14 Oct 2026 19:13:24 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -316,25 +337,11 @@
       "published": "Wed, 14 Oct 2026 05:30:10 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
-      "url": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 14 Oct 2026 02:19:56 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
-      "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 23:28:19 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-      "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 19:48:06 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin slides below $81k as hot U.S. CPI spurs rate hike bets",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-81k-as-hot-us-cpi-spurs-rate-hike-bets-4950559",
+      "published": "2026-10-15 05:55:45"
     },
     {
       "source": "Investing.com",
@@ -398,13 +405,6 @@
       "title": "TrustLinq Expands Ripple Partnership, Enabling RLUSD-Funded Bank Payments to 190+ Countries",
       "url": "https://www.investing.com/news/cryptocurrency-news/trustlinq-expands-ripple-partnership-enabling-rlusdfunded-bank-payments-to-190-countries-4945455",
       "published": "2026-10-13 05:30:10"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Cardano Falls 10% In Selloff",
-      "url": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-selloff-4945289",
-      "published": "2026-10-13 00:52:59"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-15T01:30:37.159412+00:00",
+  "fetchedAt": "2026-10-15T07:26:52.049736+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
