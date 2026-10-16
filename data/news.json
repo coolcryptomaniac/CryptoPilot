@@ -339,16 +339,16 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin tests $81,120 support as double top plays out: Live",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
-      "published": "2026-10-16 19:18:23"
+      "title": "Bitcoin set for a two-week losing streak as ’uptober’ trend fails to materialize",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-82k-but-set-for-second-week-in-red-4953175",
+      "published": "2026-10-16 21:54:59"
     },
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin rebounds to near $82k but set for second week in red",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-82k-but-set-for-second-week-in-red-4953175",
-      "published": "2026-10-16 13:57:23"
+      "title": "Bitcoin tests $81,120 support as double top plays out: Live",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+      "published": "2026-10-16 19:18:23"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-16T21:08:29.697683+00:00",
+  "fetchedAt": "2026-10-16T23:35:32.636183+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
