@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "published": "Sun, 18 Oct 2026 01:06:35 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
       "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
       "published": "Sat, 17 Oct 2026 17:00:00 +0000"
@@ -160,13 +167,6 @@
       "title": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
       "url": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
       "published": "Thu, 15 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
-      "published": "Thu, 15 Oct 2026 11:15:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-18T01:02:36.048863+00:00",
+  "fetchedAt": "2026-10-18T05:53:57.236081+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
