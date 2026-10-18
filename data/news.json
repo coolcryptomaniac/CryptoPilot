@@ -171,6 +171,13 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
+      "title": "Richard Heart caught with pants down, QDay gets even closer: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 18 Oct 2026 22:58:17 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
       "title": "Here’s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 18 Oct 2026 13:54:00 +0000"
@@ -330,13 +337,6 @@
       "published": "Fri, 16 Oct 2026 05:16:11 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "MSCI adopts index exclusion rules that could oust Strategy",
-      "url": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 16 Oct 2026 00:48:20 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
       "title": "Bitcoin trapped at $80,500 support, breakdown risk: Live levels",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-18T20:43:34.705267+00:00",
+  "fetchedAt": "2026-10-18T23:12:28.762938+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
