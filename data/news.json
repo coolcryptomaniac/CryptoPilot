@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "The White House's crypto chief departs: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+      "published": "Sun, 18 Oct 2026 18:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
       "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
       "published": "Sun, 18 Oct 2026 16:33:00 +0000"
@@ -160,13 +167,6 @@
       "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
       "url": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
       "published": "Fri, 16 Oct 2026 09:36:21 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
-      "url": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
-      "published": "Fri, 16 Oct 2026 08:34:48 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -339,6 +339,13 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
+      "title": "Bitcoin trapped at $80,500 support, breakdown risk: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+      "published": "2026-10-18 19:03:00"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
       "title": "EOS Falls 11% In Rout",
       "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4955850",
       "published": "2026-10-18 09:02:59"
@@ -349,13 +356,6 @@
       "title": "Ledger crypto wallets compromised in hardware attack linked to $90M theft",
       "url": "https://www.investing.com/news/cryptocurrency-news/ledger-crypto-wallets-compromised-in-hardware-attack-linked-to-90m-theft-4955797",
       "published": "2026-10-18 07:18:32"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin pivots at $81,443 Fib support with resistance near: Live",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
-      "published": "2026-10-18 07:02:27"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-18T18:05:32.693011+00:00",
+  "fetchedAt": "2026-10-18T20:43:34.705267+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
