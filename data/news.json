@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+      "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+      "published": "Sun, 18 Oct 2026 23:28:06 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "The White House's crypto chief departs: State of Crypto",
       "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
       "published": "Sun, 18 Oct 2026 18:30:00 +0000"
@@ -10,7 +17,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+      "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
       "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
       "published": "Sun, 18 Oct 2026 16:33:00 +0000"
     },
@@ -162,16 +169,16 @@
       "published": "Fri, 16 Oct 2026 09:48:14 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
-      "url": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
-      "published": "Fri, 16 Oct 2026 09:36:21 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+      "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 19 Oct 2026 01:03:27 +0000"
     },
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
-      "title": "Richard Heart caught with pants down, QDay gets even closer: Hodler’s Digest",
+      "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
       "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 18 Oct 2026 22:58:17 +0000"
     },
@@ -330,13 +337,6 @@
       "published": "Fri, 16 Oct 2026 06:11:22 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Balaji’s ‘Singapore of social media’ begins with a wave of bans",
-      "url": "https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 16 Oct 2026 05:16:11 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
       "title": "Bitcoin trapped at $80,500 support, breakdown risk: Live levels",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-18T23:12:28.762938+00:00",
+  "fetchedAt": "2026-10-19T01:16:56.711317+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
