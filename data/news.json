@@ -171,6 +171,13 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
+      "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
+      "url": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 19 Oct 2026 21:04:34 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
       "title": "Crypto PAC pours $362K into California race voters essentially decided in August",
       "url": "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 19 Oct 2026 20:22:41 +0000"
@@ -330,11 +337,11 @@
       "published": "Sun, 18 Oct 2026 13:48:00 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
-      "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 18 Oct 2026 10:46:00 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin rises 1% as risk sentiment bounces back, though elevated oil caps gains",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-near-83k-amid-some-relief-from-falling-oil-prices-4956420",
+      "published": "2026-10-19 21:58:21"
     },
     {
       "source": "Investing.com",
@@ -342,13 +349,6 @@
       "title": "Bitcoin bull flag coils at $81,908: Live levels",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
       "published": "2026-10-19 19:18:28"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin steadies above $82k amid some relief from falling oil prices",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-near-83k-amid-some-relief-from-falling-oil-prices-4956420",
-      "published": "2026-10-19 13:56:02"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-19T20:35:21.562245+00:00",
+  "fetchedAt": "2026-10-20T00:20:11.493855+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
