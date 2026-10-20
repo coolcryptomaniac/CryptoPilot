@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+      "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
+      "published": "Tue, 20 Oct 2026 21:12:21 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
       "url": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
       "published": "Tue, 20 Oct 2026 18:26:29 +0000"
@@ -162,11 +169,25 @@
       "published": "Mon, 19 Oct 2026 09:12:39 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-      "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
-      "published": "Mon, 19 Oct 2026 06:23:16 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+      "url": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 23:26:02 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
+      "url": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 21:19:15 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+      "url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 20:38:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -316,25 +337,11 @@
       "published": "Tue, 20 Oct 2026 05:14:11 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "US bans DeepSeek from civilian agency IT systems",
-      "url": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 04:07:58 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
-      "url": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 01:35:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
-      "url": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 21:04:34 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin climbs above $83k as risk sentiment improves, oil prices dip slightly",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82000-as-elevated-oil-prices-fed-outlook-weigh-4958968",
+      "published": "2026-10-20 22:27:32"
     },
     {
       "source": "Investing.com",
@@ -349,13 +356,6 @@
       "title": "Outpoll Expands Beyond Prediction Markets With Crypto Futures Trading",
       "url": "https://www.investing.com/news/cryptocurrency-news/outpoll-expands-beyond-prediction-markets-with-crypto-futures-trading-4960831",
       "published": "2026-10-20 18:00:11"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin slides below $82,000 as elevated oil prices, Fed outlook weigh",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82000-as-elevated-oil-prices-fed-outlook-weigh-4958968",
-      "published": "2026-10-20 13:38:23"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-20T20:35:03.306708+00:00",
+  "fetchedAt": "2026-10-20T23:52:42.518433+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
