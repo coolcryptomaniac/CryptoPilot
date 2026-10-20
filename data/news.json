@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+      "url": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
+      "published": "Tue, 20 Oct 2026 18:26:29 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
       "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
       "published": "Tue, 20 Oct 2026 17:02:31 +0000"
@@ -162,11 +169,25 @@
       "published": "Mon, 19 Oct 2026 06:23:16 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
-      "url": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
-      "published": "Mon, 19 Oct 2026 05:23:02 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+      "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 19:59:39 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 19:17:40 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+      "url": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 17:40:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -208,14 +229,7 @@
       "sourceId": "cointelegraph",
       "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
       "url": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 13:04:28 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 12:50:13 +0000"
+      "published": "Tue, 20 Oct 2026 13:10:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -323,18 +337,18 @@
       "published": "Mon, 19 Oct 2026 21:04:34 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Crypto PAC pours $362K into California race voters essentially decided in August",
-      "url": "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 20:22:41 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin coils near $82,533 support ahead of breakout: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
+      "published": "2026-10-20 19:18:02"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Market participants weigh in on SEC’s proposed crypto regulations",
-      "url": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 19:54:38 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Outpoll Expands Beyond Prediction Markets With Crypto Futures Trading",
+      "url": "https://www.investing.com/news/cryptocurrency-news/outpoll-expands-beyond-prediction-markets-with-crypto-futures-trading-4960831",
+      "published": "2026-10-20 18:00:11"
     },
     {
       "source": "Investing.com",
@@ -381,13 +395,6 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin bull flag coils at $81,908: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
-      "published": "2026-10-19 19:18:28"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
       "title": "Strategy buys bitcoin and repurchases preferred shares in weekly update",
       "url": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-bitcoin-and-repurchases-preferred-shares-in-weekly-update-432SI-4957291",
       "published": "2026-10-19 12:14:02"
@@ -398,13 +405,6 @@
       "title": "StakerX’s AI Agent Surpasses Passes $40M Staked Assets on Solana Within Three Months of Launch",
       "url": "https://www.investing.com/news/cryptocurrency-news/stakerxs-ai-agent-surpasses-passes-40m-staked-assets-on-solana-within-three-months-of-launch-4956865",
       "published": "2026-10-19 10:30:10"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "EOS Falls 12% In Selloff",
-      "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-12-in-selloff-4956724",
-      "published": "2026-10-19 09:04:01"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-20T17:04:36.825701+00:00",
+  "fetchedAt": "2026-10-20T20:35:03.306708+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
