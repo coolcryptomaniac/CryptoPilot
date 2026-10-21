@@ -3,6 +3,27 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+      "url": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+      "published": "Wed, 21 Oct 2026 04:35:52 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+      "url": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
+      "published": "Wed, 21 Oct 2026 04:11:58 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+      "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+      "published": "Wed, 21 Oct 2026 04:07:07 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
       "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
       "published": "Tue, 20 Oct 2026 21:12:21 +0000"
@@ -148,25 +169,11 @@
       "published": "Mon, 19 Oct 2026 10:03:47 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
-      "url": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
-      "published": "Mon, 19 Oct 2026 09:32:38 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
-      "url": "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
-      "published": "Mon, 19 Oct 2026 09:15:00 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-      "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
-      "published": "Mon, 19 Oct 2026 09:12:39 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
+      "url": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 01:19:14 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -330,13 +337,6 @@
       "published": "Tue, 20 Oct 2026 05:39:20 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
-      "url": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 20 Oct 2026 05:14:11 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
       "title": "Bitcoin climbs above $83k as risk sentiment improves, oil prices dip slightly",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-20T23:52:42.518433+00:00",
+  "fetchedAt": "2026-10-21T04:47:14.996466+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
