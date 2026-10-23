@@ -3,6 +3,34 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+      "url": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
+      "published": "Fri, 23 Oct 2026 05:01:19 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+      "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+      "published": "Fri, 23 Oct 2026 04:59:34 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+      "url": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
+      "published": "Fri, 23 Oct 2026 04:36:51 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+      "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+      "published": "Fri, 23 Oct 2026 03:13:01 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
       "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
       "published": "Thu, 22 Oct 2026 22:43:36 +0000"
@@ -141,37 +169,44 @@
       "published": "Wed, 21 Oct 2026 15:09:22 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
-      "published": "Wed, 21 Oct 2026 15:00:53 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-      "url": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
-      "published": "Wed, 21 Oct 2026 12:12:36 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
-      "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
-      "published": "Wed, 21 Oct 2026 12:10:39 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
-      "url": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
-      "published": "Wed, 21 Oct 2026 12:00:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+      "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 07:15:53 +0000"
     },
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
-      "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+      "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 07:09:39 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 05:15:14 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+      "url": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 05:09:41 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+      "url": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 04:34:14 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
       "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 23 Oct 2026 00:59:35 +0000"
     },
@@ -202,13 +237,6 @@
       "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
       "url": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 22 Oct 2026 20:36:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 20:09:59 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -309,32 +337,25 @@
       "published": "Thu, 22 Oct 2026 09:37:54 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
-      "url": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 09:06:02 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin slips below $82k as tech rout, rising oil dent risk",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82k-as-tech-rout-rising-oil-dent-risk-4968158",
+      "published": "2026-10-23 07:14:57"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 07:37:32 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin wedged at $81,788 support-resistance squeeze: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
+      "published": "2026-10-23 07:11:21"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
-      "url": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 05:35:38 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
-      "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 00:44:00 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Exclusive: Sygnum rolls out MultiSYG bitcoin loans as BTC hits 80% of collateral",
+      "url": "https://www.investing.com/news/cryptocurrency-news/exclusive-sygnum-rolls-out-multisyg-bitcoin-loans-as-btc-hits-80-of-collateral-4968017",
+      "published": "2026-10-23 04:50:16"
     },
     {
       "source": "Investing.com",
@@ -342,13 +363,6 @@
       "title": "Bitcoin dives 4%, slides below $82k as AI rout, oil surge slams risk sentiment",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-back-to-82k-as-ai-selldown-rising-oil-batter-risk-4964695",
       "published": "2026-10-22 21:41:46"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin breaks below 200 SMA and cloud: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
-      "published": "2026-10-22 19:17:58"
     },
     {
       "source": "Investing.com",
@@ -391,20 +405,6 @@
       "title": "EOS Climbs 10% In Bullish Trade",
       "url": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-10-in-bullish-trade-4963651",
       "published": "2026-10-21 15:35:00"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin climbs above $83k as risk sentiment improves, oil prices dip slightly",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82000-as-elevated-oil-prices-fed-outlook-weigh-4958968",
-      "published": "2026-10-20 22:27:32"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Outpoll Expands Beyond Prediction Markets With Crypto Futures Trading",
-      "url": "https://www.investing.com/news/cryptocurrency-news/outpoll-expands-beyond-prediction-markets-with-crypto-futures-trading-4960831",
-      "published": "2026-10-20 18:00:11"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-23T01:31:29.644650+00:00",
+  "fetchedAt": "2026-10-23T07:32:39.447331+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
