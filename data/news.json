@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+      "published": "Thu, 22 Oct 2026 22:43:36 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
       "url": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
       "published": "Thu, 22 Oct 2026 18:30:57 +0000"
@@ -162,11 +169,25 @@
       "published": "Wed, 21 Oct 2026 12:00:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
-      "published": "Wed, 21 Oct 2026 11:15:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+      "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 00:59:35 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Pentagon bans US forces from using military info to bet in prediction markets",
+      "url": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 23:50:42 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+      "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 22:50:22 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -316,27 +337,6 @@
       "published": "Thu, 22 Oct 2026 00:44:00 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
-      "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 21:53:48 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
-      "url": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 20:26:07 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
-      "url": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 20:19:39 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
       "title": "Bitcoin dives 4%, slides below $82k as AI rout, oil surge slams risk sentiment",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-22T22:22:55.810225+00:00",
+  "fetchedAt": "2026-10-23T01:31:29.644650+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
