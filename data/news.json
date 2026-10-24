@@ -339,16 +339,16 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613",
-      "published": "2026-10-24 05:25:09"
+      "title": "Bitcoin range-bound $80.5K-$85K, bears in control: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
+      "published": "2026-10-24 07:01:47"
     },
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin clings to $81,400 support as bearish pressure mounts: Live",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
-      "published": "2026-10-23 19:17:51"
+      "title": "Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613",
+      "published": "2026-10-24 05:25:09"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-24T05:54:05.695727+00:00",
+  "fetchedAt": "2026-10-24T11:00:09.408179+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
