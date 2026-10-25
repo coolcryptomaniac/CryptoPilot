@@ -339,16 +339,16 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin price today: BTC recovers to $80,800 ahead of Fed meeting",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
-      "published": "2026-10-25 04:54:18"
+      "title": "Bitcoin tests $80K support in descending triangle: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
+      "published": "2026-10-25 07:02:00"
     },
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin range-bound $80.5K-$85K, bears in control: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
-      "published": "2026-10-24 07:01:47"
+      "title": "Bitcoin price today: BTC recovers to $80,800 ahead of Fed meeting",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
+      "published": "2026-10-25 04:54:18"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-25T06:09:32.555751+00:00",
+  "fetchedAt": "2026-10-25T11:29:28.577904+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
