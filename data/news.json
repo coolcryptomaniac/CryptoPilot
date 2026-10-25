@@ -339,6 +339,13 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
+      "title": "Bitcoin price today: BTC recovers to $80,800 ahead of Fed meeting",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
+      "published": "2026-10-25 04:54:18"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
       "title": "Bitcoin range-bound $80.5K-$85K, bears in control: Live levels",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
       "published": "2026-10-24 07:01:47"
@@ -398,13 +405,6 @@
       "title": "Bybit KZ and Alatau City Authority sign MoC on tokenization, digital asset payments, cross-border remittances",
       "url": "https://www.investing.com/news/cryptocurrency-news/bybit-kz-and-alatau-city-authority-sign-moc-on-tokenization-digital-asset-payments-crossborder-remittances-4965324",
       "published": "2026-10-22 10:30:07"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin gains more than 2% to $84.8k as risk sentiment prevails",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-firms-to-82k-but-oil-ai-jitters-limit-upside-4961711",
-      "published": "2026-10-21 21:46:19"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-25T01:13:25.988403+00:00",
+  "fetchedAt": "2026-10-25T06:09:32.555751+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
