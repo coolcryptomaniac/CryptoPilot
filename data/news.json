@@ -3,6 +3,48 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
+      "published": "Mon, 26 Oct 2026 11:53:07 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
+      "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
+      "published": "Mon, 26 Oct 2026 11:24:33 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Live news: Bitcoin barely holding $80,000 ahead of Fed on Wednesday, tech earnings this week",
+      "url": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
+      "published": "Mon, 26 Oct 2026 11:05:31 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
+      "url": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
+      "published": "Mon, 26 Oct 2026 10:33:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
+      "url": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead",
+      "published": "Mon, 26 Oct 2026 09:14:47 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Over 11 million bitcoin has no known owner. Here's what it means",
+      "url": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
+      "published": "Mon, 26 Oct 2026 07:18:24 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
       "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
       "published": "Mon, 26 Oct 2026 05:39:17 +0000"
@@ -127,46 +169,32 @@
       "published": "Fri, 23 Oct 2026 11:22:33 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
-      "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
-      "published": "Fri, 23 Oct 2026 11:13:01 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
+      "url": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 11:39:27 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
-      "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
-      "published": "Fri, 23 Oct 2026 10:54:41 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
+      "url": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 10:49:55 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
-      "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
-      "published": "Fri, 23 Oct 2026 10:53:09 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Securitize’s tokenized stock value halves as Circle widens lead",
+      "url": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 10:25:01 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-      "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
-      "published": "Fri, 23 Oct 2026 10:22:56 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-      "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-      "published": "Fri, 23 Oct 2026 08:57:34 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
-      "url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
-      "published": "Fri, 23 Oct 2026 08:02:35 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 08:20:49 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -307,104 +335,6 @@
       "title": "Bybit secures first full Dubai license for spot trading services",
       "url": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 23 Oct 2026 09:50:04 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
-      "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 08:47:34 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
-      "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 07:15:53 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 07:09:39 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
-      "url": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 05:09:41 +0000"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin steadies near $80,400 after weekend selloff, Fed decision looms",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
-      "published": "2026-10-25 14:32:13"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin tests $80K support in descending triangle: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
-      "published": "2026-10-25 07:02:00"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613",
-      "published": "2026-10-24 05:25:09"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin flat around $82k as tech rout, rising oil dent risk",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82k-as-tech-rout-rising-oil-dent-risk-4968158",
-      "published": "2026-10-23 13:50:53"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Exclusive: Sygnum rolls out MultiSYG bitcoin loans as BTC hits 80% of collateral",
-      "url": "https://www.investing.com/news/cryptocurrency-news/exclusive-sygnum-rolls-out-multisyg-bitcoin-loans-as-btc-hits-80-of-collateral-4968017",
-      "published": "2026-10-23 04:50:16"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin dives 4%, slides below $82k as AI rout, oil surge slams risk sentiment",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-back-to-82k-as-ai-selldown-rising-oil-batter-risk-4964695",
-      "published": "2026-10-22 21:41:46"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Uniswap v4 Is Now an Aggregator: Uniswap Labs Launches Aggregator Hooks",
-      "url": "https://www.investing.com/news/cryptocurrency-news/uniswap-v4-is-now-an-aggregator-uniswap-labs-launches-aggregator-hooks-4966916",
-      "published": "2026-10-22 15:30:11"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Square Tech and GOAT Network Sign MOU to Advance AI Agent-Powered Stablecoin Payments in South Korea",
-      "url": "https://www.investing.com/news/cryptocurrency-news/square-tech-and-goat-network-sign-mou-to-advance-ai-agentpowered-stablecoin-payments-in-south-korea-4966409",
-      "published": "2026-10-22 13:30:11"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Travala Introduces AVA Buyback Multiplier, Scaling Buybacks Up to 4x Member Rewards",
-      "url": "https://www.investing.com/news/cryptocurrency-news/travala-introduces-ava-buyback-multiplier-scaling-buybacks-up-to-4x-member-rewards-4966002",
-      "published": "2026-10-22 12:30:10"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bybit KZ and Alatau City Authority sign MoC on tokenization, digital asset payments, cross-border remittances",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bybit-kz-and-alatau-city-authority-sign-moc-on-tokenization-digital-asset-payments-crossborder-remittances-4965324",
-      "published": "2026-10-22 10:30:07"
     }
   ],
   "sources": [
@@ -422,12 +352,12 @@
     },
     {
       "source": "investing",
-      "ok": true,
-      "count": 10,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     }
   ],
-  "fetchedAt": "2026-10-26T06:13:31.299645+00:00",
+  "fetchedAt": "2026-10-26T13:07:24.496626+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
