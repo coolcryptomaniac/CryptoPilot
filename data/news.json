@@ -3,6 +3,48 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+      "url": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
+      "published": "Tue, 27 Oct 2026 20:41:33 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
+      "url": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
+      "published": "Tue, 27 Oct 2026 20:32:21 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
+      "url": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
+      "published": "Tue, 27 Oct 2026 19:07:59 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
+      "url": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
+      "published": "Tue, 27 Oct 2026 18:13:02 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+      "url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
+      "published": "Tue, 27 Oct 2026 16:59:07 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+      "url": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
+      "published": "Tue, 27 Oct 2026 16:35:29 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
       "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
       "published": "Tue, 27 Oct 2026 14:21:10 +0000"
@@ -31,7 +73,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
+      "title": "Live updates: Bitcoin edges higher as Nasdaq surges 1.2%",
       "url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
       "published": "Tue, 27 Oct 2026 11:40:50 +0000"
     },
@@ -127,46 +169,46 @@
       "published": "Mon, 26 Oct 2026 15:45:51 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-      "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-      "published": "Mon, 26 Oct 2026 14:51:07 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
+      "url": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 20:33:19 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-      "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-      "published": "Mon, 26 Oct 2026 14:23:41 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+      "url": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 19:54:05 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "AI giant Anthropic files for blockbuster IPO",
-      "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
-      "published": "Mon, 26 Oct 2026 13:22:09 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 19:36:13 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
-      "published": "Mon, 26 Oct 2026 11:53:07 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "CFTC sues Utah to block action against prediction markets",
+      "url": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 19:21:59 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-      "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
-      "published": "Mon, 26 Oct 2026 11:24:33 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
+      "url": "https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 18:08:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Live news: Bitcoin dips below $80,000 as stocks rally following Anthropic IPO filing",
-      "url": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
-      "published": "Mon, 26 Oct 2026 11:05:31 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+      "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 16:37:15 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -181,13 +223,6 @@
       "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
       "url": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 27 Oct 2026 13:30:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 13:17:24 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -302,39 +337,18 @@
       "published": "Mon, 26 Oct 2026 16:18:09 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
-      "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 15:54:15 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin trapped under 200 SMA with Bear Flag forming: Live",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
+      "published": "2026-10-27 19:19:01"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO",
-      "url": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 14:25:22 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-      "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 13:27:38 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-      "url": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 13:12:41 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-      "url": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 11:39:27 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Ritual Launches AI-Native Layer 1 for Autonomous Agents",
+      "url": "https://www.investing.com/news/cryptocurrency-news/ritual-launches-ainative-layer-1-for-autonomous-agents-4976551",
+      "published": "2026-10-27 17:30:12"
     },
     {
       "source": "Investing.com",
@@ -381,13 +395,6 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin nears descending triangle breakdown: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
-      "published": "2026-10-27 07:12:10"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
       "title": "Bitcoin little-changed at $80.4k as oil, rate jitters dent crypto appetite",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-at-802k-as-oil-rate-jitters-dent-crypto-appetite-4971458",
       "published": "2026-10-26 21:38:41"
@@ -398,13 +405,6 @@
       "title": "Alpha Growth Outlines Institutional Blueprint to Attract and Retain Sustainable DeFi TVL",
       "url": "https://www.investing.com/news/cryptocurrency-news/alpha-growth-outlines-institutional-blueprint-to-attract-and-retain-sustainable-defi-tvl-4973419",
       "published": "2026-10-26 18:30:15"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Ritual Launches AI-Native Layer 1 for Autonomous Agents",
-      "url": "https://www.investing.com/news/cryptocurrency-news/ritual-launches-ainative-layer-1-for-autonomous-agents-4973329",
-      "published": "2026-10-26 17:00:13"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-27T16:38:59.003112+00:00",
+  "fetchedAt": "2026-10-27T21:19:39.412627+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
