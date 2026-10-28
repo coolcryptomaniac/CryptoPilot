@@ -171,6 +171,27 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
+      "title": "Discord is making public chats searchable on Google: How to opt out",
+      "url": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 00:47:04 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+      "url": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 21:28:22 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
+      "url": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 21:26:41 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
       "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
       "url": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 27 Oct 2026 20:33:19 +0000"
@@ -316,25 +337,11 @@
       "published": "Mon, 26 Oct 2026 19:47:40 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "AI company Anthropic announces IPO, expected as early as November",
-      "url": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 18:42:41 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
-      "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 17:46:09 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-      "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 16:18:09 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin up as risk sentiment, oil slip offset Strategy buying pause, Fed caution",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-below-80k-as-strategy-pauses-buying-fed-caution-weighs-4974244",
+      "published": "2026-10-27 21:48:30"
     },
     {
       "source": "Investing.com",
@@ -349,13 +356,6 @@
       "title": "Ritual Launches AI-Native Layer 1 for Autonomous Agents",
       "url": "https://www.investing.com/news/cryptocurrency-news/ritual-launches-ainative-layer-1-for-autonomous-agents-4976551",
       "published": "2026-10-27 17:30:12"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin subdued at $80k as Strategy pauses buying, Fed caution weighs",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-below-80k-as-strategy-pauses-buying-fed-caution-weighs-4974244",
-      "published": "2026-10-27 15:00:33"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-27T21:19:39.412627+00:00",
+  "fetchedAt": "2026-10-28T01:21:52.680198+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
