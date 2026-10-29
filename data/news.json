@@ -3,6 +3,41 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+      "url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
+      "published": "Thu, 29 Oct 2026 05:54:39 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+      "url": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+      "published": "Thu, 29 Oct 2026 05:30:34 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Utah charges predictions platform Kalshi with illegal gambling",
+      "url": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling",
+      "published": "Thu, 29 Oct 2026 05:02:37 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+      "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+      "published": "Thu, 29 Oct 2026 03:32:43 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+      "url": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
+      "published": "Thu, 29 Oct 2026 03:21:24 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
       "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
       "published": "Wed, 28 Oct 2026 21:13:44 +0000"
@@ -134,39 +169,32 @@
       "published": "Wed, 28 Oct 2026 05:28:13 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
-      "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
-      "published": "Wed, 28 Oct 2026 05:10:36 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 06:00:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
-      "published": "Wed, 28 Oct 2026 04:15:20 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+      "url": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 04:39:49 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
-      "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
-      "published": "Wed, 28 Oct 2026 03:11:14 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+      "url": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 03:16:32 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
-      "url": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
-      "published": "Tue, 27 Oct 2026 20:41:33 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
-      "url": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
-      "published": "Tue, 27 Oct 2026 20:32:21 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
+      "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 01:12:01 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -174,13 +202,6 @@
       "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
       "url": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 28 Oct 2026 21:35:52 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 19:46:45 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -316,25 +337,11 @@
       "published": "Tue, 27 Oct 2026 20:33:19 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
-      "url": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 19:54:05 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "CFTC sues Utah to block action against prediction markets",
-      "url": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 19:21:59 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
-      "url": "https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 18:08:00 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin weakens to $80k as hawkish Fed, mixed tech earnings weigh",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-weakens-to-80k-as-hawkish-fed-mixed-tech-earnings-weigh-4981572",
+      "published": "2026-10-29 06:37:45"
     },
     {
       "source": "Investing.com",
@@ -398,13 +405,6 @@
       "title": "PrimeXBT Brings Tesla, SpaceX, NVIDIA and More to Crypto Futures with New Tokenised Stocks",
       "url": "https://www.investing.com/news/cryptocurrency-news/primexbt-brings-tesla-spacex-nvidia-and-more-to-crypto-futures-with-new-tokenised-stocks-4975638",
       "published": "2026-10-27 13:00:11"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Ripple and BNY expand digital asset custody and blockchain tie-up",
-      "url": "https://www.investing.com/news/cryptocurrency-news/ripple-and-bny-expand-digital-asset-custody-and-blockchain-tieup-432SI-4975326",
-      "published": "2026-10-27 12:04:03"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-29T00:56:57.137921+00:00",
+  "fetchedAt": "2026-10-29T07:05:25.191877+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
