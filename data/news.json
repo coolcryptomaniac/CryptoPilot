@@ -3,6 +3,55 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Polymarket suspends trading after third-party breach leads to user losses",
+      "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
+      "published": "Thu, 29 Oct 2026 18:55:35 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
+      "url": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
+      "published": "Thu, 29 Oct 2026 17:04:19 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
+      "url": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
+      "published": "Thu, 29 Oct 2026 16:51:18 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
+      "published": "Thu, 29 Oct 2026 16:35:43 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Crypto exchange HTX exits the UK after settling with the FCA",
+      "url": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
+      "published": "Thu, 29 Oct 2026 16:11:18 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
+      "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform",
+      "published": "Thu, 29 Oct 2026 14:55:47 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure",
+      "published": "Thu, 29 Oct 2026 14:39:01 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
       "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
       "published": "Thu, 29 Oct 2026 14:15:46 +0000"
@@ -87,7 +136,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
+      "title": "Live updates: Bitcoin gives up gains as Nasdaq slides to session low",
       "url": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
       "published": "Thu, 29 Oct 2026 10:41:39 +0000"
     },
@@ -120,53 +169,74 @@
       "published": "Thu, 29 Oct 2026 07:44:44 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
-      "url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
-      "published": "Thu, 29 Oct 2026 05:54:39 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 19:58:57 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
-      "url": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
-      "published": "Thu, 29 Oct 2026 05:30:34 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Public companies double share of blockchain revenue since 2022: Report",
+      "url": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 19:53:14 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Utah charges predictions platform Kalshi with illegal gambling",
-      "url": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling",
-      "published": "Thu, 29 Oct 2026 05:02:37 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Polymarket suspended trading amid reports of user funds being drained",
+      "url": "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 19:23:03 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto",
-      "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
-      "published": "Thu, 29 Oct 2026 03:32:43 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
+      "url": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 17:12:03 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
-      "url": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
-      "published": "Thu, 29 Oct 2026 03:21:24 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "KuCoin suspends services in Russia and Belarus",
+      "url": "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 17:08:41 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
-      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
-      "published": "Wed, 28 Oct 2026 21:13:44 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
+      "url": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 16:27:39 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
-      "url": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
-      "published": "Wed, 28 Oct 2026 19:01:53 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B",
+      "url": "https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 15:52:43 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
+      "url": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 15:39:54 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "French Senate adopts bill for automatic sharing of crypto tax data",
+      "url": "https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 15:00:02 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bank of England opens consultation on tokenized collateral for clearing",
+      "url": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 14:27:46 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -174,13 +244,6 @@
       "title": "Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard",
       "url": "https://cointelegraph.com/news/canton-foundation-redstone-coin-pricing-standard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 29 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 13:51:06 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -274,67 +337,25 @@
       "published": "Thu, 29 Oct 2026 04:39:49 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
-      "url": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 03:16:32 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin consolidates below $82K resistance: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
+      "published": "2026-10-29 19:18:46"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
-      "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 01:12:01 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Uniswap Labs Releases TJAR, Permissionless Infrastructure for Onchain Fee Conversion",
+      "url": "https://www.investing.com/news/cryptocurrency-news/uniswap-labs-releases-tjar-permissionless-infrastructure-for-onchain-fee-conversion-4984505",
+      "published": "2026-10-29 15:00:13"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
-      "url": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 21:35:52 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
-      "url": "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 19:10:40 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Strategy shareholders approve daily dividends for four preferred stocks",
-      "url": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 18:00:54 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
-      "url": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 17:05:42 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 16:53:26 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Phantom launches Kalshi-powered prediction markets for US users",
-      "url": "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 16:40:02 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
-      "url": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 13:47:51 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin flat at $80k as hawkish Fed, hotter inflation data weigh",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-weakens-to-80k-as-hawkish-fed-mixed-tech-earnings-weigh-4981572",
+      "published": "2026-10-29 14:45:46"
     },
     {
       "source": "Investing.com",
@@ -342,13 +363,6 @@
       "title": "Travala Unveils AVA+ Partners, a New Route to Crypto Payments Powered by AVA",
       "url": "https://www.investing.com/news/cryptocurrency-news/travala-unveils-ava-partners-a-new-route-to-crypto-payments-powered-by-ava-4983472",
       "published": "2026-10-29 12:30:11"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin dips to $80k as hawkish Fed, mixed tech earnings weigh",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-weakens-to-80k-as-hawkish-fed-mixed-tech-earnings-weigh-4981572",
-      "published": "2026-10-29 11:57:44"
     },
     {
       "source": "Investing.com",
@@ -374,13 +388,6 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin tests $79K support with MACD crossover signal: Live",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
-      "published": "2026-10-29 07:11:46"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
       "title": "Bitcoin rises slightly after Fed holds interest rates steady; oil caps gains",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-up-to-near-81k-as-tech-rally-buoys-risk-appetite-fed-meeting-awaited-4977527",
       "published": "2026-10-28 21:57:17"
@@ -398,13 +405,6 @@
       "title": "The World Trades Here: Bybit’s WSOT Is Coming Back With a Prize Pool of Up to 10 Million USDT",
       "url": "https://www.investing.com/news/cryptocurrency-news/the-world-trades-here-bybits-wsot-is-coming-back-with-a-prize-pool-of-up-to-10-million-usdt-4978251",
       "published": "2026-10-28 10:30:09"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin up as risk sentiment, oil slip offset Strategy buying pause, Fed caution",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-below-80k-as-strategy-pauses-buying-fed-caution-weighs-4974244",
-      "published": "2026-10-27 21:48:30"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-29T14:19:46.102757+00:00",
+  "fetchedAt": "2026-10-29T20:17:36.757436+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
