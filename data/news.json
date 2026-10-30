@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+      "url": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
+      "published": "Fri, 30 Oct 2026 19:55:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
       "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
       "published": "Fri, 30 Oct 2026 16:31:17 +0000"
@@ -162,11 +169,11 @@
       "published": "Thu, 29 Oct 2026 16:11:18 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
-      "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform",
-      "published": "Thu, 29 Oct 2026 14:55:47 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Binance hackers raced to move billions before it could be frozen",
+      "url": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 22:00:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -227,7 +234,7 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
-      "title": "Binance working with FBI to recover assets following $6.3B hack",
+      "title": "FBI and Secret Service join response to Binance’s $6.3B hack",
       "url": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 30 Oct 2026 13:11:10 +0000"
     },
@@ -330,27 +337,6 @@
       "published": "Thu, 29 Oct 2026 21:24:36 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Public companies double share of blockchain revenue since 2022: Report",
-      "url": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 19:53:14 +0000"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin drops over 5%, falls below $78k after Binance hit with $6.3B hack",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-sinks-to-78k-after-binance-hit-with-reported-53-bln-hack-4985613",
-      "published": "2026-10-30 15:53:15"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Binance halts withdrawals after record hack; digital assets, crypto stocks slump",
-      "url": "https://www.investing.com/news/cryptocurrency-news/binance-halts-withdrawals-after-53-bln-hack-4985601",
-      "published": "2026-10-30 12:24:25"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
       "title": "EOS Falls 12% In Bearish Trade",
@@ -363,6 +349,20 @@
       "title": "Binance: Already Reserved Over $6.34B Of Company Funds To Cover",
       "url": "https://www.investing.com/news/cryptocurrency-news/binance-already-reserved-over-634b-of-company-funds-to-cover-432SI-4986886",
       "published": "2026-10-30 11:00:02"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin drops to $78k after Binance hit with $6.3 bln hack; set for October losses",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-sinks-to-78k-after-binance-hit-with-reported-53-bln-hack-4985613",
+      "published": "2026-10-30 08:57:57"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Binance halts withdrawals after record $6.3 bln hack; cryptocurrencies fall",
+      "url": "https://www.investing.com/news/cryptocurrency-news/binance-halts-withdrawals-after-53-bln-hack-4985601",
+      "published": "2026-10-30 08:27:41"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-30T19:22:12.557497+00:00",
+  "fetchedAt": "2026-10-30T23:46:35.740138+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
