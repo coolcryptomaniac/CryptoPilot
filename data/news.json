@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+      "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+      "published": "Sat, 31 Oct 2026 18:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
       "url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
       "published": "Sat, 31 Oct 2026 16:09:30 +0000"
@@ -160,13 +167,6 @@
       "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
       "url": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
       "published": "Fri, 30 Oct 2026 05:45:27 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
-      "url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
-      "published": "Fri, 30 Oct 2026 05:43:07 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -339,16 +339,16 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Binance says it has replaced 90% of $6.3 billion stolen in record crypto hack",
-      "url": "https://www.investing.com/news/cryptocurrency-news/binance-says-it-has-replaced-90-of-63-billion-stolen-in-record-crypto-hack-4989304",
-      "published": "2026-10-31 16:56:46"
+      "title": "Bitcoin rises as Binance says it has covered 90% of $6.3 billion hack",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
+      "published": "2026-10-31 20:56:59"
     },
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin edges lower as U.S. agencies join probe into record $6.3 bln Binance hack",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
-      "published": "2026-10-31 15:20:04"
+      "title": "Binance says it has replaced 90% of $6.3 billion stolen in record crypto hack",
+      "url": "https://www.investing.com/news/cryptocurrency-news/binance-says-it-has-replaced-90-of-63-billion-stolen-in-record-crypto-hack-4989304",
+      "published": "2026-10-31 16:56:46"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-31T17:43:42.215295+00:00",
+  "fetchedAt": "2026-10-31T21:34:20.044355+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
