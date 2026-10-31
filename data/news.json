@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
+      "url": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
+      "published": "Sat, 31 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
       "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
       "published": "Sat, 31 Oct 2026 05:01:32 +0000"
@@ -162,11 +169,18 @@
       "published": "Thu, 29 Oct 2026 17:04:19 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
-      "url": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
-      "published": "Thu, 29 Oct 2026 16:51:18 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
+      "url": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 31 Oct 2026 11:22:49 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Binance $6.3B record hack sparks pre-election political clashes",
+      "url": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 31 Oct 2026 09:58:50 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -323,18 +337,18 @@
       "published": "Thu, 29 Oct 2026 23:24:21 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
-      "url": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 22:31:07 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin holds above $77,000 as FBI joins hunt for $6.3 billion Binance hackers",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
+      "published": "2026-10-31 11:48:28"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Binance hit by $6.3B hack, the largest in cryptocurrency history",
-      "url": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 21:24:36 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "EOS Falls 11% In Rout",
+      "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4989240",
+      "published": "2026-10-31 11:05:08"
     },
     {
       "source": "Investing.com",
@@ -391,20 +405,6 @@
       "title": "Citi comments on Binance hack and stablecoin response capabilities",
       "url": "https://www.investing.com/news/cryptocurrency-news/citi-comments-on-binance-hack-and-stablecoin-response-capabilities-432SI-4985988",
       "published": "2026-10-30 08:13:02"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Binance Says Estimated Impact Of Security Incident At Around $6.3b",
-      "url": "https://www.investing.com/news/cryptocurrency-news/binance-says-estimated-impact-of-security-incident-at-around-63b-432SI-4985748",
-      "published": "2026-10-30 03:12:02"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Litecoin Falls 10% In Rout",
-      "url": "https://www.investing.com/news/cryptocurrency-news/litecoin-falls-10-in-rout-4985641",
-      "published": "2026-10-30 00:25:01"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-10-31T05:40:46.746160+00:00",
+  "fetchedAt": "2026-10-31T12:29:27.619380+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
