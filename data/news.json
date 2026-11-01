@@ -3,6 +3,20 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+      "published": "Sun, 01 Nov 2026 19:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+      "url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+      "published": "Sun, 01 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "The key races to watch for the 2026 election",
       "url": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
       "published": "Sun, 01 Nov 2026 15:00:00 +0000"
@@ -153,20 +167,6 @@
       "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
       "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
       "published": "Fri, 30 Oct 2026 12:13:02 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Here's how big bitcoin traders responded after the Binance hack hit",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
-      "published": "Fri, 30 Oct 2026 11:51:26 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
-      "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
-      "published": "Fri, 30 Oct 2026 11:35:16 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -339,6 +339,13 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
+      "title": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389",
+      "published": "2026-11-01 19:04:09"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
       "title": "Bitcoin tests 38.2% Fib after triangle breakdown: Live levels",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
       "published": "2026-11-01 07:01:45"
@@ -349,13 +356,6 @@
       "title": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
       "url": "https://www.investing.com/news/cryptocurrency-news/binance-to-resume-crypto-withdrawals-in-phases-after-record-6-billion-hack-4989397",
       "published": "2026-11-01 06:20:37"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389",
-      "published": "2026-11-01 05:19:12"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-01T15:09:02.903963+00:00",
+  "fetchedAt": "2026-11-01T19:40:15.819457+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
