@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+      "published": "Sun, 01 Nov 2026 01:10:05 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
       "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
       "published": "Sat, 31 Oct 2026 18:00:00 +0000"
@@ -160,13 +167,6 @@
       "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
       "url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
       "published": "Fri, 30 Oct 2026 06:22:00 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
-      "url": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
-      "published": "Fri, 30 Oct 2026 05:45:27 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -339,6 +339,27 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
+      "title": "Bitcoin tests 38.2% Fib after triangle breakdown: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
+      "published": "2026-11-01 07:01:45"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
+      "url": "https://www.investing.com/news/cryptocurrency-news/binance-to-resume-crypto-withdrawals-in-phases-after-record-6-billion-hack-4989397",
+      "published": "2026-11-01 06:20:37"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389",
+      "published": "2026-11-01 05:19:12"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
       "title": "Bitcoin rises as Binance says it has covered 90% of $6.3 billion hack",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
       "published": "2026-10-31 20:56:59"
@@ -381,30 +402,9 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin tests critical $76,500 neckline support: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
-      "published": "2026-10-30 19:19:12"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
       "title": "Binance halts withdrawals after record hack; digital assets, crypto stocks slump",
       "url": "https://www.investing.com/news/cryptocurrency-news/binance-halts-withdrawals-after-53-bln-hack-4985601",
       "published": "2026-10-30 12:24:25"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "EOS Falls 12% In Bearish Trade",
-      "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-12-in-bearish-trade-4986930",
-      "published": "2026-10-30 11:03:14"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Binance: Already Reserved Over $6.34B Of Company Funds To Cover",
-      "url": "https://www.investing.com/news/cryptocurrency-news/binance-already-reserved-over-634b-of-company-funds-to-cover-432SI-4986886",
-      "published": "2026-10-30 11:00:02"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-01T01:09:34.416383+00:00",
+  "fetchedAt": "2026-11-01T07:32:07.791644+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
