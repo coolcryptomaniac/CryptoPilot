@@ -171,6 +171,13 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
+      "title": "$3.6B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 01 Nov 2026 23:09:13 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
       "title": "Here’s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 01 Nov 2026 14:17:00 +0000"
@@ -330,13 +337,6 @@
       "published": "Fri, 30 Oct 2026 11:00:10 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
-      "url": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 10:54:30 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
       "title": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-01T19:40:15.819457+00:00",
+  "fetchedAt": "2026-11-01T23:35:31.290984+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
