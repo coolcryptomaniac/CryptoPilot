@@ -3,6 +3,27 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
+      "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+      "published": "Mon, 02 Nov 2026 05:18:12 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+      "published": "Mon, 02 Nov 2026 04:42:22 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+      "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+      "published": "Mon, 02 Nov 2026 04:41:16 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
       "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
       "published": "Sun, 01 Nov 2026 19:30:00 +0000"
@@ -148,30 +169,37 @@
       "published": "Fri, 30 Oct 2026 19:55:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-      "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
-      "published": "Fri, 30 Oct 2026 16:31:17 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
-      "url": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
-      "published": "Fri, 30 Oct 2026 14:13:34 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
-      "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
-      "published": "Fri, 30 Oct 2026 12:13:02 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+      "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 05:34:02 +0000"
     },
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
-      "title": "$3.6B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest",
+      "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
+      "url": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 03:55:50 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+      "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 01:51:48 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "url": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 01 Nov 2026 23:59:27 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest",
       "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 01 Nov 2026 23:09:13 +0000"
     },
@@ -309,32 +337,11 @@
       "published": "Fri, 30 Oct 2026 13:11:10 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Binance says it holds $5B in matching tokens to cover hack losses",
-      "url": "https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 12:41:43 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Zcash grants group offers $124M compromise as governance backlash grows",
-      "url": "https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 11:36:23 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 11:29:23 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
-      "url": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 30 Oct 2026 11:00:10 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "EOS Climbs 11% In a Green Day",
+      "url": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-11-in-a-green-day-4989826",
+      "published": "2026-11-02 03:40:03"
     },
     {
       "source": "Investing.com",
@@ -398,13 +405,6 @@
       "title": "Trump: Looking At Whether Binance Hack Is By North Korea - Bloomberg",
       "url": "https://www.investing.com/news/cryptocurrency-news/trump-looking-at-whether-binance-hack-is-by-north-korea--bloomberg-432SI-4988575",
       "published": "2026-10-30 20:04:02"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Binance halts withdrawals after record hack; digital assets, crypto stocks slump",
-      "url": "https://www.investing.com/news/cryptocurrency-news/binance-halts-withdrawals-after-53-bln-hack-4985601",
-      "published": "2026-10-30 12:24:25"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-01T23:35:31.290984+00:00",
+  "fetchedAt": "2026-11-02T06:02:07.560550+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
