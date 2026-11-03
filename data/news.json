@@ -3,6 +3,34 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
+      "url": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
+      "published": "Tue, 03 Nov 2026 16:55:10 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+      "url": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+      "published": "Tue, 03 Nov 2026 16:49:56 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
+      "url": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
+      "published": "Tue, 03 Nov 2026 16:17:51 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
+      "url": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
+      "published": "Tue, 03 Nov 2026 16:12:35 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
       "url": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
       "published": "Tue, 03 Nov 2026 15:02:13 +0000"
@@ -10,7 +38,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Binance's $6.3 billion hack began with a fake job interview, exchange says",
+      "title": "Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months'",
       "url": "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
       "published": "Tue, 03 Nov 2026 14:53:19 +0000"
     },
@@ -24,7 +52,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "CZ warns of more AI-driven hacks following Binance’s historic $6.4 billion heist",
+      "title": "CZ warns of more AI-driven hacks following Binance’s historic $6.3 billion heist",
       "url": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
       "published": "Tue, 03 Nov 2026 14:22:09 +0000"
     },
@@ -52,7 +80,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
+      "title": "ETHGas wants to bring Wall Street to public Ethereum with institutional controls",
       "url": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
       "published": "Tue, 03 Nov 2026 12:01:05 +0000"
     },
@@ -80,7 +108,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live news: Bitcoin faces fifth weekly loss as midterm elections weigh on markets",
+      "title": "Live updates: Bitcoin and tech stocks edge higher as U.S. voters head to the polls",
       "url": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
       "published": "Tue, 03 Nov 2026 09:50:16 +0000"
     },
@@ -141,32 +169,39 @@
       "published": "Mon, 02 Nov 2026 21:38:53 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
-      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
-      "published": "Mon, 02 Nov 2026 18:13:57 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "CFTC clears stock perpetual futures for trading on US exchanges",
+      "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 20:24:55 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
-      "url": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
-      "published": "Mon, 02 Nov 2026 17:21:04 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "US midterms: Prediction markets favor Democrats in key crypto races",
+      "url": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 19:38:19 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "NYSE tokenized stock plans take shape as four more transfer agents join",
-      "url": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
-      "published": "Mon, 02 Nov 2026 16:41:46 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
+      "url": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 16:47:01 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
-      "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
-      "published": "Mon, 02 Nov 2026 15:53:29 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+      "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 16:44:06 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 15:44:42 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -227,7 +262,7 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
-      "title": "Kraken restricts accounts amid suspected $133M EU crypto theft",
+      "title": "Kraken restricts accounts linked to suspected $133M EU crypto theft",
       "url": "https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 03 Nov 2026 08:18:22 +0000"
     },
@@ -302,39 +337,11 @@
       "published": "Mon, 02 Nov 2026 21:16:24 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
-      "url": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 20:22:23 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
-      "url": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 19:27:58 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
-      "url": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 19:05:35 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
-      "url": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 18:00:16 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
-      "url": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 13:48:28 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin trapped below cloud resistance in bear flag: Live levels",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-key-support-in-descending-channel-live-levels-93CH-4990035",
+      "published": "2026-11-03 19:18:44"
     },
     {
       "source": "Investing.com",
@@ -363,13 +370,6 @@
       "title": "Margex Launches $1.3M SPCX Airdrop Campaign Running Through November 20",
       "url": "https://www.investing.com/news/cryptocurrency-news/margex-launches-13m-spcx-airdrop-campaign-running-through-november-20-4991317",
       "published": "2026-11-02 12:30:15"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin tests key support in descending channel: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-key-support-in-descending-channel-live-levels-93CH-4990035",
-      "published": "2026-11-02 07:12:35"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-03T15:07:47.455157+00:00",
+  "fetchedAt": "2026-11-03T20:58:49.628389+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
