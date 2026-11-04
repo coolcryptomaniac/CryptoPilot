@@ -3,6 +3,97 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
+      "url": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
+      "published": "Wed, 04 Nov 2026 16:11:29 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+      "url": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
+      "published": "Wed, 04 Nov 2026 16:08:14 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
+      "published": "Wed, 04 Nov 2026 15:27:20 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "The election changes Washington. The work on crypto continues",
+      "url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
+      "published": "Wed, 04 Nov 2026 14:25:12 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+      "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+      "published": "Wed, 04 Nov 2026 14:00:53 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
+      "url": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
+      "published": "Wed, 04 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
+      "url": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
+      "published": "Wed, 04 Nov 2026 12:49:56 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
+      "url": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
+      "published": "Wed, 04 Nov 2026 12:33:54 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Here's how analysts are reacting to the new blue Congress",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/04/here-s-how-analysts-are-reacting-to-the-new-blue-congress",
+      "published": "Wed, 04 Nov 2026 12:14:11 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
+      "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
+      "published": "Wed, 04 Nov 2026 10:38:58 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
+      "url": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
+      "published": "Wed, 04 Nov 2026 10:18:50 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade",
+      "url": "https://www.coindesk.com/markets/2026/11/04/elon-musk-floats-space-data-centers-as-democratic-sweep-puts-pressure-on-ai-trade",
+      "published": "Wed, 04 Nov 2026 10:03:33 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
+      "url": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
+      "published": "Wed, 04 Nov 2026 09:22:58 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
       "url": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
       "published": "Wed, 04 Nov 2026 08:04:04 +0000"
@@ -10,7 +101,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Bitcoin surges to $78,300 in V-shaped comeback as midterm election uncertainty fades",
+      "title": "Bitcoin rises to $78,300 in V-shaped comeback as midterm election uncertainty fades",
       "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
       "published": "Wed, 04 Nov 2026 06:16:40 +0000"
     },
@@ -52,7 +143,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Crypto's election gamble falters as Democratic victories usher in a 'blue wave'",
+      "title": "Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide",
       "url": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
       "published": "Wed, 04 Nov 2026 00:00:00 +0000"
     },
@@ -78,102 +169,67 @@
       "published": "Tue, 03 Nov 2026 22:14:44 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
-      "url": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
-      "published": "Tue, 03 Nov 2026 16:55:10 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
-      "url": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
-      "published": "Tue, 03 Nov 2026 16:49:56 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
-      "url": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
-      "published": "Tue, 03 Nov 2026 16:17:51 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
-      "url": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
-      "published": "Tue, 03 Nov 2026 16:12:35 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
-      "url": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
-      "published": "Tue, 03 Nov 2026 15:02:13 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months'",
-      "url": "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
-      "published": "Tue, 03 Nov 2026 14:53:19 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "South Korea asks its biggest banks how a major crypto hack would hit them",
-      "url": "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them",
-      "published": "Tue, 03 Nov 2026 14:42:30 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "CZ warns of more AI-driven hacks following Binance’s historic $6.3 billion heist",
-      "url": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
-      "published": "Tue, 03 Nov 2026 14:22:09 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "LO:TECH raises $12 million to expand crypto trading into U.S. and Asia",
-      "url": "https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia",
-      "published": "Tue, 03 Nov 2026 14:00:00 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway",
-      "url": "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery",
-      "published": "Tue, 03 Nov 2026 12:57:28 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin is breaking a midterm election pattern going back to 2014",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014",
-      "published": "Tue, 03 Nov 2026 12:30:09 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "ETHGas wants to bring Wall Street to public Ethereum with institutional controls",
-      "url": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
-      "published": "Tue, 03 Nov 2026 12:01:05 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
-      "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
-      "published": "Tue, 03 Nov 2026 11:28:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 04 Nov 2026 15:29:23 +0000"
     },
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
-      "title": "US midterm elections 2026 live: Democrats win House, securing control of Congress",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 04 Nov 2026 13:47:43 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
+      "url": "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 04 Nov 2026 13:44:52 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
+      "url": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 04 Nov 2026 12:12:15 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
+      "url": "https://cointelegraph.com/markets/crypto-market-recovery-grayscale-binance-hack-temporary-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 04 Nov 2026 11:11:57 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure",
+      "url": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 04 Nov 2026 10:30:42 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 04 Nov 2026 09:38:07 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "US midterm elections 2026 as it happened: Democrats win control of Congress",
       "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 04 Nov 2026 08:38:19 +0000"
+      "published": "Wed, 04 Nov 2026 09:27:34 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
+      "url": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 04 Nov 2026 09:15:55 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -188,13 +244,6 @@
       "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
       "url": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 04 Nov 2026 07:25:47 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 04 Nov 2026 06:03:33 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -288,60 +337,39 @@
       "published": "Tue, 03 Nov 2026 13:15:47 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "NEAR token sinks 7% as proposal to cut annual token issuance passes",
-      "url": "https://cointelegraph.com/markets/near-sinks-7-proposal-cut-annual-token-issuance-passes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 03 Nov 2026 12:30:13 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Binance’s net inflows turn positive at $2.3B as withdrawals expand",
-      "url": "https://cointelegraph.com/news/binances-daily-inflows-positive-18b-withdrawals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 03 Nov 2026 11:32:02 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "France postpones 2027 budget vote, crypto exit-tax proposals scrapped",
-      "url": "https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 03 Nov 2026 10:49:26 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 03 Nov 2026 10:04:05 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish",
-      "url": "https://cointelegraph.com/news/ark-buys-coinbase-circle-trims-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 03 Nov 2026 08:35:13 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Kraken restricts accounts linked to suspected $133M EU crypto theft",
-      "url": "https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 03 Nov 2026 08:18:22 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June",
-      "url": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 03 Nov 2026 07:49:51 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin jumps above $79k as Democrats sweep midterm elections",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-78k-as-democrats-sweep-midterm-elections-4997542",
+      "published": "2026-11-04 14:51:34"
     },
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin recovers to near $78k as Democrats sweep midterm elections",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-78k-as-democrats-sweep-midterm-elections-4997542",
-      "published": "2026-11-04 07:10:54"
+      "title": "TopValue Opens Public Access After 8.1 Million XRP Institutional Phase",
+      "url": "https://www.investing.com/news/cryptocurrency-news/topvalue-opens-public-access-after-81-million-xrp-institutional-phase-4999876",
+      "published": "2026-11-04 14:30:19"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "NEAR Mobile Hits #1 in Finance App Rankings and Charts Across 38 Countries as NEAR Ecosystem Gains Momentum",
+      "url": "https://www.investing.com/news/cryptocurrency-news/near-mobile-hits-1-in-finance-app-rankings-and-charts-across-38-countries-as-near-ecosystem-gains-momentum-4999164",
+      "published": "2026-11-04 13:00:12"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bybit CEO Ben Zhou: AI, Tokenization and Connected Infrastructure to Reshape the Future of Finance",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bybit-ceo-ben-zhou-ai-tokenization-and-connected-infrastructure-to-reshape-the-future-of-finance-4998974",
+      "published": "2026-11-04 12:30:11"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bybit Kazakhstan launches a new fiat channel: tenge deposits and withdrawals with any KZ bank card",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bybit-kazakhstan-launches-a-new-fiat-channel-tenge-deposits-and-withdrawals-with-any-kz-bank-card-4997918",
+      "published": "2026-11-04 09:30:11"
     },
     {
       "source": "Investing.com",
@@ -377,34 +405,6 @@
       "title": "Margex Launches $1.3M SPCX Airdrop Campaign Running Through November 20",
       "url": "https://www.investing.com/news/cryptocurrency-news/margex-launches-13m-spcx-airdrop-campaign-running-through-november-20-4991317",
       "published": "2026-11-02 12:30:15"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "EOS Climbs 11% In a Green Day",
-      "url": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-11-in-a-green-day-4989826",
-      "published": "2026-11-02 03:40:03"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389",
-      "published": "2026-11-01 19:04:09"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin tests 38.2% Fib after triangle breakdown: Live levels",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
-      "published": "2026-11-01 07:01:45"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
-      "url": "https://www.investing.com/news/cryptocurrency-news/binance-to-resume-crypto-withdrawals-in-phases-after-record-6-billion-hack-4989397",
-      "published": "2026-11-01 06:20:37"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-04T09:12:31.329079+00:00",
+  "fetchedAt": "2026-11-04T17:15:09.605484+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
