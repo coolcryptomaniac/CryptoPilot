@@ -3,6 +3,20 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "What the election results mean for crypto: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+      "published": "Sun, 08 Nov 2026 19:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Stablecoin growth has stalled. The payments boom hasn't",
+      "url": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+      "published": "Sun, 08 Nov 2026 19:16:42 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
       "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
       "published": "Sun, 08 Nov 2026 12:55:59 +0000"
@@ -153,20 +167,6 @@
       "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
       "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
       "published": "Thu, 05 Nov 2026 16:49:08 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
-      "published": "Thu, 05 Nov 2026 16:13:32 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
-      "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
-      "published": "Thu, 05 Nov 2026 14:21:50 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-08T15:12:41.293781+00:00",
+  "fetchedAt": "2026-11-08T19:41:42.785873+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
