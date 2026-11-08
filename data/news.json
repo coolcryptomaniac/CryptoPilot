@@ -339,6 +339,13 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
+      "title": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133",
+      "published": "2026-11-08 06:00:07"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
       "title": "Slop Cash, From elizaOS Creator Shaw Walters, Opens Public Bidding on Umia After Passing Its $400K Minimum",
       "url": "https://www.investing.com/news/cryptocurrency-news/slop-cash-from-elizaos-creator-shaw-walters-opens-public-bidding-on-umia-after-passing-its-400k-minimum-5009964",
       "published": "2026-11-07 17:00:13"
@@ -398,13 +405,6 @@
       "title": "FivebalanceUSA Launches Scam Stomper Token on Pump.fun",
       "url": "https://www.investing.com/news/cryptocurrency-news/fivebalanceusa-launches-scam-stomper-token-on-pumpfun-5004757",
       "published": "2026-11-05 14:30:16"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Signal Week (formerly Paris Blockchain Week) Returns to Paris in July 2027",
-      "url": "https://www.investing.com/news/cryptocurrency-news/signal-week-formerly-paris-blockchain-week-returns-to-paris-in-july-2027-5003707",
-      "published": "2026-11-05 12:30:15"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-08T00:35:50.187740+00:00",
+  "fetchedAt": "2026-11-08T07:20:32.455185+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
