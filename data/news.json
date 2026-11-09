@@ -3,6 +3,27 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+      "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+      "published": "Mon, 09 Nov 2026 05:16:54 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+      "url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+      "published": "Mon, 09 Nov 2026 04:54:39 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+      "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+      "published": "Mon, 09 Nov 2026 03:21:49 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "What the election results mean for crypto: State of Crypto",
       "url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
       "published": "Sun, 08 Nov 2026 19:30:00 +0000"
@@ -148,25 +169,25 @@
       "published": "Thu, 05 Nov 2026 18:59:45 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
-      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
-      "published": "Thu, 05 Nov 2026 18:48:40 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 05:44:53 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
-      "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
-      "published": "Thu, 05 Nov 2026 16:58:21 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Zcash devs propose another block time cut days after NU7 upgrade",
+      "url": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 05:36:08 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
-      "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
-      "published": "Thu, 05 Nov 2026 16:49:08 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+      "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 04:03:08 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -174,13 +195,6 @@
       "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
       "url": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 08 Nov 2026 22:59:06 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 08 Nov 2026 13:33:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -323,20 +337,6 @@
       "published": "Fri, 06 Nov 2026 11:26:30 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
-      "url": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 11:16:53 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Greece approves 10% tax on crypto gains starting in 2027",
-      "url": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 11:05:36 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
       "title": "EOS Falls 12% In Selloff",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-08T23:42:44.809404+00:00",
+  "fetchedAt": "2026-11-09T06:28:06.423064+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
