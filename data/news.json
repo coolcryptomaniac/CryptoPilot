@@ -3,6 +3,20 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
+      "url": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
+      "published": "Tue, 10 Nov 2026 20:36:33 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
+      "url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
+      "published": "Tue, 10 Nov 2026 20:15:08 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
       "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
       "published": "Tue, 10 Nov 2026 17:32:22 +0000"
@@ -155,18 +169,46 @@
       "published": "Mon, 09 Nov 2026 13:40:06 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-      "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
-      "published": "Mon, 09 Nov 2026 12:41:35 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 22:04:47 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
-      "url": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
-      "published": "Mon, 09 Nov 2026 12:37:13 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
+      "url": "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 21:34:40 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
+      "url": "https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 21:24:36 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’",
+      "url": "https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 21:07:44 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
+      "url": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 20:26:02 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+      "url": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 18:12:07 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -195,13 +237,6 @@
       "title": "Poland’s lower house backs sanctions bill covering crypto freezes",
       "url": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 10 Nov 2026 13:40:39 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 10 Nov 2026 13:34:37 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -302,39 +337,11 @@
       "published": "Mon, 09 Nov 2026 20:26:34 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-      "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 19:52:34 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
-      "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 18:25:29 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "PNC Bank tests turning USDC payments into dollar deposits",
-      "url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 17:48:35 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-      "url": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 17:41:02 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
-      "url": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 17:13:25 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin falls over 2%, drops under $74k after hot CPI data, hawkish Waller",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-75k-as-regulatory-uncertainty-etf-outflows-persist-5014179",
+      "published": "2026-11-10 22:34:37"
     },
     {
       "source": "Investing.com",
@@ -342,13 +349,6 @@
       "title": "JUSD Finance Becomes Drakewell and Introduces SPYdw, a Hedged SPY Portfolio",
       "url": "https://www.investing.com/news/cryptocurrency-news/jusd-finance-becomes-drakewell-and-introduces-spydw-a-hedged-spy-portfolio-5016289",
       "published": "2026-11-10 16:30:15"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin slides to $74k on hot inflation data, regulatory uncertainty",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-75k-as-regulatory-uncertainty-etf-outflows-persist-5014179",
-      "published": "2026-11-10 14:48:42"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-10T17:50:46.181127+00:00",
+  "fetchedAt": "2026-11-10T23:21:58.534452+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
