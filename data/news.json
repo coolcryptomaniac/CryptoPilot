@@ -3,6 +3,83 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
+      "url": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
+      "published": "Thu, 12 Nov 2026 10:42:06 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
+      "url": "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
+      "published": "Thu, 12 Nov 2026 10:32:35 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
+      "url": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
+      "published": "Thu, 12 Nov 2026 10:10:48 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
+      "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+      "published": "Thu, 12 Nov 2026 09:15:04 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+      "url": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
+      "published": "Thu, 12 Nov 2026 09:07:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
+      "url": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
+      "published": "Thu, 12 Nov 2026 07:41:18 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
+      "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
+      "published": "Thu, 12 Nov 2026 07:00:37 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
+      "url": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
+      "published": "Thu, 12 Nov 2026 05:49:44 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+      "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+      "published": "Thu, 12 Nov 2026 05:22:31 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
+      "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+      "published": "Thu, 12 Nov 2026 05:18:43 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+      "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+      "published": "Thu, 12 Nov 2026 04:03:47 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
       "url": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
       "published": "Wed, 11 Nov 2026 16:00:45 +0000"
@@ -92,81 +169,46 @@
       "published": "Tue, 10 Nov 2026 15:51:56 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Will stablecoins survive once the banks catch up?",
-      "url": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
-      "published": "Tue, 10 Nov 2026 14:00:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
+      "url": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 11:00:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
-      "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
-      "published": "Tue, 10 Nov 2026 13:32:09 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
+      "url": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 10:30:29 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
-      "url": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
-      "published": "Tue, 10 Nov 2026 12:38:20 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
+      "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 08:06:48 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
-      "published": "Tue, 10 Nov 2026 12:15:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 06:00:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
-      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
-      "published": "Tue, 10 Nov 2026 11:24:10 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 05:54:48 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
-      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
-      "published": "Tue, 10 Nov 2026 10:48:37 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Live news: Bitcoin falls to nearly three-month low after disappointing inflation data",
-      "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
-      "published": "Tue, 10 Nov 2026 10:41:45 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
-      "url": "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own",
-      "published": "Tue, 10 Nov 2026 09:59:17 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
-      "url": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
-      "published": "Tue, 10 Nov 2026 09:14:30 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
-      "url": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
-      "published": "Tue, 10 Nov 2026 07:01:06 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
-      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
-      "published": "Tue, 10 Nov 2026 05:18:31 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
+      "url": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 05:07:11 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -188,13 +230,6 @@
       "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
       "url": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 11 Nov 2026 22:44:47 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 22:15:26 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -262,7 +297,7 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
-      "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
+      "title": "FSB urges Turkey to tighten crypto oversight, set stablecoin rules",
       "url": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 11 Nov 2026 12:44:10 +0000"
     },
@@ -302,39 +337,18 @@
       "published": "Wed, 11 Nov 2026 10:00:00 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
-      "url": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 09:58:15 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin edges lower to $73.5k; Strategy drops on MSCI index removal",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-736k-strategy-drops-on-msci-index-removal-5020451",
+      "published": "2026-11-12 10:36:29"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "ECB warns legislative delays could postpone digital euro launch",
-      "url": "https://cointelegraph.com/news/ecb-warns-legislative-delays-digital-euro-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 09:03:49 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 08:55:31 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "SEC enforcement actions fall 24%, crypto cases in spotlight",
-      "url": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 08:43:30 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
-      "url": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 05:52:14 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "MidChains and Standard Chartered establish strategic banking partnership",
+      "url": "https://www.investing.com/news/cryptocurrency-news/midchains-and-standard-chartered-establish-strategic-banking-partnership-5020443",
+      "published": "2026-11-12 06:30:12"
     },
     {
       "source": "Investing.com",
@@ -342,13 +356,6 @@
       "title": "Bitcoin subdued, hovers under $74k as rise in Fed rate hike expectations weigh",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-74k-as-hot-cpi-data-spurs-rate-hike-bets-5017791",
       "published": "2026-11-11 23:24:28"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Fungibullx Bets Digital Art Belongs In The Auction House, Starting With Patrick Hughes",
-      "url": "https://www.investing.com/news/cryptocurrency-news/fungibullx-bets-digital-art-belongs-in-the-auction-house-starting-with-patrick-hughes-5019598",
-      "published": "2026-11-11 17:00:16"
     },
     {
       "source": "Investing.com",
@@ -398,13 +405,6 @@
       "title": "Strategy sells MSTR shares, buys bitcoin, and repurchases STRC stock",
       "url": "https://www.investing.com/news/cryptocurrency-news/strategy-sells-mstr-shares-buys-bitcoin-and-repurchases-strc-stock-432SI-5011934",
       "published": "2026-11-09 13:05:02"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitrue AI Research Shows XRP Traded Higher 90 Days After 12 of 17 Oversold Readings",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitrue-ai-research-shows-xrp-traded-higher-90-days-after-12-of-17-oversold-readings-5011722",
-      "published": "2026-11-09 12:30:30"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-12T02:58:57.921271+00:00",
+  "fetchedAt": "2026-11-12T11:09:45.514989+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
