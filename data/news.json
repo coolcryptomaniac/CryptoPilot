@@ -3,6 +3,41 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+      "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+      "published": "Fri, 13 Nov 2026 07:05:29 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+      "published": "Fri, 13 Nov 2026 06:03:41 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+      "published": "Fri, 13 Nov 2026 05:45:26 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+      "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+      "published": "Fri, 13 Nov 2026 05:08:59 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+      "published": "Fri, 13 Nov 2026 03:37:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
       "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
       "published": "Thu, 12 Nov 2026 22:55:52 +0000"
@@ -134,39 +169,39 @@
       "published": "Thu, 12 Nov 2026 07:41:18 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
-      "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
-      "published": "Thu, 12 Nov 2026 07:00:37 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 06:16:46 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
-      "url": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
-      "published": "Thu, 12 Nov 2026 05:49:44 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
+      "url": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 06:00:15 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-      "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
-      "published": "Thu, 12 Nov 2026 05:22:31 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
+      "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 02:29:27 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
-      "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
-      "published": "Thu, 12 Nov 2026 05:18:43 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
+      "url": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 01:26:27 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
-      "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
-      "published": "Thu, 12 Nov 2026 04:03:47 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
+      "url": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 13 Nov 2026 00:52:42 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -181,13 +216,6 @@
       "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
       "url": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 12 Nov 2026 22:29:58 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 22:11:41 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -309,32 +337,18 @@
       "published": "Thu, 12 Nov 2026 05:54:48 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
-      "url": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 05:07:11 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin drops below 70k, set for deep weekly loss as crypto appetite sours",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-below-70k-as-crypto-appetite-sours-5024070",
+      "published": "2026-11-13 04:04:21"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
-      "url": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 00:09:13 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
-      "url": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 23:18:44 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
-      "url": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 22:44:47 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "BTSE Enterprise Solutions Wins Best White-Label Digital Asset Exchange Platform at Digital Banker Awards 2026",
+      "url": "https://www.investing.com/news/cryptocurrency-news/btse-enterprise-solutions-wins-best-whitelabel-digital-asset-exchange-platform-at-digital-banker-awards-2026-5023881",
+      "published": "2026-11-13 01:30:14"
     },
     {
       "source": "Investing.com",
@@ -391,20 +405,6 @@
       "title": "Bitcoin falls over 2%, drops under $74k after hot CPI data, hawkish Waller",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-75k-as-regulatory-uncertainty-etf-outflows-persist-5014179",
       "published": "2026-11-10 22:34:37"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "JUSD Finance Becomes Drakewell and Introduces SPYdw, a Hedged SPY Portfolio",
-      "url": "https://www.investing.com/news/cryptocurrency-news/jusd-finance-becomes-drakewell-and-introduces-spydw-a-hedged-spy-portfolio-5016289",
-      "published": "2026-11-10 16:30:15"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Backed by $80 Million, Alta is Building the Infrastructure to Bring Global Banking Onchain",
-      "url": "https://www.investing.com/news/cryptocurrency-news/backed-by-80-million-alta-is-building-the-infrastructure-to-bring-global-banking-onchain-5015944",
-      "published": "2026-11-10 14:30:15"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-13T00:23:56.320974+00:00",
+  "fetchedAt": "2026-11-13T07:58:05.106330+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
