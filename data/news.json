@@ -341,7 +341,28 @@
       "sourceId": "investing",
       "title": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
-      "published": "2026-11-14 15:32:23"
+      "published": "2026-11-14 21:00:16"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Litecoin Falls 11% In Rout",
+      "url": "https://www.investing.com/news/cryptocurrency-news/litecoin-falls-11-in-rout-5027513",
+      "published": "2026-11-14 20:55:58"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "EOS Falls 13% In Rout",
+      "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-13-in-rout-5027512",
+      "published": "2026-11-14 20:52:59"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Cardano Falls 10% In Selloff",
+      "url": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-selloff-5027456",
+      "published": "2026-11-14 18:19:55"
     },
     {
       "source": "Investing.com",
@@ -384,27 +405,6 @@
       "title": "Binance restores all $6.3 billion stolen in October hack",
       "url": "https://www.investing.com/news/cryptocurrency-news/binance-restores-all-63-billion-stolen-in-october-hack-5022924",
       "published": "2026-11-12 18:04:25"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "AVA Foundation and Travala Unveil AVA 3.0: A Travala-First Roadmap",
-      "url": "https://www.investing.com/news/cryptocurrency-news/ava-foundation-and-travala-unveil-ava-30-a-travalafirst-roadmap-5021415",
-      "published": "2026-11-12 12:30:19"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "EOS Falls 19% In Bearish Trade",
-      "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-19-in-bearish-trade-5021397",
-      "published": "2026-11-12 12:24:00"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "MidChains and Standard Chartered establish strategic banking partnership",
-      "url": "https://www.investing.com/news/cryptocurrency-news/midchains-and-standard-chartered-establish-strategic-banking-partnership-5020443",
-      "published": "2026-11-12 06:30:12"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-14T17:07:52.577442+00:00",
+  "fetchedAt": "2026-11-14T21:29:36.561304+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
