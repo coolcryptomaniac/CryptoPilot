@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+      "published": "Fri, 13 Nov 2026 23:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
       "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
       "published": "Fri, 13 Nov 2026 18:39:58 +0000"
@@ -160,13 +167,6 @@
       "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
       "url": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
       "published": "Thu, 12 Nov 2026 12:04:42 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
-      "url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
-      "published": "Thu, 12 Nov 2026 11:43:41 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -339,16 +339,16 @@
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "WSOT 2026 Main Competition Starts Today,With Up to 3.2 Million USDT for Squads",
-      "url": "https://www.investing.com/news/cryptocurrency-news/wsot-2026-main-competition-starts-todaywith-up-to-32-million-usdt-for-squads-5026403",
-      "published": "2026-11-13 20:01:35"
+      "title": "Bitcoin set for worst week since early June after more than 10% slide",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-below-70k-as-crypto-appetite-sours-5024070",
+      "published": "2026-11-13 23:10:07"
     },
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin slumps to $69k, set for deep weekly loss as crypto appetite sours",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-below-70k-as-crypto-appetite-sours-5024070",
-      "published": "2026-11-13 14:59:30"
+      "title": "WSOT 2026 Main Competition Starts Today,With Up to 3.2 Million USDT for Squads",
+      "url": "https://www.investing.com/news/cryptocurrency-news/wsot-2026-main-competition-starts-todaywith-up-to-32-million-usdt-for-squads-5026403",
+      "published": "2026-11-13 20:01:35"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-13T22:37:44.902975+00:00",
+  "fetchedAt": "2026-11-14T03:15:00.825571+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
