@@ -3,7 +3,14 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+      "published": "Sun, 15 Nov 2026 02:50:57 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
       "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
       "published": "Sat, 14 Nov 2026 16:33:29 +0000"
     },
@@ -162,11 +169,18 @@
       "published": "Thu, 12 Nov 2026 21:07:49 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
-      "url": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
-      "published": "Thu, 12 Nov 2026 16:45:52 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Coinone warns of phishing, identity theft after customer data breach",
+      "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 15 Nov 2026 08:07:58 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+      "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 15 Nov 2026 06:27:26 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -323,18 +337,11 @@
       "published": "Fri, 13 Nov 2026 00:52:42 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
-      "url": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 23:12:55 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
-      "url": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 22:29:58 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin slides toward $60,000 as ETF outflows and liquidations intensify",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-toward-60000-as-etf-outflows-and-liquidations-intensify-5027667",
+      "published": "2026-11-15 05:40:35"
     },
     {
       "source": "Investing.com",
@@ -398,13 +405,6 @@
       "title": "EOS Falls 15% In Selloff",
       "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-15-in-selloff-5025250",
       "published": "2026-11-13 13:01:04"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "BTSE Enterprise Solutions Wins Best White-Label Digital Asset Exchange Platform at Digital Banker Awards 2026",
-      "url": "https://www.investing.com/news/cryptocurrency-news/btse-enterprise-solutions-wins-best-whitelabel-digital-asset-exchange-platform-at-digital-banker-awards-2026-5023881",
-      "published": "2026-11-13 01:30:14"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-15T01:55:26.549858+00:00",
+  "fetchedAt": "2026-11-15T09:25:54.229841+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
