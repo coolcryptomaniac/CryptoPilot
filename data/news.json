@@ -3,6 +3,48 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Nvidia tops estimates, issues strong guidance; shares rise",
+      "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
+      "published": "Tue, 17 Nov 2026 21:25:50 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
+      "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
+      "published": "Tue, 17 Nov 2026 19:45:57 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
+      "url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
+      "published": "Tue, 17 Nov 2026 19:16:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Druckenmiller says he is short copper, warns of economic weakness in 2027",
+      "url": "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027",
+      "published": "Tue, 17 Nov 2026 17:42:40 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
+      "url": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
+      "published": "Tue, 17 Nov 2026 17:00:05 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+      "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
+      "published": "Tue, 17 Nov 2026 15:11:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
       "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
       "published": "Tue, 17 Nov 2026 13:02:56 +0000"
@@ -59,7 +101,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin holds near $64,000 as tech bounces ahead of Nvidia earnings",
+      "title": "Live updates: Bitcoin and stocks continue slump as Huang signals interest in returning to Nvidia",
       "url": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
       "published": "Tue, 17 Nov 2026 10:33:26 +0000"
     },
@@ -127,46 +169,60 @@
       "published": "Mon, 16 Nov 2026 20:35:21 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
-      "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
-      "published": "Mon, 16 Nov 2026 18:54:19 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
+      "url": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 17 Nov 2026 21:56:35 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
-      "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
-      "published": "Mon, 16 Nov 2026 16:41:42 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
+      "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 17 Nov 2026 20:05:04 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
-      "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
-      "published": "Mon, 16 Nov 2026 15:54:11 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Lighter incident exposes risks beyond withdrawal controls",
+      "url": "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 17 Nov 2026 17:51:53 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "German parliament proposes crypto seizures without criminal charges",
-      "url": "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
-      "published": "Mon, 16 Nov 2026 15:44:59 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
+      "url": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 17 Nov 2026 17:39:41 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Solana drops ‘beta’ label after more than six years",
-      "url": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
-      "published": "Mon, 16 Nov 2026 13:03:16 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
+      "url": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 17 Nov 2026 16:39:43 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
-      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
-      "published": "Mon, 16 Nov 2026 12:55:46 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 17 Nov 2026 14:54:40 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+      "url": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 17 Nov 2026 14:45:49 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
+      "url": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 17 Nov 2026 13:30:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -234,13 +290,6 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
       "title": "Trezor customer data exposed in 3rd partner breach this year",
       "url": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 17 Nov 2026 03:46:22 +0000"
@@ -288,60 +337,32 @@
       "published": "Mon, 16 Nov 2026 20:45:47 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
-      "url": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 20:18:02 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
-      "url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 19:56:18 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
-      "url": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 18:07:49 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
-      "url": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 17:49:13 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 16:26:52 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
-      "url": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 14:55:46 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Lighter recovers $5M after $10M exploit linked to compromised API keys",
-      "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 14:19:50 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "PrimeXBT Launches Anthropic Pre-IPO Crypto Futures, Bringing New Trading Opportunities in AI",
+      "url": "https://www.investing.com/news/cryptocurrency-news/primexbt-launches-anthropic-preipo-crypto-futures-bringing-new-trading-opportunities-in-ai-5033441",
+      "published": "2026-11-17 15:16:42"
     },
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin pinned at $64k amid rate hike fears; Strategy buys more coins",
+      "title": "Bitrue Research Institute Releases Report Finding Growing Interest in AI-Assisted Crypto Trading",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitrue-research-institute-releases-report-finding-growing-interest-in-aiassisted-crypto-trading-5033440",
+      "published": "2026-11-17 15:16:41"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin flat at $65k amid rate hike fears; Strategy buys more coins",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-65k-amid-rate-hike-fears-strategy-buys-more-coins-5031772",
-      "published": "2026-11-17 10:00:45"
+      "published": "2026-11-17 14:43:24"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Xsolla ZK Introduces a Gas Token Designed to Let Digital Items Move Between Games and Players",
+      "url": "https://www.investing.com/news/cryptocurrency-news/xsolla-zk-introduces-a-gas-token-designed-to-let-digital-items-move-between-games-and-players-5033225",
+      "published": "2026-11-17 14:16:00"
     },
     {
       "source": "Investing.com",
@@ -384,27 +405,6 @@
       "title": "Bitcoin falls below $64,000 as ETF outflows extend to seventh straight day",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
       "published": "2026-11-14 22:19:32"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "XRP Falls 10% In Rout",
-      "url": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-rout-5027520",
-      "published": "2026-11-14 21:34:02"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Litecoin Falls 11% In Rout",
-      "url": "https://www.investing.com/news/cryptocurrency-news/litecoin-falls-11-in-rout-5027513",
-      "published": "2026-11-14 20:55:58"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "EOS Falls 13% In Rout",
-      "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-13-in-rout-5027512",
-      "published": "2026-11-14 20:52:59"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-17T13:26:24.020372+00:00",
+  "fetchedAt": "2026-11-17T22:23:52.725354+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
