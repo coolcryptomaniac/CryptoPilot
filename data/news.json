@@ -3,6 +3,34 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
+      "url": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
+      "published": "Wed, 18 Nov 2026 17:22:03 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
+      "published": "Wed, 18 Nov 2026 16:02:54 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
+      "url": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
+      "published": "Wed, 18 Nov 2026 15:38:38 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
+      "url": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
+      "published": "Wed, 18 Nov 2026 15:23:18 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
       "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
       "published": "Wed, 18 Nov 2026 12:53:34 +0000"
@@ -66,7 +94,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin lower even as Nasdaq rises on Nvidia relief",
+      "title": "Live updates: Bitcoin falls below $63,000 as Anthropic prices IPO at $83, raising nearly $100 billion",
       "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
       "published": "Wed, 18 Nov 2026 07:27:48 +0000"
     },
@@ -141,32 +169,60 @@
       "published": "Tue, 17 Nov 2026 15:11:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
-      "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
-      "published": "Tue, 17 Nov 2026 13:02:56 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
+      "url": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 21:13:58 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
-      "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
-      "published": "Tue, 17 Nov 2026 13:00:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
+      "url": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 20:32:06 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
-      "published": "Tue, 17 Nov 2026 12:16:53 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
+      "url": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 20:20:37 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
-      "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
-      "published": "Tue, 17 Nov 2026 12:00:55 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
+      "url": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 18:27:52 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
+      "url": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 17:05:04 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Polymarket US takes rapid-fire crypto trading format to oil, natural gas",
+      "url": "https://cointelegraph.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
+      "url": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 16:34:20 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
+      "url": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 14:04:50 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -281,67 +337,11 @@
       "published": "Tue, 17 Nov 2026 17:51:53 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
-      "url": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 17:39:41 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
-      "url": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 16:39:43 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
-      "url": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 14:45:49 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
-      "url": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 13:30:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results",
-      "url": "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 13:12:10 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Revolut plans four blockchain-based funds for private markets, chair says",
-      "url": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 12:24:20 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "US senators seek SEC answers on tokenized stock money laundering risks",
-      "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 11:36:26 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
-      "url": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 11:18:18 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin stays below $65k as rate jitters persist; Fed minutes awaited",
+      "title": "Bitcoin dips to $63.4k as rate jitters persist; Fed minutes awaited",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-muted-below-65k-as-rate-tech-jitters-persist-fed-minutes-awaited-5034879",
-      "published": "2026-11-18 10:23:28"
+      "published": "2026-11-18 15:02:42"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-18T13:58:08.771641+00:00",
+  "fetchedAt": "2026-11-18T21:56:40.192438+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
