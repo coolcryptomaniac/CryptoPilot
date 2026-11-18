@@ -3,7 +3,14 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Nvidia tops estimates, issues strong guidance; shares rise",
+      "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+      "url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+      "published": "Wed, 18 Nov 2026 00:46:25 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
       "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
       "published": "Tue, 17 Nov 2026 21:25:50 +0000"
     },
@@ -162,11 +169,32 @@
       "published": "Mon, 16 Nov 2026 21:51:04 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto selloff",
-      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
-      "published": "Mon, 16 Nov 2026 20:35:21 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
+      "url": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 02:39:52 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
+      "url": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 00:16:43 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 17 Nov 2026 22:37:51 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
+      "url": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 17 Nov 2026 22:20:04 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -202,13 +230,6 @@
       "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
       "url": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 17 Nov 2026 16:39:43 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 14:54:40 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -316,25 +337,11 @@
       "published": "Mon, 16 Nov 2026 22:54:57 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "German lawmakers back crypto freezes outside criminal cases",
-      "url": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 22:46:44 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Binance hack may push institutions to outside custody, FalconX exec says",
-      "url": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 22:19:41 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
-      "url": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 20:45:47 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin slips to $64.7k amid ht to risk sentiment; Strategy buys more coins",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-65k-amid-rate-hike-fears-strategy-buys-more-coins-5031772",
+      "published": "2026-11-17 22:39:07"
     },
     {
       "source": "Investing.com",
@@ -349,13 +356,6 @@
       "title": "Bitrue Research Institute Releases Report Finding Growing Interest in AI-Assisted Crypto Trading",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitrue-research-institute-releases-report-finding-growing-interest-in-aiassisted-crypto-trading-5033440",
       "published": "2026-11-17 15:16:41"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin flat at $65k amid rate hike fears; Strategy buys more coins",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-65k-amid-rate-hike-fears-strategy-buys-more-coins-5031772",
-      "published": "2026-11-17 14:43:24"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-17T22:23:52.725354+00:00",
+  "fetchedAt": "2026-11-18T04:21:07.642584+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
