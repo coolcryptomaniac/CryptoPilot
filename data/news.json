@@ -3,6 +3,48 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+      "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+      "published": "Thu, 19 Nov 2026 19:53:42 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+      "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+      "published": "Thu, 19 Nov 2026 18:15:56 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Anthropic gains after IPO, but pulls off highest levels",
+      "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
+      "published": "Thu, 19 Nov 2026 17:01:47 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
+      "published": "Thu, 19 Nov 2026 16:09:28 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+      "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
+      "published": "Thu, 19 Nov 2026 15:20:38 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
+      "url": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
+      "published": "Thu, 19 Nov 2026 13:11:31 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
       "url": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
       "published": "Thu, 19 Nov 2026 12:40:12 +0000"
@@ -45,7 +87,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
+      "title": "Live updates: Bitcoin plunges to lowest since July as Anthropic gains, but broader markets tumble",
       "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
       "published": "Thu, 19 Nov 2026 10:48:26 +0000"
     },
@@ -127,46 +169,67 @@
       "published": "Wed, 18 Nov 2026 15:38:38 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
-      "url": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
-      "published": "Wed, 18 Nov 2026 15:23:18 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+      "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 21:01:42 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
-      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
-      "published": "Wed, 18 Nov 2026 12:53:34 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
+      "url": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 20:33:24 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
-      "url": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
-      "published": "Wed, 18 Nov 2026 12:41:09 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
+      "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 20:06:34 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
-      "url": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
-      "published": "Wed, 18 Nov 2026 12:25:14 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
+      "url": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 18:20:49 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
-      "published": "Wed, 18 Nov 2026 12:15:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Why higher rates could slow Bitcoin buying at treasury firms",
+      "url": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 18:09:32 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
-      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
-      "published": "Wed, 18 Nov 2026 11:42:52 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 18:06:50 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Anthropic shares open at $111.50, 34.3% above $83 IPO price",
+      "url": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 16:07:51 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 13:48:14 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Ethereum’s new DeFi security tool raises questions over censorship",
+      "url": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 13:30:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -234,13 +297,6 @@
     {
       "source": "Cointelegraph",
       "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
       "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
       "url": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 19 Nov 2026 05:27:45 +0000"
@@ -281,67 +337,46 @@
       "published": "Wed, 18 Nov 2026 21:13:58 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
-      "url": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 20:32:06 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
-      "url": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 20:20:37 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
-      "url": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 18:27:52 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
-      "url": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 17:05:04 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Polymarket US takes rapid-fire crypto trading format to oil, natural gas",
-      "url": "https://cointelegraph.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 17:00:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
-      "url": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 16:34:20 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
-      "url": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 14:04:50 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
-      "url": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 13:42:37 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Dinari Launches Tokenized Anthropic Shares on First Day of Nasdaq Trading",
+      "url": "https://www.investing.com/news/cryptocurrency-news/dinari-launches-tokenized-anthropic-shares-on-first-day-of-nasdaq-trading-5039835",
+      "published": "2026-11-19 19:56:08"
     },
     {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin slips to $63.7k amid little relief from rate hike jitters",
+      "title": "Bybit Joins Proof of Talk in Abu Dhabi 2026 as Title Partner and Official Exchange Partner",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bybit-joins-proof-of-talk-in-abu-dhabi-2026-as-title-partner-and-official-exchange-partner-5039600",
+      "published": "2026-11-19 16:53:46"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitrue Among the First CEXs to Support ANTx as Anthropic Debuts on Nasdaq",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitrue-among-the-first-cexs-to-support-antx-as-anthropic-debuts-on-nasdaq-5039570",
+      "published": "2026-11-19 16:23:20"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin pinned at $63.6k amid little relief from rate hike jitters",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-635k-amid-little-relief-from-rate-hike-jitters-5037873",
-      "published": "2026-11-19 12:23:39"
+      "published": "2026-11-19 14:58:43"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Hashi Mainnet is Live With 20-Plus Partners, Bringing Bitcoin Finance to Sui at Scale",
+      "url": "https://www.investing.com/news/cryptocurrency-news/hashi-mainnet-is-live-with-20plus-partners-bringing-bitcoin-finance-to-sui-at-scale-5039228",
+      "published": "2026-11-19 14:21:36"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Black Betty Universe Announces the Launch of Betty Token (BETTY) on Ethereum",
+      "url": "https://www.investing.com/news/cryptocurrency-news/black-betty-universe-announces-the-launch-of-betty-token-betty-on-ethereum-5039229",
+      "published": "2026-11-19 14:21:36"
     },
     {
       "source": "Investing.com",
@@ -370,41 +405,6 @@
       "title": "Crystal Intelligence unveils AI Investigator to speed up crypto investigations",
       "url": "https://www.investing.com/news/cryptocurrency-news/crystal-intelligence-unveils-ai-investigator-to-speed-up-crypto-investigations-5035186",
       "published": "2026-11-18 09:08:37"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin slips to $64.7k amid ht to risk sentiment; Strategy buys more coins",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-65k-amid-rate-hike-fears-strategy-buys-more-coins-5031772",
-      "published": "2026-11-17 22:39:07"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "PrimeXBT Launches Anthropic Pre-IPO Crypto Futures, Bringing New Trading Opportunities in AI",
-      "url": "https://www.investing.com/news/cryptocurrency-news/primexbt-launches-anthropic-preipo-crypto-futures-bringing-new-trading-opportunities-in-ai-5033441",
-      "published": "2026-11-17 15:16:42"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitrue Research Institute Releases Report Finding Growing Interest in AI-Assisted Crypto Trading",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitrue-research-institute-releases-report-finding-growing-interest-in-aiassisted-crypto-trading-5033440",
-      "published": "2026-11-17 15:16:41"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Xsolla ZK Introduces a Gas Token Designed to Let Digital Items Move Between Games and Players",
-      "url": "https://www.investing.com/news/cryptocurrency-news/xsolla-zk-introduces-a-gas-token-designed-to-let-digital-items-move-between-games-and-players-5033225",
-      "published": "2026-11-17 14:16:00"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin muted at $65.2k as crypto sentiment dithers, ETF outflows persist",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-65k-as-crypto-sentiment-dithers-etf-outflows-persist-5028381",
-      "published": "2026-11-16 23:07:16"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-19T13:06:36.449282+00:00",
+  "fetchedAt": "2026-11-19T21:33:55.072866+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
