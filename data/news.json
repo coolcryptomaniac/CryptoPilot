@@ -3,6 +3,20 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+      "url": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
+      "published": "Thu, 19 Nov 2026 00:33:46 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+      "url": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
+      "published": "Wed, 18 Nov 2026 22:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
       "url": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
       "published": "Wed, 18 Nov 2026 17:22:03 +0000"
@@ -94,7 +108,7 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
-      "title": "Live updates: Bitcoin falls below $63,000 as Anthropic prices IPO at $83, raising nearly $100 billion",
+      "title": "Bitcoin falls below $63,000 as Anthropic prices IPO at $83, raising nearly $100 billion",
       "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
       "published": "Wed, 18 Nov 2026 07:27:48 +0000"
     },
@@ -155,18 +169,32 @@
       "published": "Tue, 17 Nov 2026 17:42:40 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
-      "url": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
-      "published": "Tue, 17 Nov 2026 17:00:05 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Trump administration unveils new center to choke off scam payments",
+      "url": "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 01:45:33 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
-      "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
-      "published": "Tue, 17 Nov 2026 15:11:00 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
+      "url": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 00:35:49 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 22:09:15 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
+      "url": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 18 Nov 2026 21:57:35 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -230,13 +258,6 @@
       "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
       "url": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 18 Nov 2026 13:42:37 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 18 Nov 2026 13:34:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -316,32 +337,11 @@
       "published": "Tue, 17 Nov 2026 22:20:04 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
-      "url": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 21:56:35 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
-      "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 20:05:04 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Lighter incident exposes risks beyond withdrawal controls",
-      "url": "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 17 Nov 2026 17:51:53 +0000"
-    },
-    {
       "source": "Investing.com",
       "sourceId": "investing",
-      "title": "Bitcoin dips to $63.4k as rate jitters persist; Fed minutes awaited",
+      "title": "Bitcoin drops to around $62.5k, hits over four-month low amid rate jitters",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-muted-below-65k-as-rate-tech-jitters-persist-fed-minutes-awaited-5034879",
-      "published": "2026-11-18 15:02:42"
+      "published": "2026-11-18 22:46:53"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-18T21:56:40.192438+00:00",
+  "fetchedAt": "2026-11-19T03:27:27.830725+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
