@@ -3,6 +3,27 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+      "published": "Sat, 21 Nov 2026 06:16:42 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+      "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+      "published": "Sat, 21 Nov 2026 05:59:19 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+      "published": "Sat, 21 Nov 2026 04:10:07 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Kalshi races to get ahead of New York order that could shut down exchange",
       "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
       "published": "Fri, 20 Nov 2026 22:51:14 +0000"
@@ -148,25 +169,18 @@
       "published": "Fri, 20 Nov 2026 04:28:52 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
-      "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
-      "published": "Fri, 20 Nov 2026 03:32:30 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+      "url": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 21 Nov 2026 07:51:47 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
-      "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
-      "published": "Thu, 19 Nov 2026 19:53:42 +0000"
-    },
-    {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
-      "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
-      "published": "Thu, 19 Nov 2026 18:15:56 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+      "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 21 Nov 2026 05:40:35 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -323,18 +337,32 @@
       "published": "Thu, 19 Nov 2026 18:09:32 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 18:06:50 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin falls below $56,000 as liquidity squeeze deepens crypto selloff",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-crashes-below-56000-as-liquidity-squeeze-deepens-crypto-selloff-5043199",
+      "published": "2026-11-21 08:46:26"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Anthropic shares open at $111.50, 34.3% above $83 IPO price",
-      "url": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 16:07:51 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin Falls 10% In Rout",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-10-in-rout-5043212",
+      "published": "2026-11-21 06:02:03"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Cardano Falls 10% In Bearish Trade",
+      "url": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-5043202",
+      "published": "2026-11-21 05:57:57"
+    },
+    {
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "XRP Falls 10% In Selloff",
+      "url": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-selloff-5043190",
+      "published": "2026-11-21 05:44:04"
     },
     {
       "source": "Investing.com",
@@ -377,34 +405,6 @@
       "title": "Bitcoin dips, hovers at over four-month low amid rate hike bets, stocks rout",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-635k-amid-little-relief-from-rate-hike-jitters-5037873",
       "published": "2026-11-19 23:08:28"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Dinari Launches Tokenized Anthropic Shares on First Day of Nasdaq Trading",
-      "url": "https://www.investing.com/news/cryptocurrency-news/dinari-launches-tokenized-anthropic-shares-on-first-day-of-nasdaq-trading-5039835",
-      "published": "2026-11-19 19:56:08"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bybit Joins Proof of Talk in Abu Dhabi 2026 as Title Partner and Official Exchange Partner",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bybit-joins-proof-of-talk-in-abu-dhabi-2026-as-title-partner-and-official-exchange-partner-5039600",
-      "published": "2026-11-19 16:53:46"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitrue Among the First CEXs to Support ANTx as Anthropic Debuts on Nasdaq",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitrue-among-the-first-cexs-to-support-antx-as-anthropic-debuts-on-nasdaq-5039570",
-      "published": "2026-11-19 16:23:20"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Hashi Mainnet is Live With 20-Plus Partners, Bringing Bitcoin Finance to Sui at Scale",
-      "url": "https://www.investing.com/news/cryptocurrency-news/hashi-mainnet-is-live-with-20plus-partners-bringing-bitcoin-finance-to-sui-at-scale-5039228",
-      "published": "2026-11-19 14:21:36"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-21T02:14:13.231400+00:00",
+  "fetchedAt": "2026-11-21T09:53:00.044327+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
