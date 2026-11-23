@@ -3,6 +3,41 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Crypto thieves are using online ads to infect iPhones with a single tap, research finds",
+      "url": "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows",
+      "published": "Mon, 23 Nov 2026 07:45:30 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack",
+      "url": "https://www.coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack",
+      "published": "Mon, 23 Nov 2026 07:18:45 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Cardano holders are turning down a $4 million request for running its flagship event",
+      "url": "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event",
+      "published": "Mon, 23 Nov 2026 06:15:45 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
+      "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
+      "published": "Mon, 23 Nov 2026 05:42:22 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
+      "title": "Market rout kills 50 basis points December Fed rate hike bets",
+      "url": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
+      "published": "Mon, 23 Nov 2026 04:45:47 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "More on the pending oversight hearings: State of Crypto",
       "url": "https://www.coindesk.com/",
       "published": "Sun, 22 Nov 2026 19:30:00 +0000"
@@ -134,39 +169,39 @@
       "published": "Fri, 20 Nov 2026 12:15:08 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin drops for third straight day as Asian tech shares slide",
-      "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
-      "published": "Fri, 20 Nov 2026 11:42:02 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 08:08:52 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
-      "url": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
-      "published": "Fri, 20 Nov 2026 10:48:04 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 06:00:00 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
-      "url": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
-      "published": "Fri, 20 Nov 2026 10:02:03 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
+      "url": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 03:37:20 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares",
-      "url": "https://www.coindesk.com/markets/2026/11/20/cathie-wood-s-ark-invest-piled-into-anthropic-ipo-buying-usd90-million-worth-of-shares",
-      "published": "Fri, 20 Nov 2026 09:48:52 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
+      "url": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 02:47:39 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
-      "url": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
-      "published": "Fri, 20 Nov 2026 08:04:40 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+      "url": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 23 Nov 2026 00:53:49 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -181,13 +216,6 @@
       "title": "The future of onchain FX could start with users, not institutional liquidity",
       "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 22 Nov 2026 14:30:00 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 22 Nov 2026 11:25:27 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -309,32 +337,18 @@
       "published": "Fri, 20 Nov 2026 08:18:42 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
-      "url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 08:03:34 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "HAN CHAIN Schedules Launch of Its First Flagship Project, ARGO, for December 18, 2026",
+      "url": "https://www.investing.com/news/cryptocurrency-news/han-chain-schedules-launch-of-its-first-flagship-project-argo-for-december-18-2026-5044584",
+      "published": "2026-11-23 07:59:04"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
-      "url": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 06:24:41 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
-      "url": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 20 Nov 2026 03:33:22 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
-      "url": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 23:44:02 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin rebounds above $61,000 after liquidation-driven selloff",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-61000-after-liquidationdriven-selloff-5044501",
+      "published": "2026-11-23 07:13:18"
     },
     {
       "source": "Investing.com",
@@ -391,20 +405,6 @@
       "title": "Bitcoin on track for seventh straight weekly loss as ETF outflows hit record",
       "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-on-track-for-seventh-straight-weekly-loss-as-etf-outflows-hit-record-93CH-5042182",
       "published": "2026-11-20 15:38:47"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bybit’s Global User Base Surpasses 90 Million as Company Expands Into Traditional Finance",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bybits-global-user-base-surpasses-90-million-as-company-expands-into-traditional-finance-5040899",
-      "published": "2026-11-20 08:08:35"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "CROO Launches CROO Skill, Opening Its AI Agent Network to Claude Code and Codex Users",
-      "url": "https://www.investing.com/news/cryptocurrency-news/croo-launches-croo-skill-opening-its-ai-agent-network-to-claude-code-and-codex-users-5040900",
-      "published": "2026-11-20 08:08:35"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-23T00:53:16.980241+00:00",
+  "fetchedAt": "2026-11-23T09:05:30.712313+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
