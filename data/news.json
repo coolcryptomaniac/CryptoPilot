@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+      "url": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
+      "published": "Thu, 26 Nov 2026 04:46:01 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
       "url": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
       "published": "Wed, 25 Nov 2026 18:24:47 +0000"
@@ -162,11 +169,32 @@
       "published": "Tue, 24 Nov 2026 12:47:40 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
-      "published": "Tue, 24 Nov 2026 12:36:28 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "1Password hacker stole customer names and emails, but vaults safe",
+      "url": "https://cointelegraph.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 26 Nov 2026 04:55:16 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
+      "url": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 26 Nov 2026 04:24:45 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+      "url": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 26 Nov 2026 01:33:20 +0000"
+    },
+    {
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 25 Nov 2026 22:33:13 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -230,13 +258,6 @@
       "title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
       "url": "https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 25 Nov 2026 14:21:36 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 25 Nov 2026 13:26:05 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -316,25 +337,11 @@
       "published": "Wed, 25 Nov 2026 05:32:55 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
-      "url": "https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 25 Nov 2026 04:14:42 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
-      "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 25 Nov 2026 01:40:59 +0000"
-    },
-    {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Hackers breach CIA intelligence network in latest US cyberattack",
-      "url": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 24 Nov 2026 23:48:16 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin recovers after hit from ETF outflows, AI rout, and hot U.S. economic data",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-extends-losses-below-59000-as-etf-outflows-weigh-5049793",
+      "published": "2026-11-25 23:02:43"
     },
     {
       "source": "Investing.com",
@@ -342,13 +349,6 @@
       "title": "SimpleSwap Marks One Year Inside the ELLIPAL App as Swaps Grow Fivefold",
       "url": "https://www.investing.com/news/cryptocurrency-news/simpleswap-marks-one-year-inside-the-ellipal-app-as-swaps-grow-fivefold-5051230",
       "published": "2026-11-25 16:34:12"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Bitcoin slides toward worst month since 2022 as ETF outflows, Fed hike bets bite",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-extends-losses-below-59000-as-etf-outflows-weigh-5049793",
-      "published": "2026-11-25 13:45:07"
     },
     {
       "source": "Investing.com",
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-25T22:32:20.701977+00:00",
+  "fetchedAt": "2026-11-26T05:03:50.791821+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
