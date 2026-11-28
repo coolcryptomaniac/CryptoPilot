@@ -3,6 +3,13 @@
     {
       "source": "CoinDesk",
       "sourceId": "coindesk",
+      "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+      "url": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+      "published": "Sat, 28 Nov 2026 09:32:51 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "sourceId": "coindesk",
       "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
       "url": "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
       "published": "Fri, 27 Nov 2026 13:19:10 +0000"
@@ -162,11 +169,11 @@
       "published": "Thu, 26 Nov 2026 10:40:33 +0000"
     },
     {
-      "source": "CoinDesk",
-      "sourceId": "coindesk",
-      "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
-      "url": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
-      "published": "Thu, 26 Nov 2026 08:01:33 +0000"
+      "source": "Cointelegraph",
+      "sourceId": "cointelegraph",
+      "title": "Binance receives in-principle approval, plans Asia hub in Bhutan",
+      "url": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 28 Nov 2026 07:43:00 +0000"
     },
     {
       "source": "Cointelegraph",
@@ -330,11 +337,11 @@
       "published": "Thu, 26 Nov 2026 18:26:31 +0000"
     },
     {
-      "source": "Cointelegraph",
-      "sourceId": "cointelegraph",
-      "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
-      "url": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 26 Nov 2026 17:39:53 +0000"
+      "source": "Investing.com",
+      "sourceId": "investing",
+      "title": "Bitcoin price falls below $60,000 as whales buy dip, ETF outflows mount",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-falls-below-60k-as-whales-buy-dip-etf-outflows-mount-5054180",
+      "published": "2026-11-28 05:56:50"
     },
     {
       "source": "Investing.com",
@@ -398,13 +405,6 @@
       "title": "Cregis and Centroid Solutions Partner to Expand Digital Asset Payment Capabilities for Financial Institutions",
       "url": "https://www.investing.com/news/cryptocurrency-news/cregis-and-centroid-solutions-partner-to-expand-digital-asset-payment-capabilities-for-financial-institutions-5050091",
       "published": "2026-11-25 09:29:42"
-    },
-    {
-      "source": "Investing.com",
-      "sourceId": "investing",
-      "title": "Simpleswap Bringing Prediction Markets to Its Platform",
-      "url": "https://www.investing.com/news/cryptocurrency-news/simpleswap-bringing-prediction-markets-to-its-platform-5049798",
-      "published": "2026-11-25 06:26:46"
     }
   ],
   "sources": [
@@ -427,7 +427,7 @@
       "error": null
     }
   ],
-  "fetchedAt": "2026-11-28T01:59:29.119260+00:00",
+  "fetchedAt": "2026-11-28T10:27:16.762722+00:00",
   "mode": "github-actions-rss-cache",
   "copyright": "Headlines and publisher links only; full articles remain with their publishers."
 }
